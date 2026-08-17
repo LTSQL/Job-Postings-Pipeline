@@ -1,0 +1,1706 @@
+posting_id,title,company,location,salary_raw,date_posted_raw,remote,seniority
+421,Junior Data Scientist,Vantage Health,manchester,"£32,000 - £42,000",25 Mar 2025,No,Junior
+299,Data Scientist,Orchard Media,Edinburgh,"£85,000",09 Aug 2025,yes,Senior
+631,Data Scientist II,Grove & Co,Leeds,,2026-04-11,N/A,Senior
+1357,Data Analyst,Orchard Media,Remote (UK),£55k-£75k,2026-04-06,,Mid
+985,Junior Data Scientist,Marlowe Consulting,Sheffield,,09 Feb 2026,yes,Mid
+677,Insights Analyst,Kestrel Logistics,Birmingham,Competitive salary,2025-08-16,No,Senior
+519,Insights Analyst,Alderly Bank,Birmingham,"£28,000 - £35,000",27/03/2025,No,Graduate
+1508,Insights Analyst,Kestrel Logistics,Sheffield,Competitive salary,2025-08-09,N/A,Senior
+149,Junior Data Scientist,Fenwick Insurance,Bristol,"£28,000 - £35,000",2025-03-21,yes,Graduate
+855,Insights Analyst,Vantage Health,Birmingham,Competitive salary,2025-03-02,N/A,Senior
+948,Machine Learning Engineer,Grove & Co,Bristol,"£85,000",2025-06-24,,Senior
+1016,Analytics Consultant,Solstice Energy,Glasgow,,13/03/2025,Hybrid,Junior
+757,Data Science Intern,Kestrel Logistics,Birmingham,"£75,000 - £95,000",09/01/2025,N/A,Senior
+933,Insights Analyst,Northwind Analytics,Sheffield,"£32,000 - £42,000",04 Dec 2025,No,
+1562,Business Intelligence Analyst,Alderly Bank,Edinburgh,Competitive salary,2026-04-27,yes,
+953,Machine Learning Engineer,Kestrel Logistics,"Manchester, UK",£75k-£95k,10/09/2025,Yes,Senior
+1098,Data Engineer,BrightPath Retail,Bristol,Competitive salary,2025-07-28,Hybrid,Graduate
+87,Insights Analyst,Redbridge Telecom,Leeds,"£65,000",17 Mar 2026,,
+1425,Data Scientist,Fenwick Insurance,Edinburgh,Competitive salary,08 Jan 2025,,Graduate
+1503,Data Scientist II,Ashford Digital,Liverpool,Competitive salary,2025-09-25,No,Junior
+1469,Business Intelligence Analyst,Vantage Health,"London, UK",,2025-12-03,Hybrid,Mid
+565,Junior Data Scientist,Alderly Bank,london,"£48,000 - £63,000",2025-04-18,,Mid
+923,Junior Data Scientist,Marlowe Consulting,Birmingham,Competitive salary,18 Mar 2026,Yes,
+1111,Machine Learning Engineer,Northwind Analytics,WFH,"£47,500",2026-05-12,Hybrid,
+548,Data Analyst,Grove & Co,Glasgow,,10 Jul 2025,Hybrid,Graduate
+1311,Data Scientist,Fenwick Insurance,Remote (UK),"£31,500",05 Apr 2025,N/A,Graduate
+1474,Insights Analyst,BrightPath Retail,Glasgow,Competitive salary,09/07/2025,Hybrid,Junior
+680,Data Analyst,Solstice Energy,Sheffield,"£32,000 - £42,000",22/08/2025,N/A,Junior
+684,Data Analyst,Fenwick Insurance,Liverpool,,30/10/2025,No,Senior
+315,Data Engineer,Kestrel Logistics,Bristol,Competitive salary,06/04/2025,Hybrid,Graduate
+390,Data Scientist,Ashford Digital,Sheffield,£28k-£35k,05/11/2025,yes,Graduate
+24,Machine Learning Engineer,Orchard Media,WFH,"£28,000 - £35,000",26 Jul 2025,Hybrid,Junior
+1022,Data Engineer,Grove & Co,Manchester,£28k-£35k,23/01/2025,yes,Junior
+470,Analytics Consultant,Marlowe Consulting,Birmingham,,03 Dec 2025,yes,Mid
+785,Data Science Intern,Alderly Bank,Liverpool,£28k-£35k,06/04/2025,Hybrid,Graduate
+1449,Data Science Intern,Redbridge Telecom,Remote (UK),,09 Dec 2025,yes,Junior
+160,Junior Data Scientist,Kestrel Logistics,Manchester,£75k-£95k,2025-11-05,N/A,Senior
+1356,Data Engineer,Orchard Media,Sheffield,"£31,500",24/06/2025,Yes,Graduate
+216,Machine Learning Engineer,Kestrel Logistics,Glasgow,£75k-£95k,2025-03-14,Yes,Senior
+945,Data Scientist,Northwind Analytics,Glasgow,,29 Jun 2025,No,Graduate
+5,Machine Learning Engineer,Fenwick Insurance,Sheffield,Competitive salary,05/03/2025,Yes,Junior
+1012,Junior Data Scientist,Vantage Health,Liverpool,,30 Jul 2025,Yes,Junior
+418,Data Scientist,Alderly Bank,Leeds,"£28,000 - £35,000",2025-08-22,Hybrid,Junior
+804,Business Intelligence Analyst,Alderly Bank,Liverpool,Competitive salary,12 Mar 2026,,Junior
+1490,Data Scientist,Fenwick Insurance,Remote (UK),"£55,000 - £75,000",2025-02-23,Hybrid,
+1135,Data Analyst,Marlowe Consulting,Sheffield,£75k-£95k,01 Oct 2025,No,Senior
+709,Data Science Intern,Orchard Media,Leeds,Competitive salary,11/01/2026,Yes,Mid
+712,Business Intelligence Analyst,Solstice Energy,Work from home,"£28,000 - £35,000",15 Apr 2026,N/A,Graduate
+1046,Data Engineer,Kestrel Logistics,Glasgow,£55k-£75k,14 May 2025,,Senior
+1189,Junior Data Scientist,Vantage Health,Birmingham,"£85,000",2025-02-15,No,Senior
+1238,Data Engineer,BrightPath Retail,Leeds,"£85,000",2025-03-04,Hybrid,Senior
+1082,Data Scientist II,Grove & Co,Edinburgh,£55k-£75k,2025-01-18,No,Mid
+1356,Data Engineer,Orchard Media,Sheffield,"£31,500",24/06/2025,Yes,Graduate
+607,Insights Analyst,Kestrel Logistics,Leeds,Competitive salary,24 Jul 2025,No,Senior
+515,Data Scientist II,Orchard Media,Edinburgh,Competitive salary,04 Jan 2025,No,
+1701,,,,,,,
+436,Machine Learning Engineer,Ashford Digital,Birmingham,£40k-£55k,10 Jun 2025,Yes,
+665,Data Science Intern,Ashford Digital,Greater London,Competitive salary,2025-10-02,No,Senior
+1308,Junior Data Scientist,Fenwick Insurance,"Manchester, UK",£55k-£75k,23 Nov 2025,yes,
+443,Data Engineer,Kestrel Logistics,Birmingham,"£28,000 - £35,000",07 Jul 2025,N/A,Junior
+558,Data Science Intern,BrightPath Retail,Birmingham,,06 Mar 2026,Yes,Mid
+720,Data Scientist,Orchard Media,Work from home,"£31,500",02/04/2025,Yes,Junior
+182,Analytics Consultant,Redbridge Telecom,London,£36k-£43k,2026-03-04,yes,Junior
+151,Business Intelligence Analyst,Kestrel Logistics,Liverpool,"£75,000 - £95,000",26 May 2025,N/A,Senior
+102,Data Science Intern,BrightPath Retail,Leeds,£32k-£42k,13 Sep 2025,Hybrid,
+772,Junior Data Scientist,Ashford Digital,Liverpool,£40k-£55k,2025-03-24,Yes,Mid
+578,Data Engineer,Fenwick Insurance,london,£36k-£43k,2026-05-13,Hybrid,Junior
+533,Data Science Intern,Fenwick Insurance,Liverpool,"£55,000 - £75,000",2026-02-16,No,Mid
+1254,Data Engineer,Solstice Energy,remote,"£37,000",17 Apr 2025,yes,
+249,Insights Analyst,Kestrel Logistics,Leeds,,18 Jan 2026,Hybrid,
+1244,Junior Data Scientist,Orchard Media,Greater London,"£39,500",2025-11-27,Yes,Graduate
+928,Data Science Intern,Solstice Energy,Sheffield,"£37,000",05/02/2026,,Graduate
+913,Data Science Intern,Solstice Energy,Leeds,£75k-£95k,28/03/2026,Yes,Senior
+1186,Junior Data Scientist,Ashford Digital,Birmingham,"£47,500",29/05/2025,yes,
+357,Data Analyst,Kestrel Logistics,Liverpool,£28k-£35k,24/01/2025,Hybrid,Junior
+53,Junior Data Scientist,Grove & Co,manchester,"£28,000 - £35,000",2026-02-24,N/A,Graduate
+1558,Insights Analyst,Orchard Media,Glasgow,Competitive salary,2025-08-14,N/A,
+1485,Data Engineer,Alderly Bank,Glasgow,"£85,000",2025-02-03,No,Senior
+1221,Data Scientist,Orchard Media,Greater London,Competitive salary,29 Dec 2025,Yes,Mid
+89,Data Analyst,Alderly Bank,Leeds,£28k-£35k,02/01/2025,,Graduate
+302,Data Analyst,Redbridge Telecom,Leeds,,28 Apr 2026,No,Graduate
+1442,Business Intelligence Analyst,Redbridge Telecom,Remote (UK),Competitive salary,27/03/2025,yes,Junior
+1578,Insights Analyst,Solstice Energy,Leeds,,15 Oct 2025,yes,Senior
+1273,Junior Data Scientist,Orchard Media,Leeds,"£75,000 - £95,000",06 May 2025,N/A,Senior
+1599,Insights Analyst,Solstice Energy,Glasgow,"£28,000 - £35,000",14/10/2025,yes,Junior
+227,Analytics Consultant,Ashford Digital,Sheffield,"£37,000",19 Jun 2025,Yes,
+1128,Business Intelligence Analyst,Ashford Digital,Leeds,,01 Feb 2025,,Senior
+836,Data Analyst,Alderly Bank,Leeds,,06 Sep 2025,,Mid
+1502,Data Engineer,Fenwick Insurance,"London, UK",Competitive salary,04/02/2025,yes,Junior
+619,Data Analyst,Ashford Digital,london,"£39,500",08/01/2025,N/A,Graduate
+57,Analytics Consultant,Alderly Bank,Glasgow,Competitive salary,2025-08-17,N/A,
+429,Data Science Intern,Ashford Digital,Greater London,"£39,500",07 Jan 2026,No,Graduate
+1113,Insights Analyst,Orchard Media,Leeds,,02 Apr 2026,,Graduate
+1314,Data Scientist II,Vantage Health,Manchester,"£40,000 - £55,000",04 Nov 2025,Hybrid,
+248,Analytics Consultant,Vantage Health,Birmingham,"£28,000 - £35,000",24/11/2025,Hybrid,Graduate
+435,Data Scientist,Alderly Bank,Birmingham,Competitive salary,03/04/2026,No,Senior
+1072,Junior Data Scientist,Marlowe Consulting,Sheffield,"£32,000 - £42,000",03/10/2025,Hybrid,Junior
+1545,Insights Analyst,Northwind Analytics,Birmingham,"£55,000 - £75,000",01 Feb 2025,No,Mid
+672,Data Science Intern,Ashford Digital,Liverpool,"£28,000 - £35,000",18 Dec 2025,Yes,Junior
+1180,Data Analyst,Kestrel Logistics,Sheffield,Competitive salary,14 Apr 2025,Yes,Senior
+439,Data Engineer,Ashford Digital,Edinburgh,"£75,000 - £95,000",2025-12-13,N/A,Senior
+452,Business Intelligence Analyst,Fenwick Insurance,Edinburgh,"£28,000 - £35,000",2025-01-05,N/A,Junior
+284,Data Scientist II,Solstice Energy,London,,09/03/2026,N/A,Mid
+1330,Insights Analyst,Solstice Energy,Bristol,Competitive salary,29/04/2025,N/A,Mid
+1047,Junior Data Scientist,Vantage Health,Leeds,"£28,000 - £35,000",26 Nov 2025,,Junior
+1129,Data Scientist,Vantage Health,manchester,"£85,000",31/12/2025,No,Senior
+681,Analytics Consultant,Solstice Energy,Leeds,"£47,500",2025-07-20,N/A,Mid
+1023,Data Analyst,Fenwick Insurance,Edinburgh,Competitive salary,22/07/2025,Yes,Graduate
+1315,Data Scientist,Kestrel Logistics,Bristol,"£40,000 - £55,000",2026-03-23,Hybrid,
+39,Data Scientist,Northwind Analytics,Edinburgh,,10 Oct 2025,,Senior
+118,Business Intelligence Analyst,Ashford Digital,Bristol,"£40,000 - £55,000",17 Oct 2025,N/A,
+433,Business Intelligence Analyst,Redbridge Telecom,Bristol,"£32,000 - £42,000",20 Mar 2026,yes,Junior
+571,Business Intelligence Analyst,Fenwick Insurance,Glasgow,"£37,000",07/07/2025,Hybrid,Junior
+737,Insights Analyst,Alderly Bank,Edinburgh,£28k-£35k,23/01/2026,No,Junior
+1461,Data Scientist II,Vantage Health,Birmingham,"£75,000 - £95,000",17/08/2025,Hybrid,Senior
+226,Junior Data Scientist,Orchard Media,Sheffield,Competitive salary,01 Mar 2026,yes,Graduate
+1583,Business Intelligence Analyst,Orchard Media,"London, UK","£93,000",2025-06-30,Hybrid,Senior
+683,Analytics Consultant,Alderly Bank,Bristol,Competitive salary,22/02/2025,N/A,Graduate
+101,Analytics Consultant,BrightPath Retail,Greater London,"£55,500",2025-10-10,yes,Mid
+676,Data Scientist II,BrightPath Retail,Leeds,"£31,500",14 Mar 2025,Hybrid,Graduate
+238,Data Engineer,Northwind Analytics,Liverpool,"£32,000 - £42,000",31/07/2025,N/A,Mid
+1443,Data Scientist II,Kestrel Logistics,Sheffield,"£40,000 - £55,000",2026-05-12,Hybrid,Mid
+775,Business Intelligence Analyst,BrightPath Retail,"London, UK",,21/04/2026,No,
+632,Insights Analyst,Alderly Bank,Edinburgh,£28k-£35k,2025-06-12,N/A,Graduate
+1038,Insights Analyst,Solstice Energy,Leeds,"£37,000",23/07/2025,No,
+776,Data Scientist,Ashford Digital,Liverpool,"£85,000",12 May 2026,N/A,Senior
+914,Data Scientist,Marlowe Consulting,Edinburgh,£40k-£55k,17 Feb 2025,yes,Mid
+77,Data Scientist,Marlowe Consulting,Leeds,,2025-10-12,N/A,Mid
+38,Machine Learning Engineer,Kestrel Logistics,Bristol,"£55,000 - £75,000",21/11/2025,Hybrid,Senior
+1518,Data Science Intern,Northwind Analytics,Remote,£40k-£55k,15/05/2026,Hybrid,
+447,Data Science Intern,BrightPath Retail,Liverpool,"£55,000 - £75,000",2025-09-12,yes,Senior
+466,Data Scientist,Fenwick Insurance,Edinburgh,"£28,000 - £35,000",2025-01-24,,Graduate
+274,Machine Learning Engineer,Fenwick Insurance,Remote,£28k-£35k,09/01/2025,yes,Graduate
+1017,Junior Data Scientist,Alderly Bank,Greater London,"£39,500",05 Mar 2025,N/A,Junior
+1531,Insights Analyst,Solstice Energy,Sheffield,"£37,000",27/08/2025,N/A,Junior
+1491,Insights Analyst,BrightPath Retail,Birmingham,£40k-£55k,2026-04-13,,
+1142,Data Analyst,Alderly Bank,Leeds,"£31,500",21 Jan 2025,No,Graduate
+938,Junior Data Scientist,Northwind Analytics,Sheffield,"£32,000 - £42,000",02/06/2025,Yes,Mid
+724,Junior Data Scientist,Ashford Digital,Edinburgh,Competitive salary,29/12/2025,,Graduate
+115,Data Engineer,Solstice Energy,Bristol,,07/04/2026,N/A,Senior
+818,Data Science Intern,Solstice Energy,Glasgow,Competitive salary,04/12/2025,N/A,Junior
+266,Data Science Intern,Marlowe Consulting,Edinburgh,"£47,500",2025-07-12,yes,
+552,Data Engineer,Orchard Media,Sheffield,Competitive salary,18/03/2026,No,Senior
+826,Insights Analyst,Northwind Analytics,Edinburgh,"£37,000",2025-10-21,,Graduate
+1092,Data Scientist II,Solstice Energy,Birmingham,Competitive salary,03 Oct 2025,No,Senior
+685,Insights Analyst,Kestrel Logistics,Liverpool,"£55,000 - £75,000",2025-06-24,N/A,
+400,Analytics Consultant,Alderly Bank,LONDON,"£40,000 - £50,000",31 May 2025,N/A,Junior
+1468,Data Engineer,Orchard Media,Bristol,Competitive salary,2025-07-24,N/A,Senior
+1451,Insights Analyst,Redbridge Telecom,Remote,,2025-04-07,No,Mid
+1056,Data Analyst,Northwind Analytics,LONDON,"£36,000 - £43,000",19 Apr 2025,Yes,Junior
+162,Machine Learning Engineer,Grove & Co,Edinburgh,,15 Aug 2025,Hybrid,
+1362,Junior Data Scientist,Ashford Digital,Birmingham,Competitive salary,31/10/2025,N/A,Mid
+974,Analytics Consultant,Ashford Digital,Glasgow,Competitive salary,03/06/2025,Hybrid,Graduate
+1410,Data Scientist II,Marlowe Consulting,Leeds,"£28,000 - £35,000",2026-01-10,Hybrid,Graduate
+1296,Insights Analyst,BrightPath Retail,remote,£28k-£35k,24 Feb 2026,N/A,Junior
+1462,Data Scientist,Redbridge Telecom,manchester,£32k-£42k,2025-03-31,yes,Junior
+877,Data Science Intern,Ashford Digital,Bristol,"£65,000",2025-09-20,,Senior
+1388,Data Scientist II,Orchard Media,Glasgow,"£47,500",2025-01-13,N/A,Mid
+112,Data Analyst,Solstice Energy,Birmingham,"£31,500",2026-02-12,Hybrid,Junior
+770,Data Scientist II,Marlowe Consulting,Glasgow,"£85,000",29/03/2025,No,Senior
+534,Analytics Consultant,Redbridge Telecom,Remote,£28k-£35k,2025-07-09,yes,Junior
+1692,,,,,,,
+861,Data Scientist,Fenwick Insurance,Leeds,"£55,000 - £75,000",10 May 2025,yes,Senior
+1075,Analytics Consultant,Grove & Co,Leeds,"£75,000 - £95,000",19/02/2026,No,Senior
+545,Data Science Intern,Grove & Co,Edinburgh,,10/06/2025,No,Graduate
+812,Data Engineer,Orchard Media,Glasgow,,02/07/2025,N/A,Graduate
+990,Junior Data Scientist,BrightPath Retail,Bristol,£28k-£35k,2025-10-26,,Graduate
+624,Machine Learning Engineer,BrightPath Retail,LONDON,,18 Sep 2025,Yes,
+1131,Business Intelligence Analyst,Redbridge Telecom,manchester,,06/07/2025,Hybrid,Mid
+502,Data Analyst,Vantage Health,Sheffield,,19/08/2025,yes,Mid
+94,Data Analyst,Redbridge Telecom,"London, UK","£83,000 - £103,000",2025-02-16,N/A,Senior
+128,Data Scientist II,Orchard Media,Sheffield,,12/11/2025,Hybrid,
+1580,Insights Analyst,BrightPath Retail,Manchester,,03 Jan 2026,Yes,Senior
+936,Data Scientist,Marlowe Consulting,Edinburgh,"£55,000 - £75,000",20 Feb 2025,No,Senior
+1224,Data Scientist,Grove & Co,Sheffield,Competitive salary,2025-03-04,No,Junior
+1013,Machine Learning Engineer,BrightPath Retail,"Manchester, UK",,26/03/2025,No,Senior
+980,Junior Data Scientist,Kestrel Logistics,london,"£63,000 - £83,000",02 Mar 2026,No,Senior
+1366,Data Analyst,Fenwick Insurance,Bristol,"£31,500",07/09/2025,No,Junior
+265,Junior Data Scientist,Grove & Co,Remote (UK),"£37,000",28 Apr 2026,N/A,
+736,Data Science Intern,Fenwick Insurance,"Manchester, UK","£31,500",2026-03-05,Yes,Graduate
+581,Data Scientist,Vantage Health,Remote,£32k-£42k,09/04/2025,,Graduate
+275,Insights Analyst,Redbridge Telecom,Work from home,"£47,500",28/04/2025,yes,Mid
+1411,Junior Data Scientist,Vantage Health,Sheffield,"£65,000",22 Oct 2025,yes,Mid
+690,Junior Data Scientist,Grove & Co,Birmingham,,12 Nov 2025,,Graduate
+59,Business Intelligence Analyst,Kestrel Logistics,Bristol,£55k-£75k,2025-03-19,,Senior
+842,Business Intelligence Analyst,Solstice Energy,Work from home,,01/10/2025,N/A,Graduate
+1010,Machine Learning Engineer,Ashford Digital,Bristol,,2025-05-08,yes,Graduate
+703,Data Scientist,Solstice Energy,Glasgow,,30/06/2025,Hybrid,Graduate
+1704,,,,,,,
+1199,Machine Learning Engineer,Orchard Media,Glasgow,"£28,000 - £35,000",03 May 2026,,Junior
+262,Data Scientist,Kestrel Logistics,"London, UK",Competitive salary,2025-04-22,No,
+1235,Insights Analyst,BrightPath Retail,Sheffield,Competitive salary,30/06/2025,N/A,
+1202,Business Intelligence Analyst,Alderly Bank,Leeds,,02 Oct 2025,No,
+1174,Data Scientist,Vantage Health,Manchester,Competitive salary,2026-01-20,yes,Junior
+1533,Data Science Intern,Northwind Analytics,Remote (UK),Competitive salary,01/03/2026,Yes,Senior
+998,Data Engineer,Orchard Media,remote,Competitive salary,16/01/2025,No,
+1408,Data Scientist,Redbridge Telecom,Glasgow,Competitive salary,2026-03-29,Hybrid,Junior
+1152,Insights Analyst,BrightPath Retail,WFH,"£28,000 - £35,000",26 Jan 2026,Yes,Junior
+2,Data Analyst,Redbridge Telecom,Remote,£28k-£35k,30 Apr 2025,yes,Junior
+1053,Data Engineer,Solstice Energy,Birmingham,£40k-£55k,2025-04-13,N/A,
+1191,Data Scientist,Fenwick Insurance,Bristol,,07 Jul 2025,yes,
+1449,Data Science Intern,Redbridge Telecom,Remote (UK),,09 Dec 2025,yes,Junior
+453,Junior Data Scientist,Fenwick Insurance,Edinburgh,"£28,000 - £35,000",10/07/2025,No,Graduate
+271,Data Scientist,Kestrel Logistics,Leeds,Competitive salary,2025-12-27,,
+1117,Business Intelligence Analyst,Kestrel Logistics,Glasgow,"£85,000",2025-08-08,yes,Senior
+339,Insights Analyst,Kestrel Logistics,Liverpool,"£31,500",2026-02-23,,Junior
+29,Data Scientist II,Grove & Co,Glasgow,£40k-£55k,2026-05-11,yes,Mid
+541,Data Analyst,Marlowe Consulting,"Manchester, UK","£75,000 - £95,000",16 Feb 2026,Hybrid,Senior
+1700,,,,,,,
+916,Business Intelligence Analyst,Ashford Digital,Remote (UK),"£31,500",13 May 2025,yes,Junior
+1430,Data Scientist,Alderly Bank,london,"£83,000 - £103,000",26 Mar 2026,No,Senior
+11,Analytics Consultant,Alderly Bank,Bristol,Competitive salary,08 Aug 2025,,Mid
+1039,Analytics Consultant,Solstice Energy,Remote (UK),£32k-£42k,24/02/2026,Yes,Graduate
+573,Data Scientist,Ashford Digital,Glasgow,,13/02/2026,yes,Senior
+1393,Analytics Consultant,Orchard Media,Bristol,,15/10/2025,,Junior
+972,Machine Learning Engineer,Vantage Health,Edinburgh,"£28,000 - £35,000",02 May 2025,yes,Graduate
+1222,Insights Analyst,Orchard Media,london,£48k-£63k,03 May 2025,No,
+849,Insights Analyst,Ashford Digital,Liverpool,"£32,000 - £42,000",25 Nov 2025,No,
+442,Data Science Intern,Grove & Co,Birmingham,£40k-£55k,26/03/2025,Yes,
+31,Data Scientist,Marlowe Consulting,Manchester,£28k-£35k,2025-07-26,yes,Junior
+551,Junior Data Scientist,Solstice Energy,"Manchester, UK","£37,000",2025-12-19,Yes,Graduate
+1264,Data Science Intern,Orchard Media,Remote,,2025-04-16,No,Mid
+1193,Insights Analyst,Grove & Co,london,£36k-£43k,2026-03-13,Hybrid,Graduate
+555,Insights Analyst,Grove & Co,Leeds,Competitive salary,10/08/2025,No,Senior
+1024,Data Engineer,Kestrel Logistics,manchester,"£75,000 - £95,000",25 Jul 2025,Hybrid,Senior
+138,Insights Analyst,Alderly Bank,Manchester,,02 Nov 2025,Hybrid,Senior
+1024,Data Engineer,Kestrel Logistics,manchester,"£75,000 - £95,000",25 Jul 2025,Hybrid,Senior
+530,Insights Analyst,Fenwick Insurance,Sheffield,,10 Oct 2025,,
+638,Data Engineer,BrightPath Retail,Birmingham,"£37,000",20/03/2026,No,Graduate
+1078,Data Analyst,Marlowe Consulting,Bristol,"£55,000 - £75,000",09/03/2025,yes,Mid
+1147,Insights Analyst,Marlowe Consulting,Leeds,"£47,500",15 Apr 2025,N/A,Mid
+930,Data Analyst,Redbridge Telecom,Sheffield,,23 Jun 2025,Yes,
+47,Data Scientist,BrightPath Retail,Sheffield,,07 Nov 2025,Yes,Senior
+129,Data Scientist,Ashford Digital,Edinburgh,£55k-£75k,14/03/2026,Yes,
+722,Data Engineer,Redbridge Telecom,manchester,"£55,000 - £75,000",2025-02-07,yes,Senior
+114,Junior Data Scientist,BrightPath Retail,Sheffield,,13 Apr 2026,No,Graduate
+1368,Data Scientist II,Alderly Bank,Greater London,"£36,000 - £43,000",2025-09-08,Hybrid,Junior
+1085,Data Scientist II,Kestrel Logistics,Greater London,"£45,000",22 Dec 2025,Yes,Graduate
+750,Analytics Consultant,Ashford Digital,Leeds,"£85,000",2025-03-07,N/A,Senior
+374,Data Analyst,Redbridge Telecom,Sheffield,"£28,000 - £35,000",12 Apr 2025,,Junior
+1317,Data Analyst,Redbridge Telecom,Glasgow,"£31,500",04/08/2025,No,Junior
+284,Data Scientist II,Solstice Energy,London,,09/03/2026,N/A,Mid
+1310,Data Science Intern,Marlowe Consulting,Leeds,"£28,000 - £35,000",2025-04-15,No,Graduate
+794,Machine Learning Engineer,BrightPath Retail,Liverpool,£32k-£42k,23/09/2025,Hybrid,Mid
+1382,Machine Learning Engineer,Orchard Media,WFH,"£65,000",2026-04-13,Hybrid,
+655,Data Scientist,BrightPath Retail,Bristol,"£75,000 - £95,000",24/01/2026,yes,Senior
+1538,Data Engineer,Fenwick Insurance,london,,14/01/2025,N/A,
+158,Data Scientist II,BrightPath Retail,Work from home,"£85,000",2026-02-03,Yes,Senior
+368,Data Engineer,BrightPath Retail,Leeds,£28k-£35k,2025-02-24,,Graduate
+508,Business Intelligence Analyst,Marlowe Consulting,Liverpool,,25 Apr 2025,N/A,Mid
+219,Data Scientist,BrightPath Retail,Remote (UK),£40k-£55k,26/10/2025,Yes,
+181,Machine Learning Engineer,Alderly Bank,Birmingham,£75k-£95k,24 Jan 2026,,Senior
+666,Insights Analyst,Grove & Co,Edinburgh,"£31,500",2026-03-07,Hybrid,Junior
+1158,Data Engineer,Grove & Co,Remote,"£40,000 - £55,000",2025-04-25,Hybrid,
+1054,Junior Data Scientist,Kestrel Logistics,Bristol,£32k-£42k,10/02/2025,Yes,
+1571,Insights Analyst,Grove & Co,Birmingham,"£47,500",25/01/2026,Yes,
+1588,Machine Learning Engineer,Alderly Bank,Birmingham,£28k-£35k,25/10/2025,yes,Junior
+669,Analytics Consultant,Vantage Health,Leeds,"£37,000",2026-02-06,No,Mid
+1144,Machine Learning Engineer,Grove & Co,Sheffield,Competitive salary,16 May 2025,No,Senior
+173,Data Scientist II,Marlowe Consulting,Liverpool,Competitive salary,2025-07-12,No,Senior
+1501,Data Engineer,Fenwick Insurance,Glasgow,Competitive salary,2026-04-05,N/A,Graduate
+1303,Data Science Intern,BrightPath Retail,Glasgow,Competitive salary,29 Dec 2025,N/A,
+677,Insights Analyst,Kestrel Logistics,Birmingham,Competitive salary,2025-08-16,No,Senior
+1045,Business Intelligence Analyst,Ashford Digital,Edinburgh,,20/04/2026,N/A,Senior
+1138,Junior Data Scientist,Redbridge Telecom,Bristol,Competitive salary,01 Feb 2025,No,Senior
+1088,Analytics Consultant,BrightPath Retail,Liverpool,£32k-£42k,18 Mar 2026,N/A,Mid
+753,Data Analyst,Orchard Media,Liverpool,,2025-05-23,N/A,Mid
+881,Analytics Consultant,Vantage Health,Birmingham,Competitive salary,07/08/2025,yes,Senior
+1035,Data Analyst,Solstice Energy,Manchester,£28k-£35k,2025-03-06,No,Junior
+1068,Data Engineer,Redbridge Telecom,Sheffield,,01 Dec 2025,yes,Senior
+1374,Data Engineer,Vantage Health,Glasgow,,2025-05-25,No,
+1421,Analytics Consultant,Orchard Media,LONDON,Competitive salary,2026-02-26,N/A,Senior
+862,Data Science Intern,Vantage Health,Work from home,Competitive salary,02/04/2025,No,Mid
+1476,Data Science Intern,Northwind Analytics,Bristol,Competitive salary,09/03/2025,yes,Mid
+941,Analytics Consultant,Marlowe Consulting,Remote,,2025-11-21,Yes,
+300,Junior Data Scientist,Vantage Health,Edinburgh,£40k-£55k,09/05/2026,Hybrid,
+51,Data Science Intern,Grove & Co,Birmingham,"£37,000",2025-05-27,,
+276,Data Engineer,Solstice Energy,Liverpool,,2025-08-24,N/A,Senior
+197,Data Scientist,BrightPath Retail,Work from home,"£28,000 - £35,000",15 Mar 2025,N/A,Graduate
+1369,Data Engineer,Vantage Health,Sheffield,,2025-06-01,N/A,
+351,Data Scientist II,Fenwick Insurance,Remote (UK),,2026-01-09,Yes,Junior
+516,Analytics Consultant,Alderly Bank,Leeds,£28k-£35k,2025-03-18,No,Graduate
+334,Analytics Consultant,Vantage Health,Edinburgh,Competitive salary,13/03/2026,Hybrid,Senior
+531,Junior Data Scientist,Fenwick Insurance,Liverpool,Competitive salary,26 Jun 2025,,Senior
+1260,Data Scientist,Solstice Energy,Bristol,,10/01/2026,No,Junior
+1044,Insights Analyst,BrightPath Retail,Remote,Competitive salary,2025-03-25,,Junior
+252,Data Engineer,Redbridge Telecom,Liverpool,Competitive salary,2025-08-15,N/A,Mid
+702,Data Engineer,Solstice Energy,"Manchester, UK",Competitive salary,28/01/2025,yes,Graduate
+1526,Machine Learning Engineer,Fenwick Insurance,Glasgow,,27/04/2025,Hybrid,Mid
+568,Business Intelligence Analyst,Solstice Energy,Birmingham,"£28,000 - £35,000",18 Jan 2025,Hybrid,Graduate
+193,Data Science Intern,Ashford Digital,Glasgow,,21/12/2025,Hybrid,Senior
+979,Data Engineer,Vantage Health,Birmingham,"£85,000",10 Mar 2026,No,Senior
+1294,Data Analyst,Solstice Energy,Greater London,"£63,000 - £83,000",2026-04-20,Hybrid,
+1232,Data Scientist II,Grove & Co,Bristol,Competitive salary,30/04/2026,No,
+480,Insights Analyst,Solstice Energy,Leeds,£28k-£35k,31/05/2025,No,Graduate
+1435,Data Science Intern,Fenwick Insurance,Bristol,"£75,000 - £95,000",2025-09-20,Hybrid,Senior
+6,Data Scientist II,Vantage Health,Sheffield,"£28,000 - £35,000",24 Jan 2025,No,Graduate
+591,Analytics Consultant,Vantage Health,Sheffield,,01/06/2025,yes,Junior
+844,Analytics Consultant,Ashford Digital,Edinburgh,"£28,000 - £35,000",20 Dec 2025,No,Junior
+1592,Data Scientist II,Alderly Bank,Bristol,£40k-£55k,2025-05-06,,
+1173,Data Scientist II,Ashford Digital,Bristol,,05 Feb 2026,N/A,
+232,Data Engineer,Marlowe Consulting,Edinburgh,"£37,000",2026-05-05,,Graduate
+971,Data Science Intern,Marlowe Consulting,Edinburgh,£28k-£35k,29/08/2025,yes,Graduate
+35,Data Scientist II,Kestrel Logistics,Liverpool,"£40,000 - £55,000",2026-03-27,Hybrid,Mid
+778,Data Analyst,Vantage Health,"London, UK",,2025-07-02,Hybrid,Graduate
+96,Analytics Consultant,Vantage Health,Birmingham,,28/06/2025,Hybrid,
+1185,Junior Data Scientist,Alderly Bank,Glasgow,£28k-£35k,18 Feb 2026,N/A,Junior
+1182,Data Scientist,Fenwick Insurance,manchester,"£31,500",06/05/2026,yes,Junior
+728,Data Scientist II,Northwind Analytics,remote,"£75,000 - £95,000",19 Nov 2025,Hybrid,Senior
+472,Analytics Consultant,Alderly Bank,Birmingham,Competitive salary,17/03/2026,N/A,Graduate
+9,Analytics Consultant,Orchard Media,Bristol,£55k-£75k,2026-02-25,Hybrid,Senior
+1404,Data Science Intern,Vantage Health,Bristol,Competitive salary,2025-11-29,No,Graduate
+798,Business Intelligence Analyst,Northwind Analytics,Manchester,£40k-£55k,2025-06-07,No,Mid
+50,Business Intelligence Analyst,Grove & Co,Work from home,Competitive salary,2025-03-07,,
+725,Data Science Intern,Orchard Media,"Manchester, UK",,04 May 2026,,Mid
+1536,Business Intelligence Analyst,Alderly Bank,Manchester,£28k-£35k,04/10/2025,Yes,Graduate
+1446,Data Engineer,Alderly Bank,Liverpool,£32k-£42k,2025-06-26,,Junior
+1196,Data Analyst,Orchard Media,remote,"£40,000 - £55,000",12/06/2025,yes,
+1018,Data Science Intern,Alderly Bank,"Manchester, UK",£28k-£35k,14/08/2025,No,Junior
+633,Data Scientist,Fenwick Insurance,WFH,"£85,000",2025-03-19,Yes,Senior
+1335,Data Scientist,Redbridge Telecom,Edinburgh,"£28,000 - £35,000",24 Jun 2025,yes,Graduate
+1110,Insights Analyst,Solstice Energy,Birmingham,"£37,000",2026-03-06,yes,Mid
+1565,Data Scientist II,Alderly Bank,Edinburgh,Competitive salary,26 Apr 2025,No,Junior
+755,Insights Analyst,Northwind Analytics,Remote,Competitive salary,18/01/2025,yes,Junior
+146,Insights Analyst,Redbridge Telecom,Liverpool,"£28,000 - £35,000",03/04/2025,N/A,Graduate
+853,Data Science Intern,Orchard Media,Sheffield,Competitive salary,28 Nov 2025,N/A,Junior
+1200,Business Intelligence Analyst,Vantage Health,Birmingham,"£37,000",2025-07-27,Hybrid,Mid
+1239,Data Scientist,Ashford Digital,Edinburgh,£40k-£55k,2025-10-15,,
+645,Analytics Consultant,Redbridge Telecom,Leeds,"£31,500",21 Dec 2025,N/A,Junior
+408,Data Engineer,Alderly Bank,"London, UK",£40k-£50k,26 Feb 2026,No,Junior
+575,Junior Data Scientist,Ashford Digital,WFH,"£40,000 - £55,000",05 Aug 2025,No,Mid
+1486,Insights Analyst,Solstice Energy,Glasgow,£32k-£42k,2026-02-12,,Graduate
+868,Data Scientist,Solstice Energy,Edinburgh,"£55,000 - £75,000",10 Mar 2026,No,
+180,Data Scientist II,Fenwick Insurance,Leeds,£28k-£35k,15/01/2025,Yes,Junior
+582,Data Scientist,BrightPath Retail,Leeds,"£40,000 - £55,000",12/04/2025,N/A,
+1559,Business Intelligence Analyst,Grove & Co,Liverpool,"£85,000",24/06/2025,yes,Senior
+202,Analytics Consultant,Kestrel Logistics,Manchester,£32k-£42k,06 Apr 2026,,Junior
+968,Analytics Consultant,Marlowe Consulting,Edinburgh,"£28,000 - £35,000",01 Nov 2025,Yes,Junior
+857,Analytics Consultant,Orchard Media,Birmingham,"£47,500",08 Jan 2026,No,Mid
+878,Analytics Consultant,Orchard Media,Glasgow,"£32,000 - £42,000",23/01/2026,Hybrid,Graduate
+1146,Junior Data Scientist,Vantage Health,Greater London,,30 Apr 2026,Hybrid,Graduate
+1515,Junior Data Scientist,Fenwick Insurance,Birmingham,£40k-£55k,09 Nov 2025,No,
+711,Data Scientist II,Kestrel Logistics,WFH,£40k-£55k,29/09/2025,Yes,
+60,Junior Data Scientist,Ashford Digital,Leeds,"£65,000",05/10/2025,,
+732,Data Scientist II,Solstice Energy,Liverpool,"£28,000 - £35,000",19 Jan 2025,No,Graduate
+1475,Machine Learning Engineer,Solstice Energy,Glasgow,Competitive salary,30 Jun 2025,,Mid
+1361,Data Scientist,BrightPath Retail,Edinburgh,,29/05/2025,N/A,
+517,Machine Learning Engineer,Redbridge Telecom,"Manchester, UK","£65,000",2026-01-04,,Mid
+341,Business Intelligence Analyst,Alderly Bank,remote,Competitive salary,2025-10-16,yes,Mid
+282,Insights Analyst,Marlowe Consulting,Bristol,"£75,000 - £95,000",11/07/2025,,Senior
+815,Junior Data Scientist,Orchard Media,Sheffield,Competitive salary,2025-11-16,Yes,Mid
+3,Data Scientist,Marlowe Consulting,Leeds,Competitive salary,2025-05-23,No,Mid
+1382,Machine Learning Engineer,Orchard Media,WFH,"£65,000",2026-04-13,Hybrid,
+640,Insights Analyst,Marlowe Consulting,Liverpool,,2025-08-22,No,Graduate
+586,Data Analyst,Orchard Media,Leeds,Competitive salary,21/03/2025,Yes,Junior
+1330,Insights Analyst,Solstice Energy,Bristol,Competitive salary,29/04/2025,N/A,Mid
+419,Data Engineer,Vantage Health,Edinburgh,"£32,000 - £42,000",2025-12-15,No,Graduate
+781,Machine Learning Engineer,Orchard Media,Birmingham,"£85,000",07/01/2025,Hybrid,Senior
+956,Data Analyst,Alderly Bank,Bristol,£28k-£35k,11 Mar 2026,Yes,Graduate
+965,Analytics Consultant,Northwind Analytics,Bristol,"£28,000 - £35,000",2025-10-14,Hybrid,Junior
+1246,Machine Learning Engineer,Solstice Energy,Sheffield,,10 Sep 2025,Yes,
+978,Data Analyst,Alderly Bank,Bristol,"£40,000 - £55,000",2026-05-15,No,Mid
+1347,Data Engineer,Fenwick Insurance,Sheffield,,25/03/2026,No,
+106,Data Scientist II,Marlowe Consulting,WFH,£75k-£95k,20/10/2025,No,Senior
+661,Data Scientist II,Grove & Co,Leeds,"£47,500",2026-02-09,Hybrid,Mid
+1106,Data Science Intern,Fenwick Insurance,"Manchester, UK",£28k-£35k,2026-04-29,No,Junior
+994,Data Scientist,Marlowe Consulting,Leeds,"£47,500",04 Jun 2025,N/A,Mid
+324,Analytics Consultant,Redbridge Telecom,Glasgow,"£31,500",01 Feb 2026,Hybrid,Graduate
+1103,Data Scientist,Grove & Co,Liverpool,,18 Oct 2025,Hybrid,Mid
+952,Data Analyst,Solstice Energy,Edinburgh,£32k-£42k,2026-01-16,Hybrid,
+663,Insights Analyst,Redbridge Telecom,london,"£55,500",18 Apr 2026,,Mid
+450,Insights Analyst,Grove & Co,Glasgow,"£28,000 - £35,000",09/04/2026,N/A,Junior
+800,Data Engineer,BrightPath Retail,Greater London,,02/03/2025,Yes,Graduate
+260,Analytics Consultant,Fenwick Insurance,Birmingham,"£32,000 - £42,000",19 Feb 2026,,Mid
+1218,Data Science Intern,Kestrel Logistics,Sheffield,£32k-£42k,26 Apr 2026,,Junior
+1334,Data Engineer,Kestrel Logistics,remote,"£37,000",17 Jan 2025,Hybrid,
+1404,Data Science Intern,Vantage Health,Bristol,Competitive salary,2025-11-29,No,Graduate
+821,Analytics Consultant,Redbridge Telecom,Remote (UK),"£85,000",2025-02-01,yes,Senior
+1519,Data Scientist,Ashford Digital,Leeds,"£85,000",13/01/2025,,Senior
+1341,Machine Learning Engineer,Solstice Energy,Liverpool,Competitive salary,2026-04-26,Hybrid,
+717,Insights Analyst,BrightPath Retail,Greater London,"£40,000 - £50,000",14 Feb 2025,No,Mid
+1325,Data Engineer,Orchard Media,Liverpool,"£28,000 - £35,000",2025-02-09,No,Junior
+184,Data Science Intern,Grove & Co,Sheffield,,02 Nov 2025,Yes,Junior
+1094,Insights Analyst,Marlowe Consulting,Leeds,Competitive salary,2025-08-05,yes,Senior
+71,Data Analyst,Ashford Digital,Bristol,"£31,500",30/09/2025,N/A,Graduate
+130,Machine Learning Engineer,Marlowe Consulting,Edinburgh,£40k-£55k,2026-05-11,,
+364,Data Science Intern,Ashford Digital,Bristol,,2025-09-09,No,Mid
+1505,Data Scientist II,Vantage Health,"Manchester, UK",£32k-£42k,25/09/2025,Yes,Mid
+549,Analytics Consultant,Redbridge Telecom,Bristol,,24 Apr 2025,No,Mid
+1213,Data Scientist II,BrightPath Retail,Glasgow,£75k-£95k,25/04/2025,yes,Senior
+1057,Data Science Intern,Redbridge Telecom,Liverpool,"£65,000",06/11/2025,Hybrid,
+1372,Business Intelligence Analyst,Solstice Energy,Liverpool,,21 Feb 2025,yes,Senior
+946,Insights Analyst,Marlowe Consulting,Bristol,"£37,000",15/02/2025,N/A,Mid
+1034,Data Engineer,Grove & Co,Leeds,£28k-£35k,15 Aug 2025,Yes,Graduate
+1172,Data Analyst,Northwind Analytics,Sheffield,,2026-01-16,N/A,Mid
+345,Data Engineer,Marlowe Consulting,Sheffield,"£40,000 - £55,000",2026-02-06,,
+76,Analytics Consultant,Kestrel Logistics,Edinburgh,Competitive salary,26/12/2025,yes,Senior
+766,Data Analyst,Orchard Media,Birmingham,£28k-£35k,2025-05-22,N/A,Junior
+393,Data Analyst,Fenwick Insurance,Bristol,,13 Aug 2025,,Junior
+983,Data Engineer,Marlowe Consulting,Work from home,£75k-£95k,2026-04-17,yes,Senior
+1577,Data Science Intern,Grove & Co,Bristol,"£28,000 - £35,000",01/01/2026,No,Junior
+995,Business Intelligence Analyst,Kestrel Logistics,Sheffield,"£28,000 - £35,000",30/01/2026,Hybrid,Graduate
+206,Business Intelligence Analyst,Orchard Media,Glasgow,£32k-£42k,13/05/2026,N/A,
+298,Machine Learning Engineer,Vantage Health,Leeds,,2025-02-24,Hybrid,Graduate
+713,Machine Learning Engineer,Orchard Media,Sheffield,"£85,000",2026-02-15,Hybrid,Senior
+209,Machine Learning Engineer,Marlowe Consulting,Bristol,Competitive salary,2025-05-21,N/A,Senior
+1429,Insights Analyst,Solstice Energy,Manchester,"£28,000 - £35,000",06/04/2025,yes,Junior
+1207,Junior Data Scientist,Redbridge Telecom,remote,£75k-£95k,13 May 2026,yes,Senior
+1697,,,,,,,
+1122,Junior Data Scientist,Alderly Bank,Edinburgh,"£37,000",08 Aug 2025,N/A,Mid
+75,Analytics Consultant,Redbridge Telecom,Sheffield,,12/03/2026,No,Senior
+1156,Data Scientist II,BrightPath Retail,London,"£36,000 - £43,000",19/09/2025,No,Junior
+1276,Business Intelligence Analyst,Vantage Health,Leeds,Competitive salary,04/03/2025,,Graduate
+1263,Business Intelligence Analyst,Kestrel Logistics,"Manchester, UK",£28k-£35k,28 Mar 2026,N/A,Junior
+191,Data Scientist,Kestrel Logistics,LONDON,Competitive salary,31/08/2025,Yes,Senior
+338,Data Engineer,Orchard Media,"Manchester, UK",£28k-£35k,2025-09-02,No,Junior
+192,Data Engineer,Vantage Health,Edinburgh,"£75,000 - £95,000",14/02/2026,,Senior
+664,Analytics Consultant,Northwind Analytics,Birmingham,Competitive salary,04/04/2026,,Mid
+279,Analytics Consultant,Fenwick Insurance,Greater London,,2025-01-09,yes,Graduate
+242,Data Scientist,Northwind Analytics,Bristol,,25 Nov 2025,yes,Senior
+1501,Data Engineer,Fenwick Insurance,Glasgow,Competitive salary,2026-04-05,N/A,Graduate
+1282,Business Intelligence Analyst,Kestrel Logistics,"London, UK",,05/08/2025,Yes,Senior
+1343,Analytics Consultant,Alderly Bank,Leeds,£32k-£42k,28 Feb 2025,Yes,Mid
+46,Data Scientist II,Orchard Media,Liverpool,"£31,500",02 Apr 2025,Hybrid,Junior
+1167,Data Engineer,Ashford Digital,Manchester,£55k-£75k,2026-03-12,Hybrid,Senior
+1510,Junior Data Scientist,Fenwick Insurance,Liverpool,"£31,500",16 May 2025,No,Graduate
+658,Business Intelligence Analyst,Orchard Media,Sheffield,£75k-£95k,11 Nov 2025,,Senior
+1063,Data Analyst,Ashford Digital,Work from home,£28k-£35k,22 Mar 2026,yes,Graduate
+967,Data Scientist,Solstice Energy,WFH,"£37,000",30 Nov 2025,Yes,
+970,Insights Analyst,Solstice Energy,Birmingham,"£32,000 - £42,000",07/03/2025,yes,Mid
+872,Data Analyst,Orchard Media,Edinburgh,"£75,000 - £95,000",11/02/2025,N/A,Senior
+251,Data Scientist II,Solstice Energy,Liverpool,"£28,000 - £35,000",01 Mar 2026,yes,Junior
+905,Machine Learning Engineer,Alderly Bank,Bristol,"£32,000 - £42,000",20 Mar 2025,Hybrid,Graduate
+605,Business Intelligence Analyst,Kestrel Logistics,Leeds,Competitive salary,19 Sep 2025,yes,Junior
+561,Data Scientist II,Alderly Bank,Bristol,,2026-04-01,,Senior
+521,Analytics Consultant,Alderly Bank,Leeds,Competitive salary,2026-02-25,yes,Graduate
+483,Junior Data Scientist,Fenwick Insurance,Sheffield,,09 Feb 2026,yes,Graduate
+784,Data Scientist II,Fenwick Insurance,"Manchester, UK","£32,000 - £42,000",29 Jul 2025,Hybrid,
+1071,Data Scientist,Vantage Health,Greater London,,05/08/2025,Hybrid,Graduate
+535,Data Scientist,Ashford Digital,WFH,Competitive salary,2025-01-30,N/A,Graduate
+415,Data Analyst,Kestrel Logistics,Birmingham,"£47,500",09/01/2026,yes,
+230,Data Science Intern,Alderly Bank,Leeds,£28k-£35k,10/01/2025,Hybrid,Graduate
+1019,Data Engineer,Ashford Digital,Greater London,"£63,000 - £83,000",05 Mar 2026,yes,Mid
+494,Data Scientist II,Northwind Analytics,Sheffield,"£28,000 - £35,000",03 Jul 2025,Yes,Graduate
+1542,Analytics Consultant,Vantage Health,Liverpool,"£32,000 - £42,000",14/07/2025,,
+1322,Insights Analyst,Orchard Media,Greater London,,28/01/2026,N/A,
+344,Junior Data Scientist,Kestrel Logistics,Bristol,"£40,000 - £55,000",11 Mar 2026,Hybrid,Mid
+557,Data Scientist II,Marlowe Consulting,Edinburgh,Competitive salary,16 Mar 2026,Yes,Senior
+1448,Data Science Intern,Alderly Bank,Edinburgh,"£47,500",24 Feb 2026,N/A,
+1030,Data Engineer,Ashford Digital,remote,"£28,000 - £35,000",12/03/2025,,Graduate
+104,Data Science Intern,Kestrel Logistics,Sheffield,,24 Jun 2025,Hybrid,Junior
+1386,Data Scientist II,Kestrel Logistics,Edinburgh,£55k-£75k,2025-05-29,Hybrid,Mid
+667,Data Science Intern,Grove & Co,Liverpool,£32k-£42k,2025-11-01,Hybrid,Graduate
+1104,Data Scientist,Ashford Digital,Edinburgh,,04/04/2025,Hybrid,Graduate
+372,Data Science Intern,Solstice Energy,Liverpool,"£32,000 - £42,000",2026-02-16,Yes,Junior
+674,Data Engineer,Fenwick Insurance,Leeds,Competitive salary,13/06/2025,N/A,Senior
+449,Analytics Consultant,Kestrel Logistics,Glasgow,"£32,000 - £42,000",2025-12-10,Yes,Mid
+1548,Machine Learning Engineer,Vantage Health,Sheffield,"£31,500",15/01/2025,Yes,Junior
+481,Data Analyst,Alderly Bank,Birmingham,,23 May 2025,Hybrid,
+337,Machine Learning Engineer,Vantage Health,manchester,,17/11/2025,N/A,Mid
+1467,Data Engineer,Redbridge Telecom,Bristol,"£28,000 - £35,000",11 Jul 2025,,Graduate
+728,Data Scientist II,Northwind Analytics,remote,"£75,000 - £95,000",19 Nov 2025,Hybrid,Senior
+1309,Data Engineer,Kestrel Logistics,Bristol,£40k-£55k,14 Apr 2025,No,
+7,Business Intelligence Analyst,BrightPath Retail,Leeds,,22/11/2025,No,
+1534,Data Scientist,Kestrel Logistics,Edinburgh,£40k-£55k,27 Oct 2025,Hybrid,Mid
+553,Data Scientist II,Vantage Health,Leeds,"£47,500",05/04/2025,,
+854,Data Engineer,BrightPath Retail,Glasgow,"£75,000 - £95,000",25 Jul 2025,,Senior
+426,Insights Analyst,Redbridge Telecom,Bristol,"£32,000 - £42,000",22/06/2025,N/A,Junior
+556,Junior Data Scientist,Ashford Digital,Birmingham,,2025-09-13,N/A,Junior
+1472,Machine Learning Engineer,Marlowe Consulting,WFH,"£31,500",24/06/2025,Hybrid,Graduate
+626,Data Scientist,Northwind Analytics,Leeds,,2026-01-17,Yes,Senior
+546,Insights Analyst,Vantage Health,Birmingham,£40k-£55k,2026-01-12,Hybrid,
+194,Data Scientist II,Vantage Health,"Manchester, UK",,2025-11-05,yes,
+1353,Data Engineer,Fenwick Insurance,Leeds,"£65,000",2026-01-19,N/A,Mid
+204,Junior Data Scientist,Fenwick Insurance,Liverpool,£28k-£35k,02/05/2025,Yes,Junior
+34,Business Intelligence Analyst,Solstice Energy,Edinburgh,Competitive salary,2025-10-16,Yes,Junior
+719,Data Analyst,Grove & Co,Glasgow,"£47,500",2025-03-24,Hybrid,
+1350,Data Engineer,Fenwick Insurance,Liverpool,Competitive salary,17 Jan 2025,N/A,Mid
+355,Machine Learning Engineer,Orchard Media,Bristol,,22 Aug 2025,Hybrid,Senior
+919,Junior Data Scientist,Ashford Digital,Remote (UK),"£37,000",22 Sep 2025,No,Mid
+1145,Data Science Intern,Redbridge Telecom,Bristol,"£31,500",23 Apr 2025,Hybrid,Junior
+1051,Business Intelligence Analyst,Northwind Analytics,Birmingham,"£28,000 - £35,000",01 Feb 2026,,Junior
+1383,Analytics Consultant,Ashford Digital,Leeds,,2025-07-29,yes,Junior
+1392,Data Scientist,Vantage Health,Bristol,"£37,000",12 May 2026,yes,Mid
+1103,Data Scientist,Grove & Co,Liverpool,,18 Oct 2025,Hybrid,Mid
+1456,Data Science Intern,Northwind Analytics,Bristol,Competitive salary,18/02/2026,yes,Senior
+140,Analytics Consultant,Kestrel Logistics,Work from home,,2026-01-09,Hybrid,
+286,Analytics Consultant,Vantage Health,London,£63k-£83k,21/04/2026,Yes,Senior
+1549,Junior Data Scientist,Orchard Media,Greater London,£48k-£63k,2025-02-21,Hybrid,
+624,Machine Learning Engineer,BrightPath Retail,LONDON,,18 Sep 2025,Yes,
+1520,Data Science Intern,Fenwick Insurance,Liverpool,"£65,000",2025-02-24,No,Mid
+884,Data Analyst,Ashford Digital,Glasgow,"£55,000 - £75,000",12/02/2025,N/A,Mid
+891,Junior Data Scientist,Alderly Bank,Glasgow,,2025-10-27,No,
+1443,Data Scientist II,Kestrel Logistics,Sheffield,"£40,000 - £55,000",2026-05-12,Hybrid,Mid
+372,Data Science Intern,Solstice Energy,Liverpool,"£32,000 - £42,000",2026-02-16,Yes,Junior
+45,Data Scientist,Grove & Co,Leeds,"£75,000 - £95,000",11/05/2026,Hybrid,Senior
+1547,Junior Data Scientist,Fenwick Insurance,Manchester,£32k-£42k,06/06/2025,N/A,Junior
+1149,Analytics Consultant,Alderly Bank,Glasgow,Competitive salary,09 Sep 2025,No,Mid
+1398,Analytics Consultant,Marlowe Consulting,Sheffield,"£37,000",30/07/2025,N/A,Junior
+244,Analytics Consultant,Grove & Co,Bristol,"£31,500",18 Oct 2025,No,Junior
+1058,Machine Learning Engineer,Grove & Co,Edinburgh,,13 Jul 2025,Yes,Mid
+1115,Machine Learning Engineer,Ashford Digital,Birmingham,"£55,000 - £75,000",09/08/2025,No,Senior
+451,Data Engineer,Solstice Energy,Bristol,"£32,000 - £42,000",2026-02-21,Yes,
+16,Insights Analyst,Kestrel Logistics,Birmingham,Competitive salary,15/06/2025,Yes,Mid
+1473,Analytics Consultant,Alderly Bank,Glasgow,,11/05/2025,Yes,Mid
+846,Data Science Intern,Northwind Analytics,Work from home,£55k-£75k,2025-06-02,No,Senior
+825,Data Scientist,Solstice Energy,Remote (UK),"£37,000",11 Jan 2025,,Graduate
+957,Data Scientist II,Redbridge Telecom,Bristol,"£32,000 - £42,000",14/03/2026,,Junior
+834,Junior Data Scientist,Kestrel Logistics,Birmingham,"£65,000",2026-03-17,N/A,
+471,Machine Learning Engineer,Marlowe Consulting,WFH,"£31,500",23/07/2025,Hybrid,Graduate
+879,Insights Analyst,Alderly Bank,WFH,Competitive salary,24/06/2025,N/A,Junior
+803,Insights Analyst,Kestrel Logistics,Liverpool,Competitive salary,22 Apr 2025,No,Junior
+1496,Junior Data Scientist,Alderly Bank,Sheffield,£40k-£55k,2025-01-15,yes,
+270,Insights Analyst,Northwind Analytics,Manchester,,17/04/2025,Hybrid,Graduate
+1011,Data Science Intern,Solstice Energy,remote,,2025-12-24,No,Graduate
+310,Junior Data Scientist,Fenwick Insurance,Bristol,Competitive salary,05/09/2025,,
+1436,Data Engineer,Solstice Energy,Bristol,,13/03/2025,yes,Junior
+687,Insights Analyst,Solstice Energy,"Manchester, UK","£37,000",2025-10-12,,Graduate
+1555,Data Scientist II,Redbridge Telecom,Bristol,"£85,000",2025-12-05,yes,Senior
+900,Business Intelligence Analyst,Kestrel Logistics,Leeds,"£31,500",02 Jul 2025,No,Junior
+833,Analytics Consultant,Vantage Health,Liverpool,Competitive salary,13/04/2025,,Graduate
+287,Data Engineer,Redbridge Telecom,Birmingham,£28k-£35k,2025-10-16,yes,Junior
+1417,Analytics Consultant,Solstice Energy,Bristol,"£37,000",2025-04-02,Hybrid,Graduate
+1048,Data Science Intern,Ashford Digital,Sheffield,,26/03/2025,Hybrid,Graduate
+1205,Machine Learning Engineer,BrightPath Retail,Work from home,,2026-04-28,N/A,Graduate
+465,Analytics Consultant,Fenwick Insurance,Liverpool,"£75,000 - £95,000",19 Feb 2025,No,Senior
+131,Data Analyst,Grove & Co,Leeds,£28k-£35k,06 Mar 2025,No,Junior
+606,Insights Analyst,Alderly Bank,Manchester,£40k-£55k,12/03/2025,Hybrid,
+55,Analytics Consultant,Orchard Media,Sheffield,,2025-05-05,N/A,
+100,Analytics Consultant,Grove & Co,Glasgow,Competitive salary,09/03/2025,,Mid
+820,Analytics Consultant,Grove & Co,Liverpool,Competitive salary,29/01/2025,Hybrid,
+924,Data Engineer,Solstice Energy,Glasgow,"£40,000 - £55,000",05/11/2025,Yes,Mid
+456,Insights Analyst,Grove & Co,Glasgow,"£37,000",2025-11-10,N/A,Graduate
+567,Data Analyst,BrightPath Retail,Bristol,"£37,000",2025-04-28,N/A,Junior
+1037,Junior Data Scientist,Ashford Digital,Leeds,Competitive salary,08/05/2025,Hybrid,
+1427,Data Scientist,Vantage Health,Sheffield,£32k-£42k,22 Nov 2025,Yes,Graduate
+1059,Machine Learning Engineer,Fenwick Insurance,Manchester,£55k-£75k,14 Jan 2025,Yes,
+1373,Machine Learning Engineer,Kestrel Logistics,Liverpool,£28k-£35k,28/10/2025,No,Junior
+1509,Analytics Consultant,Grove & Co,Leeds,,04/11/2025,,Junior
+1,Data Analyst,Northwind Analytics,Bristol,"£40,000 - £55,000",13 Dec 2025,yes,Mid
+1212,Data Analyst,BrightPath Retail,"Manchester, UK","£32,000 - £42,000",12 Sep 2025,yes,Junior
+399,Business Intelligence Analyst,Grove & Co,Bristol,"£32,000 - £42,000",21 Jul 2025,yes,Mid
+787,Data Engineer,Northwind Analytics,london,,05 Mar 2025,N/A,Senior
+880,Data Engineer,Grove & Co,Birmingham,"£31,500",28/08/2025,Yes,Graduate
+1258,Junior Data Scientist,Vantage Health,"London, UK","£45,000",2025-05-16,yes,Graduate
+611,Data Scientist II,Redbridge Telecom,Birmingham,£28k-£35k,26 Jan 2025,N/A,Graduate
+170,Business Intelligence Analyst,Grove & Co,remote,"£31,500",14/10/2025,N/A,Graduate
+1406,Junior Data Scientist,Alderly Bank,Liverpool,,2025-04-02,,Junior
+1418,Analytics Consultant,Grove & Co,Edinburgh,,2025-07-11,N/A,Mid
+771,Analytics Consultant,Fenwick Insurance,Bristol,"£47,500",2025-08-22,yes,Mid
+593,Data Engineer,Fenwick Insurance,"Manchester, UK",£32k-£42k,26 Sep 2025,,Graduate
+886,Junior Data Scientist,BrightPath Retail,Sheffield,Competitive salary,2025-01-10,,Junior
+212,Insights Analyst,Vantage Health,Leeds,,01 Apr 2026,yes,Graduate
+1133,Insights Analyst,Marlowe Consulting,Sheffield,£40k-£55k,27/10/2025,Yes,Mid
+186,Insights Analyst,Orchard Media,Birmingham,"£28,000 - £35,000",04 May 2026,yes,Graduate
+865,Machine Learning Engineer,Orchard Media,Bristol,Competitive salary,10/06/2025,No,Graduate
+988,Insights Analyst,Grove & Co,london,,2026-03-18,,Mid
+14,Data Analyst,Grove & Co,Liverpool,"£65,000",2025-08-11,,Senior
+714,Insights Analyst,Orchard Media,Glasgow,Competitive salary,22 Jun 2025,N/A,Graduate
+1198,Junior Data Scientist,Grove & Co,Leeds,Competitive salary,01/02/2026,Yes,Graduate
+909,Data Scientist II,Grove & Co,Edinburgh,"£40,000 - £55,000",03 Jan 2026,Yes,
+259,Data Scientist,Northwind Analytics,Bristol,Competitive salary,2025-07-14,No,Graduate
+613,Junior Data Scientist,Fenwick Insurance,manchester,Competitive salary,24/07/2025,Yes,Graduate
+56,Data Scientist,BrightPath Retail,remote,"£55,000 - £75,000",2025-10-13,Yes,Mid
+940,Insights Analyst,Redbridge Telecom,Leeds,"£32,000 - £42,000",2025-05-18,Hybrid,Graduate
+1243,Insights Analyst,Orchard Media,Leeds,Competitive salary,03/01/2025,Hybrid,Senior
+896,Analytics Consultant,Ashford Digital,Remote,£40k-£55k,29/08/2025,,Mid
+1488,Data Scientist,Ashford Digital,"London, UK",,06/02/2025,Hybrid,Graduate
+741,Analytics Consultant,Orchard Media,Leeds,Competitive salary,03 Apr 2025,,Graduate
+617,Machine Learning Engineer,Redbridge Telecom,LONDON,Competitive salary,25/02/2026,yes,Mid
+211,Junior Data Scientist,Grove & Co,Sheffield,"£28,000 - £35,000",2025-02-11,N/A,Graduate
+110,Data Analyst,Fenwick Insurance,Liverpool,Competitive salary,19 Jan 2025,Yes,Senior
+1107,Insights Analyst,Northwind Analytics,"Manchester, UK","£75,000 - £95,000",08/05/2026,N/A,Senior
+1301,Machine Learning Engineer,Marlowe Consulting,Liverpool,Competitive salary,2025-02-02,N/A,Senior
+1067,Business Intelligence Analyst,Grove & Co,Glasgow,"£55,000 - £75,000",12 Feb 2026,Hybrid,Mid
+190,Analytics Consultant,Ashford Digital,Glasgow,,19/01/2025,No,Mid
+739,Data Science Intern,Alderly Bank,"London, UK","£36,000 - £43,000",2025-04-02,N/A,Junior
+1210,Data Scientist II,Fenwick Insurance,Manchester,"£65,000",01 Apr 2025,yes,
+525,Data Scientist,Grove & Co,Remote (UK),"£40,000 - £55,000",24 Dec 2025,,
+989,Data Engineer,Vantage Health,WFH,"£31,500",11 May 2025,Yes,Graduate
+735,Data Analyst,BrightPath Retail,Glasgow,,22 Jun 2025,N/A,Junior
+463,Data Analyst,Orchard Media,Remote,"£28,000 - £35,000",10 Feb 2026,yes,Graduate
+1407,Data Analyst,Northwind Analytics,Bristol,Competitive salary,23/08/2025,Yes,Mid
+123,Analytics Consultant,BrightPath Retail,Birmingham,"£40,000 - £55,000",09/02/2026,Yes,
+403,Data Science Intern,Alderly Bank,Edinburgh,,23/01/2025,,Senior
+267,Analytics Consultant,Kestrel Logistics,Leeds,"£55,000 - £75,000",15/10/2025,,Mid
+689,Analytics Consultant,Grove & Co,London,Competitive salary,08 Apr 2026,Yes,Mid
+201,Data Scientist II,Orchard Media,Liverpool,,20 Apr 2025,Hybrid,Senior
+1444,Junior Data Scientist,Fenwick Insurance,Glasgow,"£55,000 - £75,000",2025-12-04,No,Mid
+263,Data Scientist II,Vantage Health,Leeds,£28k-£35k,2025-06-04,N/A,Graduate
+207,Data Analyst,Solstice Energy,Glasgow,£40k-£55k,10 Aug 2025,Yes,Mid
+882,Data Scientist,Marlowe Consulting,Manchester,Competitive salary,06/08/2025,Yes,Graduate
+398,Data Scientist,BrightPath Retail,Edinburgh,Competitive salary,05 Jan 2026,yes,Mid
+680,Data Analyst,Solstice Energy,Sheffield,"£32,000 - £42,000",22/08/2025,N/A,Junior
+1031,Business Intelligence Analyst,Kestrel Logistics,Birmingham,£32k-£42k,18 Apr 2026,yes,Mid
+1470,Business Intelligence Analyst,Solstice Energy,Sheffield,£28k-£35k,10 Jan 2025,Hybrid,Junior
+786,Data Scientist II,Solstice Energy,LONDON,,14 Oct 2025,,Graduate
+847,Analytics Consultant,Grove & Co,Edinburgh,"£28,000 - £35,000",26/02/2026,,Junior
+610,Data Analyst,Kestrel Logistics,Sheffield,"£37,000",2025-09-26,Hybrid,
+1409,Data Scientist,Kestrel Logistics,Bristol,"£47,500",16/11/2025,Hybrid,
+673,Machine Learning Engineer,Solstice Energy,London,"£36,000 - £43,000",23/10/2025,N/A,Graduate
+218,Machine Learning Engineer,Kestrel Logistics,Birmingham,,27/03/2026,,Graduate
+407,Data Scientist II,Redbridge Telecom,Liverpool,£32k-£42k,2026-05-01,No,Junior
+1574,Data Science Intern,Vantage Health,"Manchester, UK",Competitive salary,28 Mar 2025,N/A,
+522,Data Scientist II,Vantage Health,Birmingham,£32k-£42k,13/07/2025,No,
+1379,Analytics Consultant,Fenwick Insurance,Leeds,,05/05/2026,N/A,Junior
+596,Data Scientist,Redbridge Telecom,WFH,"£28,000 - £35,000",2025-07-07,yes,Graduate
+1125,Data Engineer,Grove & Co,remote,Competitive salary,2025-11-09,No,
+1453,Data Science Intern,Grove & Co,Glasgow,£75k-£95k,25/03/2025,N/A,Senior
+1049,Business Intelligence Analyst,Marlowe Consulting,Liverpool,,21 Jan 2026,Yes,Graduate
+1226,Data Analyst,Solstice Energy,"London, UK","£40,000 - £50,000",18 Apr 2025,,Junior
+1085,Data Scientist II,Kestrel Logistics,Greater London,"£45,000",22 Dec 2025,Yes,Graduate
+236,Business Intelligence Analyst,Northwind Analytics,Bristol,"£85,000",18/01/2026,No,Senior
+1570,Data Engineer,Fenwick Insurance,Manchester,,05 Mar 2025,N/A,Senior
+37,Junior Data Scientist,Vantage Health,Manchester,"£31,500",25 May 2025,No,Graduate
+604,Data Science Intern,Northwind Analytics,LONDON,Competitive salary,11/03/2025,Yes,Graduate
+1500,Data Engineer,Vantage Health,Leeds,Competitive salary,03 Feb 2026,Yes,Mid
+1696,,,,,,,
+675,Data Analyst,Vantage Health,Birmingham,"£55,000 - £75,000",06 May 2026,yes,Senior
+697,Data Science Intern,Alderly Bank,Manchester,Competitive salary,22/04/2026,yes,
+425,Data Scientist II,Redbridge Telecom,Remote (UK),Competitive salary,06/12/2025,yes,Junior
+1027,Junior Data Scientist,Vantage Health,"Manchester, UK",£75k-£95k,2025-06-20,N/A,Senior
+686,Insights Analyst,Orchard Media,Remote (UK),£75k-£95k,06 Dec 2025,Yes,Senior
+871,Data Science Intern,BrightPath Retail,Leeds,"£28,000 - £35,000",26 May 2025,N/A,Junior
+523,Data Analyst,Northwind Analytics,Leeds,£32k-£42k,01 Sep 2025,yes,Mid
+819,Junior Data Scientist,Solstice Energy,remote,,2026-01-27,yes,Senior
+654,Data Analyst,Orchard Media,Birmingham,,19 Jan 2026,Hybrid,Senior
+397,Insights Analyst,Redbridge Telecom,Glasgow,Competitive salary,01/04/2026,No,
+1280,Data Science Intern,Fenwick Insurance,London,"£93,000",26/03/2026,yes,Senior
+764,Data Science Intern,Vantage Health,London,,06 Sep 2025,yes,Senior
+1319,Insights Analyst,Redbridge Telecom,LONDON,Competitive salary,14 Jan 2026,Yes,Junior
+141,Data Science Intern,Fenwick Insurance,Bristol,"£55,000 - £75,000",2025-02-16,Yes,Mid
+935,Machine Learning Engineer,Orchard Media,Sheffield,"£37,000",2025-08-12,,
+1504,Business Intelligence Analyst,Ashford Digital,Birmingham,£55k-£75k,21 Jan 2025,Hybrid,Mid
+225,Machine Learning Engineer,Solstice Energy,Liverpool,"£47,500",22 Apr 2026,Hybrid,Mid
+637,Data Engineer,Northwind Analytics,Remote,£75k-£95k,16 Jan 2026,No,Senior
+951,Analytics Consultant,Grove & Co,manchester,,01 Apr 2025,Yes,
+926,Business Intelligence Analyst,Vantage Health,Glasgow,Competitive salary,2025-08-04,Hybrid,Mid
+231,Data Science Intern,Alderly Bank,remote,"£55,000 - £75,000",2025-12-28,yes,
+829,Insights Analyst,Orchard Media,Leeds,Competitive salary,22/06/2025,Yes,Graduate
+25,Data Analyst,Kestrel Logistics,Leeds,£32k-£42k,2025-08-05,Hybrid,Graduate
+572,Junior Data Scientist,Vantage Health,London,"£39,500",27/05/2025,yes,Graduate
+1214,Data Science Intern,BrightPath Retail,Leeds,,31 Jul 2025,N/A,Junior
+1478,Data Science Intern,Marlowe Consulting,Work from home,Competitive salary,23/05/2025,Hybrid,Mid
+1089,Junior Data Scientist,Northwind Analytics,Liverpool,"£55,000 - £75,000",07 Mar 2025,No,Senior
+740,Insights Analyst,Vantage Health,WFH,£40k-£55k,24/11/2025,yes,Mid
+119,Data Scientist,Redbridge Telecom,Glasgow,£40k-£55k,2025-11-22,yes,Mid
+859,Data Engineer,Fenwick Insurance,Sheffield,,10/03/2025,N/A,Junior
+1338,Data Scientist,Vantage Health,Bristol,"£47,500",20/10/2025,Yes,Mid
+1375,Data Analyst,Marlowe Consulting,Leeds,,13 Oct 2025,No,
+1493,Machine Learning Engineer,Vantage Health,Glasgow,Competitive salary,21 May 2025,Yes,
+562,Insights Analyst,Vantage Health,Glasgow,,20 Nov 2025,yes,Mid
+159,Data Scientist II,Grove & Co,"Manchester, UK","£31,500",29 Jun 2025,N/A,Graduate
+986,Data Analyst,Alderly Bank,Liverpool,,23/09/2025,No,Graduate
+864,Junior Data Scientist,Vantage Health,manchester,,23/03/2026,N/A,Junior
+538,Data Analyst,Vantage Health,Work from home,Competitive salary,13 Apr 2025,Yes,
+1328,Analytics Consultant,Ashford Digital,Edinburgh,"£47,500",04 Feb 2026,Hybrid,
+1124,Insights Analyst,Alderly Bank,Liverpool,"£40,000 - £55,000",19/03/2026,N/A,Mid
+1389,Data Engineer,Northwind Analytics,Bristol,£55k-£75k,23 Feb 2026,Hybrid,
+1489,Data Scientist II,BrightPath Retail,Sheffield,"£55,000 - £75,000",30/05/2025,N/A,
+72,Machine Learning Engineer,BrightPath Retail,Liverpool,,24/02/2025,Hybrid,Junior
+352,Data Engineer,BrightPath Retail,Remote,"£37,000",08 Dec 2025,N/A,
+1240,Business Intelligence Analyst,Redbridge Telecom,Leeds,Competitive salary,30 Apr 2026,Yes,Junior
+792,Machine Learning Engineer,Northwind Analytics,Bristol,Competitive salary,10 Apr 2025,No,Graduate
+858,Data Science Intern,Alderly Bank,remote,"£31,500",01 May 2025,,Junior
+1530,Data Analyst,Ashford Digital,"Manchester, UK",Competitive salary,23 Mar 2025,Yes,Junior
+369,Analytics Consultant,Fenwick Insurance,Remote,£28k-£35k,20/08/2025,,Graduate
+95,Insights Analyst,Redbridge Telecom,LONDON,£36k-£43k,29 Aug 2025,N/A,Graduate
+869,Data Analyst,Fenwick Insurance,Manchester,£75k-£95k,19 Jan 2026,Hybrid,Senior
+1703,,,,,,,
+1511,Machine Learning Engineer,Vantage Health,Liverpool,£32k-£42k,2025-09-07,Hybrid,
+1252,Business Intelligence Analyst,Fenwick Insurance,Glasgow,"£31,500",2025-12-31,Hybrid,Junior
+1033,Business Intelligence Analyst,Northwind Analytics,Leeds,£75k-£95k,2025-10-04,N/A,Senior
+144,Business Intelligence Analyst,Fenwick Insurance,"Manchester, UK",£28k-£35k,03/12/2025,No,Graduate
+70,Insights Analyst,Grove & Co,WFH,Competitive salary,20 Dec 2025,No,Mid
+66,Data Science Intern,Vantage Health,Work from home,"£32,000 - £42,000",19 Jan 2026,Yes,Junior
+509,Business Intelligence Analyst,Alderly Bank,Glasgow,Competitive salary,06 Jan 2025,No,
+1206,Analytics Consultant,Grove & Co,Sheffield,£28k-£35k,04 Aug 2025,yes,Junior
+1543,Data Analyst,Fenwick Insurance,Edinburgh,"£37,000",28 Apr 2025,Yes,Junior
+1497,Business Intelligence Analyst,Alderly Bank,Sheffield,Competitive salary,17 Jan 2026,,Senior
+1269,Analytics Consultant,BrightPath Retail,London,£36k-£43k,26 Sep 2025,No,Graduate
+1201,Analytics Consultant,Orchard Media,Liverpool,"£75,000 - £95,000",17/02/2025,Hybrid,Senior
+580,Machine Learning Engineer,Orchard Media,Bristol,"£75,000 - £95,000",2025-06-19,No,Senior
+1126,Insights Analyst,Grove & Co,Birmingham,,20/01/2025,No,Junior
+747,Data Analyst,Kestrel Logistics,Glasgow,"£47,500",2025-04-28,Hybrid,
+733,Analytics Consultant,Grove & Co,"London, UK",£36k-£43k,26 Dec 2025,No,Graduate
+1355,Analytics Consultant,Redbridge Telecom,Leeds,Competitive salary,2026-02-28,yes,
+1248,Data Science Intern,Kestrel Logistics,Birmingham,Competitive salary,03 Jan 2025,Yes,Mid
+704,Junior Data Scientist,Northwind Analytics,Sheffield,"£28,000 - £35,000",19/11/2025,yes,Graduate
+1555,Data Scientist II,Redbridge Telecom,Bristol,"£85,000",2025-12-05,yes,Senior
+1231,Data Engineer,BrightPath Retail,Birmingham,£75k-£95k,2026-05-04,Hybrid,Senior
+894,Insights Analyst,Grove & Co,Glasgow,,23/10/2025,yes,Junior
+1159,Machine Learning Engineer,BrightPath Retail,Sheffield,"£28,000 - £35,000",2026-04-04,yes,Junior
+1166,Data Scientist II,Kestrel Logistics,Remote,Competitive salary,23 Oct 2025,N/A,Graduate
+644,Junior Data Scientist,Redbridge Telecom,Liverpool,"£65,000",2025-08-19,No,
+27,Data Analyst,Kestrel Logistics,Birmingham,£55k-£75k,19/03/2026,Yes,
+564,Business Intelligence Analyst,Redbridge Telecom,Work from home,Competitive salary,24/09/2025,,
+385,Data Scientist,Kestrel Logistics,Sheffield,"£32,000 - £42,000",19 Jun 2025,No,Junior
+323,Insights Analyst,Northwind Analytics,Leeds,£28k-£35k,03/10/2025,No,Junior
+934,Data Scientist,Vantage Health,Leeds,"£32,000 - £42,000",18 Feb 2026,yes,Graduate
+730,Data Engineer,Solstice Energy,Remote,,01/10/2025,Yes,Graduate
+883,Analytics Consultant,Grove & Co,Sheffield,Competitive salary,11 Feb 2025,Yes,Senior
+566,Data Analyst,BrightPath Retail,manchester,"£28,000 - £35,000",30/01/2026,yes,Graduate
+830,Insights Analyst,Marlowe Consulting,Glasgow,"£40,000 - £55,000",30/11/2025,yes,Mid
+54,Business Intelligence Analyst,Kestrel Logistics,Leeds,£28k-£35k,01 Sep 2025,Yes,Junior
+127,Analytics Consultant,BrightPath Retail,Manchester,,21/08/2025,N/A,Graduate
+1216,Business Intelligence Analyst,Orchard Media,Leeds,"£32,000 - £42,000",2025-01-14,Hybrid,
+331,Business Intelligence Analyst,Grove & Co,WFH,"£32,000 - £42,000",26 Jul 2025,N/A,
+1295,Data Science Intern,Solstice Energy,Birmingham,Competitive salary,15/12/2025,N/A,Graduate
+601,Data Analyst,Alderly Bank,Birmingham,£28k-£35k,01 Oct 2025,,Graduate
+1064,Data Scientist II,Northwind Analytics,Birmingham,Competitive salary,24/03/2026,No,Junior
+292,Business Intelligence Analyst,Alderly Bank,remote,"£47,500",2025-02-24,Yes,
+1293,Data Analyst,BrightPath Retail,london,Competitive salary,2025-02-19,No,Graduate
+888,Insights Analyst,Redbridge Telecom,Edinburgh,£55k-£75k,2025-03-11,No,Senior
+901,Junior Data Scientist,Marlowe Consulting,London,"£83,000 - £103,000",2025-11-13,Yes,Senior
+1175,Junior Data Scientist,Northwind Analytics,WFH,Competitive salary,14/09/2025,N/A,
+1029,Data Science Intern,Marlowe Consulting,Leeds,Competitive salary,2026-01-24,Hybrid,Mid
+281,Data Scientist II,Ashford Digital,remote,Competitive salary,2025-03-18,No,Junior
+111,Data Engineer,Grove & Co,Bristol,"£32,000 - £42,000",25 Jan 2026,N/A,Junior
+1495,Business Intelligence Analyst,Vantage Health,Birmingham,"£65,000",21 Mar 2025,N/A,
+455,Junior Data Scientist,BrightPath Retail,Birmingham,,12 Apr 2026,,Mid
+609,Business Intelligence Analyst,Northwind Analytics,Sheffield,"£31,500",28/06/2025,,Junior
+161,Data Analyst,Alderly Bank,Glasgow,Competitive salary,26 Nov 2025,yes,Graduate
+822,Data Scientist,Alderly Bank,Edinburgh,"£31,500",2025-07-14,,Graduate
+1270,Junior Data Scientist,BrightPath Retail,manchester,,12/01/2026,yes,Senior
+641,Data Scientist II,Marlowe Consulting,Remote,Competitive salary,27 Jan 2026,Yes,Graduate
+835,Data Engineer,Orchard Media,Bristol,Competitive salary,01/05/2025,No,Mid
+1416,Data Scientist II,BrightPath Retail,Sheffield,£40k-£55k,07/03/2026,yes,Mid
+1390,Data Analyst,BrightPath Retail,"Manchester, UK","£32,000 - £42,000",16 Jan 2026,yes,
+1415,Data Scientist II,Orchard Media,WFH,"£47,500",06 Mar 2026,Hybrid,
+1177,Insights Analyst,Northwind Analytics,Leeds,,02/09/2025,N/A,Mid
+432,Machine Learning Engineer,Grove & Co,Manchester,"£85,000",04/08/2025,Hybrid,Senior
+660,Data Scientist,Solstice Energy,"Manchester, UK",,24/01/2025,Hybrid,Mid
+1277,Insights Analyst,Fenwick Insurance,Bristol,£32k-£42k,27 Aug 2025,No,Junior
+1396,Machine Learning Engineer,Solstice Energy,Sheffield,£75k-£95k,19 Feb 2026,Yes,Senior
+929,Insights Analyst,Alderly Bank,Birmingham,£55k-£75k,20 Mar 2026,Hybrid,
+304,Junior Data Scientist,Ashford Digital,WFH,Competitive salary,03 Sep 2025,,Junior
+148,Junior Data Scientist,Ashford Digital,London,,03/08/2025,Hybrid,Graduate
+210,Business Intelligence Analyst,Redbridge Telecom,Liverpool,Competitive salary,28 Apr 2026,No,Graduate
+1589,Data Scientist II,Vantage Health,Liverpool,£32k-£42k,2025-02-17,N/A,
+306,Data Analyst,Kestrel Logistics,Edinburgh,Competitive salary,27 Nov 2025,N/A,Graduate
+12,Machine Learning Engineer,Kestrel Logistics,Birmingham,"£28,000 - £35,000",20 Mar 2025,No,Junior
+1391,Junior Data Scientist,BrightPath Retail,Sheffield,"£47,500",06 Aug 2025,N/A,Mid
+434,Insights Analyst,Redbridge Telecom,manchester,,29/09/2025,,Mid
+1535,Data Scientist II,Solstice Energy,Leeds,£28k-£35k,2026-01-31,No,Graduate
+255,Business Intelligence Analyst,Northwind Analytics,Leeds,"£37,000",2025-12-25,yes,Junior
+1259,Data Analyst,Fenwick Insurance,remote,Competitive salary,09 Aug 2025,Hybrid,Mid
+517,Machine Learning Engineer,Redbridge Telecom,"Manchester, UK","£65,000",2026-01-04,,Mid
+537,Data Scientist II,Ashford Digital,Leeds,£28k-£35k,2025-12-02,No,Junior
+943,Data Analyst,Grove & Co,Liverpool,Competitive salary,2025-03-28,yes,Mid
+1232,Data Scientist II,Grove & Co,Bristol,Competitive salary,30/04/2026,No,
+1106,Data Science Intern,Fenwick Insurance,"Manchester, UK",£28k-£35k,2026-04-29,No,Junior
+303,Analytics Consultant,Vantage Health,manchester,"£47,500",04/05/2025,N/A,
+124,Business Intelligence Analyst,Marlowe Consulting,manchester,Competitive salary,15 Jul 2025,Hybrid,Senior
+966,Data Science Intern,Orchard Media,"Manchester, UK",Competitive salary,08 Feb 2026,yes,
+612,Data Science Intern,Solstice Energy,Sheffield,"£65,000",07/02/2026,No,Mid
+1699,,,,,,,
+662,Business Intelligence Analyst,Marlowe Consulting,Liverpool,"£31,500",24/06/2025,N/A,Junior
+1546,Business Intelligence Analyst,Fenwick Insurance,Sheffield,£55k-£75k,31 Mar 2025,No,Mid
+550,Data Scientist,Marlowe Consulting,WFH,Competitive salary,27/06/2025,N/A,Graduate
+1116,Data Analyst,Marlowe Consulting,Liverpool,,2025-01-04,N/A,
+322,Data Scientist II,Marlowe Consulting,Glasgow,,2025-09-08,Yes,
+497,Business Intelligence Analyst,Grove & Co,Edinburgh,"£28,000 - £35,000",2025-01-22,yes,Graduate
+1194,Data Science Intern,Alderly Bank,Sheffield,,24/03/2026,N/A,Junior
+280,Data Scientist II,Orchard Media,London,Competitive salary,16/05/2026,Yes,Graduate
+1517,Junior Data Scientist,Vantage Health,Edinburgh,"£85,000",06 Aug 2025,,Senior
+1183,Data Engineer,Fenwick Insurance,Work from home,"£37,000",28 Jul 2025,yes,Mid
+495,Business Intelligence Analyst,Grove & Co,Bristol,,22 Jul 2025,Yes,Senior
+636,Analytics Consultant,Ashford Digital,Edinburgh,,2025-03-12,No,
+365,Business Intelligence Analyst,BrightPath Retail,london,"£45,000",23 Aug 2025,Yes,Graduate
+336,Analytics Consultant,Northwind Analytics,remote,£40k-£55k,24/03/2026,Yes,Mid
+823,Machine Learning Engineer,Fenwick Insurance,Work from home,£28k-£35k,01 May 2025,Hybrid,Junior
+1228,Insights Analyst,Grove & Co,Sheffield,"£31,500",05 Sep 2025,yes,Junior
+1360,Data Scientist II,Kestrel Logistics,Bristol,Competitive salary,08 Nov 2025,Yes,Senior
+1337,Data Science Intern,Redbridge Telecom,Sheffield,,2026-01-17,No,Mid
+1079,Data Scientist,Ashford Digital,Bristol,,23/12/2025,Hybrid,Mid
+61,Data Scientist,Kestrel Logistics,WFH,Competitive salary,14/07/2025,Yes,Graduate
+1167,Data Engineer,Ashford Digital,Manchester,£55k-£75k,2026-03-12,Hybrid,Senior
+147,Business Intelligence Analyst,Fenwick Insurance,Edinburgh,Competitive salary,03/12/2025,Yes,Mid
+729,Analytics Consultant,BrightPath Retail,Glasgow,£32k-£42k,13 Jan 2025,yes,Mid
+283,Insights Analyst,Kestrel Logistics,Leeds,"£28,000 - £35,000",27/07/2025,,Junior
+198,Analytics Consultant,Northwind Analytics,Birmingham,"£47,500",16 Jul 2025,Yes,Mid
+1268,Junior Data Scientist,Grove & Co,Greater London,Competitive salary,01/01/2025,No,Senior
+461,Data Scientist II,Kestrel Logistics,Liverpool,"£40,000 - £55,000",24/08/2025,yes,
+876,Data Scientist,Kestrel Logistics,Birmingham,£40k-£55k,03/03/2025,,
+510,Insights Analyst,Grove & Co,Birmingham,£40k-£55k,17 Oct 2025,N/A,
+746,Data Scientist,BrightPath Retail,Greater London,"£48,000 - £63,000",06 Sep 2025,Yes,Mid
+618,Junior Data Scientist,Solstice Energy,london,£48k-£63k,23 Jan 2026,Yes,Mid
+474,Junior Data Scientist,Marlowe Consulting,Liverpool,Competitive salary,03 Sep 2025,yes,Junior
+1286,Machine Learning Engineer,Marlowe Consulting,Edinburgh,,04/08/2025,,Senior
+542,Data Scientist II,Redbridge Telecom,Bristol,£55k-£75k,23/01/2026,,
+84,Junior Data Scientist,Grove & Co,Glasgow,,03/09/2025,Hybrid,Junior
+814,Analytics Consultant,Kestrel Logistics,Birmingham,"£28,000 - £35,000",13 Sep 2025,Yes,Junior
+848,Data Science Intern,Fenwick Insurance,Remote,Competitive salary,03/02/2025,,Mid
+1333,Data Analyst,Northwind Analytics,Bristol,,16/07/2025,Yes,
+1316,Data Analyst,Marlowe Consulting,Sheffield,,2025-11-13,yes,Graduate
+1140,Data Science Intern,Redbridge Telecom,Bristol,£32k-£42k,2025-10-20,yes,Mid
+1695,,,,,,,
+524,Data Scientist,Marlowe Consulting,Liverpool,£32k-£42k,07 Apr 2026,yes,Junior
+183,Insights Analyst,Marlowe Consulting,Remote,"£85,000",2025-03-04,No,Senior
+1076,Data Engineer,Ashford Digital,Leeds,,03 Jun 2025,No,Mid
+482,Junior Data Scientist,Alderly Bank,Sheffield,,2025-12-30,Yes,Junior
+1096,Data Science Intern,Ashford Digital,Birmingham,£28k-£35k,01/01/2026,yes,Junior
+959,Data Engineer,Northwind Analytics,Bristol,"£37,000",03/01/2025,No,Graduate
+256,Data Scientist,BrightPath Retail,Glasgow,£75k-£95k,2026-01-29,N/A,Senior
+1190,Analytics Consultant,Vantage Health,Glasgow,"£40,000 - £55,000",13 May 2026,,
+625,Machine Learning Engineer,Solstice Energy,Sheffield,Competitive salary,10/05/2026,yes,Mid
+911,Junior Data Scientist,Redbridge Telecom,Greater London,,30 Mar 2026,N/A,Senior
+726,Data Analyst,Redbridge Telecom,Liverpool,,29 Jan 2025,N/A,Senior
+1452,Business Intelligence Analyst,Orchard Media,manchester,,19/03/2025,Hybrid,
+1437,Machine Learning Engineer,Fenwick Insurance,Sheffield,"£31,500",2025-12-26,N/A,Graduate
+1093,Data Analyst,Grove & Co,london,£36k-£43k,2025-06-03,No,Junior
+801,Data Analyst,Vantage Health,London,Competitive salary,2026-04-07,No,Junior
+1365,Data Scientist,Ashford Digital,Leeds,Competitive salary,27 Mar 2026,Hybrid,Graduate
+1381,Data Scientist,Vantage Health,Bristol,Competitive salary,31/01/2026,Hybrid,
+200,Machine Learning Engineer,Orchard Media,Edinburgh,"£32,000 - £42,000",2026-01-12,,Mid
+716,Data Analyst,Grove & Co,Glasgow,"£47,500",2025-04-09,Yes,Mid
+340,Junior Data Scientist,Solstice Energy,Manchester,"£32,000 - £42,000",22/02/2025,Hybrid,
+813,Insights Analyst,Orchard Media,Glasgow,"£55,000 - £75,000",04/03/2025,,Mid
+592,Machine Learning Engineer,Solstice Energy,Greater London,"£48,000 - £63,000",14/11/2025,yes,
+349,Data Scientist II,Vantage Health,Liverpool,"£55,000 - £75,000",24 Nov 2025,yes,
+569,Machine Learning Engineer,Solstice Energy,Glasgow,£32k-£42k,12 May 2026,yes,Graduate
+288,Data Science Intern,Grove & Co,Liverpool,"£40,000 - £55,000",14 Sep 2025,Hybrid,
+806,Data Science Intern,Kestrel Logistics,Liverpool,"£37,000",05/03/2025,Yes,
+488,Business Intelligence Analyst,Marlowe Consulting,Bristol,Competitive salary,16 Feb 2026,,Graduate
+650,Analytics Consultant,Solstice Energy,Glasgow,£32k-£42k,22 Apr 2025,N/A,Graduate
+958,Data Science Intern,Vantage Health,"Manchester, UK",,05 Jul 2025,Yes,Graduate
+240,Data Engineer,Vantage Health,Edinburgh,Competitive salary,29 Apr 2025,N/A,Junior
+1340,Machine Learning Engineer,Vantage Health,Birmingham,,05/01/2025,Yes,
+1192,Machine Learning Engineer,Fenwick Insurance,"Manchester, UK","£65,000",26 Mar 2026,Yes,
+215,Machine Learning Engineer,Ashford Digital,Edinburgh,"£47,500",21 Sep 2025,Yes,
+253,Data Engineer,Ashford Digital,Sheffield,"£32,000 - £42,000",2025-08-21,yes,Junior
+428,Insights Analyst,Orchard Media,Edinburgh,"£37,000",13/05/2025,,Junior
+1188,Data Analyst,Northwind Analytics,Birmingham,,18/02/2025,Hybrid,Graduate
+458,Machine Learning Engineer,Northwind Analytics,Liverpool,,05 Dec 2025,No,Senior
+19,Insights Analyst,Orchard Media,Leeds,"£85,000",13 Aug 2025,,Senior
+1004,Business Intelligence Analyst,Kestrel Logistics,Leeds,,30/01/2025,yes,Graduate
+485,Data Scientist II,Orchard Media,manchester,"£47,500",19/06/2025,Hybrid,Mid
+1705,,,,,,,
+1593,Data Engineer,Alderly Bank,LONDON,Competitive salary,05/09/2025,,Mid
+132,Data Analyst,Marlowe Consulting,Leeds,£40k-£55k,08 Feb 2026,Yes,Mid
+706,Data Scientist II,BrightPath Retail,Bristol,"£47,500",16/03/2026,Yes,Mid
+827,Data Analyst,Ashford Digital,Leeds,£40k-£55k,11/11/2025,Hybrid,
+383,Junior Data Scientist,Alderly Bank,Leeds,"£65,000",01 May 2026,yes,Senior
+1483,Data Scientist,Fenwick Insurance,Sheffield,"£55,000 - £75,000",03/05/2026,Yes,Mid
+1331,Data Scientist II,Kestrel Logistics,manchester,£32k-£42k,24/12/2025,N/A,Mid
+1009,Machine Learning Engineer,Redbridge Telecom,Glasgow,"£32,000 - £42,000",28 May 2025,,
+543,Analytics Consultant,Redbridge Telecom,"London, UK","£36,000 - £43,000",15 Jul 2025,No,Junior
+133,Business Intelligence Analyst,Alderly Bank,Birmingham,"£32,000 - £42,000",2025-03-09,Hybrid,Mid
+614,Data Science Intern,Marlowe Consulting,remote,Competitive salary,12/04/2025,,Mid
+1694,,,,,,,
+61,Data Scientist,Kestrel Logistics,WFH,Competitive salary,14/07/2025,Yes,Graduate
+1524,Insights Analyst,Vantage Health,Sheffield,,06/05/2025,yes,Graduate
+634,Junior Data Scientist,Alderly Bank,Greater London,Competitive salary,18 Oct 2025,No,Graduate
+1537,Machine Learning Engineer,Fenwick Insurance,Leeds,£40k-£55k,06/08/2025,No,Mid
+319,Junior Data Scientist,Marlowe Consulting,WFH,Competitive salary,16/07/2025,No,Graduate
+646,Junior Data Scientist,Ashford Digital,Manchester,"£37,000",13 Feb 2025,N/A,Junior
+1143,Business Intelligence Analyst,Alderly Bank,Bristol,Competitive salary,2025-03-01,N/A,Mid
+897,Data Engineer,Marlowe Consulting,Leeds,£32k-£42k,29/03/2026,N/A,Graduate
+1553,Data Scientist II,Alderly Bank,Birmingham,,25 May 2025,Yes,Junior
+1597,Junior Data Scientist,BrightPath Retail,Liverpool,"£28,000 - £35,000",18 Feb 2026,No,Graduate
+14,Data Analyst,Grove & Co,Liverpool,"£65,000",2025-08-11,,Senior
+503,Business Intelligence Analyst,Ashford Digital,Sheffield,"£31,500",06/05/2026,No,Graduate
+1288,Insights Analyst,Marlowe Consulting,Edinburgh,"£28,000 - £35,000",22/01/2026,No,Graduate
+222,Data Scientist II,Vantage Health,manchester,Competitive salary,24 May 2025,N/A,Graduate
+823,Machine Learning Engineer,Fenwick Insurance,Work from home,£28k-£35k,01 May 2025,Hybrid,Junior
+507,Data Analyst,Northwind Analytics,Liverpool,Competitive salary,2025-04-19,yes,Graduate
+532,Junior Data Scientist,Grove & Co,"Manchester, UK",£55k-£75k,2025-02-21,yes,Mid
+241,Data Scientist,Alderly Bank,remote,,06 Apr 2025,Hybrid,Junior
+1698,,,,,,,
+297,Analytics Consultant,Alderly Bank,Manchester,,03/06/2025,Yes,
+623,Insights Analyst,Vantage Health,"London, UK",,05/12/2025,N/A,Junior
+489,Analytics Consultant,Northwind Analytics,Bristol,"£55,000 - £75,000",27 Mar 2025,yes,Senior
+1289,Data Science Intern,Grove & Co,"London, UK","£40,000 - £50,000",2025-02-13,Hybrid,Graduate
+332,Business Intelligence Analyst,Ashford Digital,Edinburgh,Competitive salary,02 Jan 2025,Yes,
+69,Junior Data Scientist,Redbridge Telecom,Sheffield,"£40,000 - £55,000",2025-10-24,Hybrid,Mid
+1215,Data Science Intern,Northwind Analytics,Edinburgh,"£31,500",27 Mar 2026,Hybrid,Graduate
+1266,Analytics Consultant,Ashford Digital,Bristol,"£40,000 - £55,000",2025-03-27,Hybrid,Mid
+999,Insights Analyst,Alderly Bank,Bristol,"£47,500",26/04/2025,,
+1363,Analytics Consultant,Orchard Media,Edinburgh,"£40,000 - £55,000",29/04/2025,,Mid
+500,Insights Analyst,Northwind Analytics,Liverpool,"£31,500",2025-12-10,Hybrid,Graduate
+164,Data Scientist,Fenwick Insurance,Bristol,,25 Oct 2025,N/A,Junior
+873,Analytics Consultant,Solstice Energy,Bristol,Competitive salary,02/05/2026,Hybrid,Senior
+446,Data Scientist,Vantage Health,Remote,Competitive salary,07 Nov 2025,No,Graduate
+444,Data Scientist,Orchard Media,Bristol,"£28,000 - £35,000",2025-12-01,Yes,Graduate
+1184,Data Analyst,Marlowe Consulting,Birmingham,,2025-10-28,Hybrid,Graduate
+742,Insights Analyst,BrightPath Retail,Bristol,Competitive salary,2025-05-01,Yes,
+1197,Analytics Consultant,Kestrel Logistics,Glasgow,"£75,000 - £95,000",2025-10-07,,Senior
+499,Data Scientist II,Alderly Bank,Birmingham,£40k-£55k,2025-02-28,N/A,Mid
+955,Data Scientist II,Solstice Energy,Birmingham,"£28,000 - £35,000",2025-10-29,N/A,Graduate
+954,Business Intelligence Analyst,Solstice Energy,Sheffield,,26/02/2025,yes,Junior
+1428,Business Intelligence Analyst,Vantage Health,Liverpool,,18 Oct 2025,Yes,Junior
+563,Data Science Intern,BrightPath Retail,Manchester,"£85,000",12 Jun 2025,Hybrid,Senior
+875,Insights Analyst,Orchard Media,manchester,£75k-£95k,10/05/2026,Yes,Senior
+850,Analytics Consultant,Grove & Co,Birmingham,"£47,500",10 Jun 2025,Yes,
+311,Data Analyst,Solstice Energy,Glasgow,"£28,000 - £35,000",19 Feb 2026,Yes,Junior
+1529,Data Science Intern,Northwind Analytics,Liverpool,"£37,000",22/10/2025,N/A,Graduate
+402,Analytics Consultant,BrightPath Retail,Bristol,"£65,000",16 Feb 2025,yes,
+510,Insights Analyst,Grove & Co,Birmingham,£40k-£55k,17 Oct 2025,N/A,
+23,Insights Analyst,Solstice Energy,Leeds,"£40,000 - £55,000",19 Feb 2025,,
+1523,Business Intelligence Analyst,BrightPath Retail,Glasgow,,2026-02-27,No,Junior
+411,Insights Analyst,Redbridge Telecom,Sheffield,"£31,500",21 Mar 2026,Hybrid,Junior
+245,Junior Data Scientist,Redbridge Telecom,WFH,"£28,000 - £35,000",25 Jul 2025,Yes,Graduate
+154,Data Science Intern,Alderly Bank,Birmingham,Competitive salary,14 Oct 2025,Hybrid,Graduate
+484,Machine Learning Engineer,BrightPath Retail,Edinburgh,Competitive salary,23/03/2025,yes,Mid
+401,Insights Analyst,Solstice Energy,Leeds,£28k-£35k,23/11/2025,Yes,Junior
+17,Data Analyst,Fenwick Insurance,Bristol,Competitive salary,2026-04-30,Yes,Junior
+98,Data Scientist II,Northwind Analytics,Glasgow,"£85,000",01/03/2025,yes,Senior
+1257,Business Intelligence Analyst,Redbridge Telecom,Manchester,"£32,000 - £42,000",2025-05-04,,
+189,Data Analyst,Redbridge Telecom,Edinburgh,Competitive salary,23 Jun 2025,No,Junior
+1026,Data Scientist,BrightPath Retail,Leeds,"£75,000 - £95,000",31 Dec 2025,yes,Senior
+1077,Data Scientist,Marlowe Consulting,Work from home,"£65,000",23/01/2026,,
+177,Junior Data Scientist,Kestrel Logistics,Sheffield,,24/03/2026,yes,Senior
+1070,Insights Analyst,Kestrel Logistics,"Manchester, UK","£85,000",04/05/2026,yes,Senior
+996,Machine Learning Engineer,Orchard Media,Remote (UK),Competitive salary,2026-01-25,,Junior
+811,Junior Data Scientist,BrightPath Retail,Edinburgh,Competitive salary,09/03/2026,Yes,Senior
+1250,Data Science Intern,Vantage Health,Birmingham,"£32,000 - £42,000",06/03/2025,No,Graduate
+15,Data Scientist,Ashford Digital,Bristol,"£31,500",07 Mar 2026,yes,Graduate
+375,Junior Data Scientist,BrightPath Retail,Edinburgh,"£32,000 - £42,000",28 Mar 2025,,Junior
+410,Business Intelligence Analyst,Marlowe Consulting,Glasgow,"£32,000 - £42,000",2025-08-01,No,Graduate
+534,Analytics Consultant,Redbridge Telecom,Remote,£28k-£35k,2025-07-09,yes,Junior
+1405,Business Intelligence Analyst,Marlowe Consulting,Leeds,,2025-08-25,Hybrid,Graduate
+1576,Data Science Intern,Orchard Media,London,"£93,000",24 Nov 2025,Hybrid,Senior
+391,Data Engineer,Grove & Co,Sheffield,"£47,500",2026-01-17,No,
+1187,Data Science Intern,Northwind Analytics,remote,£32k-£42k,18 Oct 2025,,Mid
+1591,Data Science Intern,BrightPath Retail,Bristol,,2026-02-27,No,Senior
+1371,Data Analyst,Fenwick Insurance,"Manchester, UK","£37,000",22 Mar 2025,Hybrid,Mid
+895,Data Analyst,Vantage Health,WFH,Competitive salary,26 Apr 2026,Hybrid,Junior
+378,Analytics Consultant,Northwind Analytics,manchester,,13 Apr 2025,yes,
+430,Data Scientist II,Grove & Co,Glasgow,£28k-£35k,07 Mar 2026,yes,Graduate
+1139,Data Science Intern,Solstice Energy,Liverpool,Competitive salary,16 Jul 2025,,Mid
+1108,Data Scientist II,Ashford Digital,Birmingham,,08 Jan 2025,No,
+756,Data Science Intern,Solstice Energy,manchester,"£40,000 - £55,000",2025-10-13,N/A,
+146,Insights Analyst,Redbridge Telecom,Liverpool,"£28,000 - £35,000",03/04/2025,N/A,Graduate
+157,Insights Analyst,Solstice Energy,Edinburgh,£32k-£42k,12 Aug 2025,,
+464,Business Intelligence Analyst,Marlowe Consulting,Liverpool,"£47,500",2026-02-27,No,
+476,Junior Data Scientist,Northwind Analytics,london,"£93,000",16/12/2025,No,Senior
+991,Data Scientist II,Redbridge Telecom,Edinburgh,,29/07/2025,,
+890,Data Scientist II,Kestrel Logistics,manchester,,2025-08-05,Yes,
+475,Data Science Intern,Grove & Co,Liverpool,Competitive salary,2025-02-24,,
+413,Junior Data Scientist,Redbridge Telecom,Sheffield,"£37,000",2025-12-20,Yes,Junior
+867,Data Engineer,Alderly Bank,"London, UK",,2025-08-12,,Senior
+1440,Insights Analyst,Redbridge Telecom,WFH,"£47,500",06/01/2026,yes,
+1028,Machine Learning Engineer,Grove & Co,Glasgow,Competitive salary,12 Apr 2026,,Senior
+473,Data Scientist II,Grove & Co,Leeds,"£47,500",17 Apr 2026,No,Mid
+902,Data Scientist II,Kestrel Logistics,Glasgow,"£75,000 - £95,000",30 Jan 2026,Hybrid,Senior
+477,Data Scientist,Ashford Digital,Bristol,"£31,500",21/02/2026,Yes,Graduate
+1479,Data Analyst,Grove & Co,Edinburgh,,23/01/2026,Hybrid,Mid
+362,Insights Analyst,Kestrel Logistics,Glasgow,£32k-£42k,11 Jan 2026,No,Graduate
+1436,Data Engineer,Solstice Energy,Bristol,,13/03/2025,yes,Junior
+1217,Data Scientist II,Ashford Digital,Sheffield,Competitive salary,2025-08-09,yes,Senior
+1160,Junior Data Scientist,Alderly Bank,Remote (UK),,18 Mar 2025,N/A,Senior
+602,Machine Learning Engineer,Fenwick Insurance,Liverpool,,27 Feb 2026,Hybrid,Senior
+234,Data Scientist II,Vantage Health,Leeds,,12/06/2025,Hybrid,Senior
+195,Business Intelligence Analyst,Fenwick Insurance,Manchester,"£85,000",17 Aug 2025,N/A,Senior
+987,Machine Learning Engineer,Ashford Digital,Edinburgh,"£65,000",25/10/2025,N/A,
+1249,Business Intelligence Analyst,Northwind Analytics,Manchester,"£65,000",18 Jun 2025,yes,Senior
+1247,Machine Learning Engineer,Redbridge Telecom,Manchester,"£32,000 - £42,000",2025-03-13,Hybrid,Mid
+501,Data Analyst,Kestrel Logistics,Sheffield,£75k-£95k,10 Dec 2025,No,Senior
+1507,Data Analyst,Kestrel Logistics,Glasgow,,2025-04-12,yes,
+308,Data Scientist II,Marlowe Consulting,Sheffield,,26 Aug 2025,yes,
+512,Machine Learning Engineer,Kestrel Logistics,london,,29/08/2025,Yes,Graduate
+380,Insights Analyst,Marlowe Consulting,Edinburgh,"£75,000 - £95,000",13 Jun 2025,No,Senior
+492,Data Analyst,BrightPath Retail,london,Competitive salary,2026-02-25,Hybrid,Senior
+831,Business Intelligence Analyst,Orchard Media,Liverpool,,09 May 2025,yes,Mid
+761,Data Scientist,BrightPath Retail,Work from home,"£37,000",2025-07-07,N/A,
+367,Junior Data Scientist,Kestrel Logistics,Bristol,"£85,000",12/06/2025,Hybrid,Senior
+1380,Data Analyst,Fenwick Insurance,remote,Competitive salary,30 Jul 2025,No,
+883,Analytics Consultant,Grove & Co,Sheffield,Competitive salary,11 Feb 2025,Yes,Senior
+860,Data Science Intern,Grove & Co,Leeds,"£40,000 - £55,000",18 Feb 2025,Yes,
+1354,Data Engineer,Solstice Energy,Work from home,Competitive salary,2025-09-16,Hybrid,Junior
+269,Analytics Consultant,Fenwick Insurance,"Manchester, UK","£37,000",13 Jul 2025,yes,Mid
+583,Data Analyst,Marlowe Consulting,Leeds,"£47,500",23 Mar 2025,N/A,
+68,Junior Data Scientist,Kestrel Logistics,Birmingham,,25/12/2025,Hybrid,Junior
+695,Junior Data Scientist,Solstice Energy,Birmingham,"£37,000",07/03/2026,No,Graduate
+1541,Insights Analyst,Fenwick Insurance,Edinburgh,"£40,000 - £55,000",14 Feb 2026,Hybrid,Mid
+698,Junior Data Scientist,Solstice Energy,Liverpool,,2025-07-01,No,Graduate
+1258,Junior Data Scientist,Vantage Health,"London, UK","£45,000",2025-05-16,yes,Graduate
+371,Data Analyst,Ashford Digital,Leeds,"£37,000",2025-05-14,Yes,
+1522,Insights Analyst,Orchard Media,London,"£39,500",03/10/2025,,Junior
+1265,Machine Learning Engineer,Grove & Co,Bristol,£28k-£35k,15 Sep 2025,yes,Junior
+790,Data Analyst,Fenwick Insurance,Liverpool,Competitive salary,2025-01-30,Hybrid,Senior
+603,Insights Analyst,Kestrel Logistics,Sheffield,"£47,500",08/05/2026,,
+327,Machine Learning Engineer,Ashford Digital,Sheffield,£40k-£55k,2026-02-21,Yes,Mid
+91,Data Engineer,Vantage Health,Sheffield,Competitive salary,26 Apr 2025,No,
+993,Machine Learning Engineer,BrightPath Retail,Bristol,"£75,000 - £95,000",2025-03-02,Hybrid,Senior
+763,Analytics Consultant,Ashford Digital,Sheffield,"£47,500",05/04/2026,yes,Mid
+1041,Data Science Intern,Solstice Energy,Bristol,Competitive salary,07/11/2025,Yes,Senior
+1482,Data Scientist,Redbridge Telecom,Leeds,Competitive salary,20 Oct 2025,,Graduate
+1566,Data Scientist II,Redbridge Telecom,remote,,01/06/2025,yes,Senior
+1323,Junior Data Scientist,Orchard Media,Remote (UK),,02 Mar 2025,Hybrid,Mid
+783,Junior Data Scientist,Ashford Digital,WFH,£32k-£42k,17/04/2025,,Mid
+1202,Business Intelligence Analyst,Alderly Bank,Leeds,,02 Oct 2025,No,
+82,Data Scientist II,Redbridge Telecom,Bristol,£40k-£55k,2025-07-04,Hybrid,Mid
+441,Junior Data Scientist,BrightPath Retail,LONDON,Competitive salary,02 Nov 2025,Hybrid,Senior
+838,Data Scientist II,Alderly Bank,"London, UK","£36,000 - £43,000",10 Jun 2025,Hybrid,Junior
+774,Data Scientist,Grove & Co,Edinburgh,,2025-10-04,yes,Mid
+1480,Analytics Consultant,Alderly Bank,Birmingham,Competitive salary,01/03/2026,,Senior
+62,Machine Learning Engineer,Vantage Health,WFH,,23/04/2025,,Graduate
+751,Insights Analyst,Northwind Analytics,Bristol,,2025-08-03,Hybrid,Junior
+925,Data Analyst,Fenwick Insurance,Sheffield,"£28,000 - £35,000",10/07/2025,Hybrid,Junior
+1237,Data Scientist II,Fenwick Insurance,Remote,"£31,500",2025-08-08,Hybrid,Junior
+506,Insights Analyst,BrightPath Retail,Bristol,"£31,500",11 Jan 2026,Yes,Graduate
+1120,Machine Learning Engineer,Northwind Analytics,Birmingham,"£40,000 - £55,000",04/08/2025,yes,
+64,Data Scientist II,Northwind Analytics,Remote (UK),"£28,000 - £35,000",26/11/2025,No,Graduate
+67,Machine Learning Engineer,Kestrel Logistics,"Manchester, UK",£28k-£35k,2025-04-13,yes,Junior
+166,Data Analyst,Fenwick Insurance,"Manchester, UK",£32k-£42k,29/12/2025,,Mid
+1471,Data Engineer,BrightPath Retail,Sheffield,Competitive salary,04 Aug 2025,yes,Graduate
+289,Data Scientist,BrightPath Retail,remote,Competitive salary,29 Jan 2026,yes,Junior
+258,Junior Data Scientist,Grove & Co,Edinburgh,Competitive salary,07 Mar 2025,No,Mid
+1484,Insights Analyst,Grove & Co,Remote (UK),£28k-£35k,23/08/2025,N/A,Graduate
+1567,Data Science Intern,Solstice Energy,Glasgow,"£40,000 - £55,000",08/02/2025,N/A,Mid
+1179,Data Analyst,Fenwick Insurance,Sheffield,"£31,500",25 Mar 2025,Yes,Junior
+1445,Junior Data Scientist,Vantage Health,Bristol,£40k-£55k,2025-08-12,N/A,Mid
+1245,Analytics Consultant,BrightPath Retail,Work from home,"£85,000",2025-07-24,yes,Senior
+544,Data Engineer,Fenwick Insurance,Work from home,"£31,500",08/05/2025,Yes,Graduate
+1496,Junior Data Scientist,Alderly Bank,Sheffield,£40k-£55k,2025-01-15,yes,
+1302,Junior Data Scientist,Fenwick Insurance,Sheffield,"£47,500",06 Feb 2026,Hybrid,
+704,Junior Data Scientist,Northwind Analytics,Sheffield,"£28,000 - £35,000",19/11/2025,yes,Graduate
+1025,Data Scientist,Orchard Media,Leeds,"£37,000",29 Nov 2025,Hybrid,Mid
+1291,Insights Analyst,Grove & Co,Liverpool,Competitive salary,15/01/2026,No,Mid
+1208,Data Scientist,Fenwick Insurance,Edinburgh,Competitive salary,2026-02-24,N/A,Senior
+1420,Data Analyst,Fenwick Insurance,Bristol,"£28,000 - £35,000",28/11/2025,N/A,Graduate
+585,Data Engineer,BrightPath Retail,Leeds,£55k-£75k,11/02/2026,yes,Senior
+1253,Data Scientist II,Kestrel Logistics,Leeds,"£32,000 - £42,000",2025-04-19,N/A,Junior
+608,Data Analyst,Ashford Digital,Edinburgh,Competitive salary,2026-02-24,yes,Mid
+1431,Business Intelligence Analyst,Grove & Co,Leeds,,28/12/2025,No,Senior
+333,Analytics Consultant,Grove & Co,Edinburgh,£32k-£42k,11/05/2026,No,Graduate
+467,Junior Data Scientist,Ashford Digital,Remote,£75k-£95k,03/03/2025,No,Senior
+1352,Data Scientist,Redbridge Telecom,Glasgow,£75k-£95k,05 Mar 2026,Hybrid,Senior
+384,Junior Data Scientist,Redbridge Telecom,Leeds,£28k-£35k,2025-09-09,Yes,Graduate
+1539,Data Engineer,Orchard Media,"London, UK",£63k-£83k,16/04/2025,yes,
+156,Data Science Intern,Redbridge Telecom,WFH,,11/01/2025,No,Senior
+254,Data Science Intern,Solstice Energy,Sheffield,"£37,000",2026-01-06,,Graduate
+1561,Data Scientist,Marlowe Consulting,Birmingham,"£55,000 - £75,000",03 Mar 2025,N/A,Mid
+1298,Insights Analyst,Solstice Energy,Edinburgh,"£55,000 - £75,000",26/08/2025,,
+540,Insights Analyst,Kestrel Logistics,Glasgow,"£31,500",31/03/2025,yes,Graduate
+1105,Analytics Consultant,Marlowe Consulting,Bristol,"£47,500",2025-11-22,Hybrid,
+361,Data Analyst,Marlowe Consulting,Glasgow,"£85,000",16/10/2025,N/A,Senior
+1055,Data Science Intern,BrightPath Retail,Bristol,Competitive salary,01/05/2025,,Senior
+1346,Data Engineer,Fenwick Insurance,Manchester,"£32,000 - £42,000",2025-09-19,No,Graduate
+368,Data Engineer,BrightPath Retail,Leeds,£28k-£35k,2025-02-24,,Graduate
+379,Data Engineer,Grove & Co,Liverpool,,06/10/2025,Hybrid,
+907,Business Intelligence Analyst,Marlowe Consulting,Birmingham,,04 Jul 2025,N/A,Senior
+126,Analytics Consultant,Ashford Digital,Bristol,"£28,000 - £35,000",2026-04-30,Hybrid,Junior
+1367,Junior Data Scientist,Vantage Health,Bristol,£40k-£55k,2025-02-19,yes,Mid
+1422,Analytics Consultant,Redbridge Telecom,Glasgow,Competitive salary,2026-02-18,Yes,Mid
+382,Data Engineer,Grove & Co,Leeds,£28k-£35k,22/10/2025,Hybrid,Graduate
+1462,Data Scientist,Redbridge Telecom,manchester,£32k-£42k,2025-03-31,yes,Junior
+405,Data Analyst,BrightPath Retail,Edinburgh,Competitive salary,01/02/2025,yes,Graduate
+975,Junior Data Scientist,BrightPath Retail,Glasgow,"£40,000 - £55,000",2025-11-24,N/A,
+395,Data Engineer,Alderly Bank,Glasgow,"£28,000 - £35,000",13/06/2025,Yes,Junior
+1568,Data Scientist II,Grove & Co,Bristol,"£28,000 - £35,000",22/01/2026,No,Graduate
+1324,Machine Learning Engineer,Kestrel Logistics,Edinburgh,£28k-£35k,17 Feb 2025,Yes,Junior
+163,Business Intelligence Analyst,Redbridge Telecom,LONDON,"£39,500",25/08/2025,Yes,Graduate
+103,Data Scientist II,Ashford Digital,Bristol,£55k-£75k,22 Aug 2025,No,
+827,Data Analyst,Ashford Digital,Leeds,£40k-£55k,11/11/2025,Hybrid,
+478,Insights Analyst,Grove & Co,Liverpool,£32k-£42k,19 Sep 2025,Hybrid,Graduate
+1127,Junior Data Scientist,Orchard Media,Greater London,"£40,000 - £50,000",14/07/2025,yes,Mid
+1344,Junior Data Scientist,Grove & Co,Liverpool,"£28,000 - £35,000",11 Oct 2025,No,Graduate
+1441,Machine Learning Engineer,Solstice Energy,Work from home,Competitive salary,25/02/2025,,Junior
+188,Business Intelligence Analyst,Ashford Digital,LONDON,£36k-£43k,11 Jan 2026,N/A,Junior
+1521,Junior Data Scientist,Fenwick Insurance,Glasgow,,08/05/2025,yes,Junior
+167,Data Scientist II,Marlowe Consulting,Sheffield,"£85,000",18/07/2025,Hybrid,Senior
+1114,Data Scientist,Fenwick Insurance,Greater London,"£55,500",2025-07-01,Yes,
+285,Machine Learning Engineer,Redbridge Telecom,"Manchester, UK",£28k-£35k,07 Apr 2026,yes,Junior
+1387,Machine Learning Engineer,Orchard Media,Leeds,"£28,000 - £35,000",22 Jan 2026,Yes,Junior
+250,Data Science Intern,Ashford Digital,Liverpool,£28k-£35k,15 Dec 2025,Yes,Graduate
+217,Business Intelligence Analyst,Orchard Media,Sheffield,"£47,500",24 Apr 2026,N/A,Mid
+1499,Junior Data Scientist,Marlowe Consulting,Glasgow,"£55,000 - £75,000",2025-12-09,Hybrid,
+1290,Data Analyst,Fenwick Insurance,Sheffield,"£85,000",2026-03-19,Yes,Senior
+1234,Junior Data Scientist,Kestrel Logistics,Glasgow,Competitive salary,18/01/2026,Hybrid,
+1454,Data Scientist II,BrightPath Retail,Glasgow,,2026-02-16,No,Senior
+699,Data Science Intern,Redbridge Telecom,Greater London,Competitive salary,18/05/2025,yes,
+28,Junior Data Scientist,Orchard Media,"London, UK","£93,000",05 Aug 2025,N/A,Senior
+20,Data Analyst,Kestrel Logistics,Leeds,Competitive salary,2025-10-11,yes,Senior
+155,Data Analyst,Orchard Media,"London, UK","£40,000 - £50,000",18/03/2026,yes,Junior
+179,Junior Data Scientist,Orchard Media,Manchester,"£40,000 - £55,000",2025-08-01,,
+486,Data Engineer,Redbridge Telecom,Liverpool,"£28,000 - £35,000",09/12/2025,,Graduate
+316,Data Engineer,Solstice Energy,manchester,Competitive salary,18 Jul 2025,,
+1219,Junior Data Scientist,Orchard Media,Edinburgh,"£40,000 - £55,000",2025-12-30,yes,
+720,Data Scientist,Orchard Media,Work from home,"£31,500",02/04/2025,Yes,Junior
+1157,Data Scientist,Kestrel Logistics,london,£63k-£83k,30 Jun 2025,Hybrid,
+153,Data Engineer,Vantage Health,Leeds,"£85,000",2025-03-03,,Senior
+498,Insights Analyst,Orchard Media,Liverpool,"£85,000",19/04/2025,N/A,Senior
+220,Data Scientist,Vantage Health,Glasgow,"£55,000 - £75,000",2025-08-09,Hybrid,Senior
+1458,Data Analyst,Alderly Bank,LONDON,£36k-£43k,21 Sep 2025,N/A,Graduate
+48,Data Science Intern,Redbridge Telecom,Leeds,"£32,000 - £42,000",24 Sep 2025,N/A,Junior
+1181,Data Engineer,Vantage Health,"Manchester, UK",Competitive salary,09/02/2026,Yes,Graduate
+1043,Machine Learning Engineer,Solstice Energy,WFH,,08/09/2025,N/A,
+1134,Data Analyst,Alderly Bank,Sheffield,£28k-£35k,27/12/2025,Yes,Junior
+174,Junior Data Scientist,Ashford Digital,Sheffield,,06 Jul 2025,N/A,
+922,Data Scientist II,Orchard Media,Bristol,,10/01/2026,No,
+1148,Data Science Intern,Alderly Bank,Glasgow,£40k-£55k,07/04/2026,Yes,
+547,Data Engineer,Kestrel Logistics,Leeds,£28k-£35k,2026-02-03,Yes,Graduate
+577,Junior Data Scientist,Vantage Health,"Manchester, UK","£65,000",25 Dec 2025,,
+1002,Data Engineer,Solstice Energy,manchester,"£37,000",2025-02-17,Yes,Graduate
+109,Junior Data Scientist,Orchard Media,Birmingham,"£47,500",16 Nov 2025,,
+1434,Data Scientist II,Solstice Energy,Birmingham,£32k-£42k,03 Oct 2025,No,Graduate
+710,Business Intelligence Analyst,BrightPath Retail,london,,04/06/2025,N/A,
+272,Data Engineer,Marlowe Consulting,Edinburgh,Competitive salary,29/11/2025,Hybrid,
+701,Data Analyst,Alderly Bank,Liverpool,Competitive salary,01 Apr 2026,Yes,
+834,Junior Data Scientist,Kestrel Logistics,Birmingham,"£65,000",2026-03-17,N/A,
+870,Insights Analyst,Grove & Co,Sheffield,Competitive salary,28 Jan 2026,No,Graduate
+1050,Data Analyst,Grove & Co,Sheffield,£40k-£55k,22 Apr 2026,,Mid
+752,Data Engineer,Vantage Health,Sheffield,Competitive salary,12 May 2026,No,Graduate
+1376,Junior Data Scientist,Northwind Analytics,Work from home,Competitive salary,01 May 2025,Hybrid,Graduate
+769,Data Engineer,Marlowe Consulting,Edinburgh,"£31,500",06 Sep 2025,N/A,Graduate
+554,Data Engineer,Orchard Media,Edinburgh,,03 Apr 2025,No,
+1423,Machine Learning Engineer,Northwind Analytics,Sheffield,"£40,000 - £55,000",2025-08-03,Yes,Mid
+1281,Data Scientist II,Alderly Bank,"Manchester, UK",£75k-£95k,10 Aug 2025,Yes,Senior
+1385,Data Scientist,Orchard Media,"Manchester, UK",Competitive salary,02 Feb 2025,Yes,Senior
+963,Data Scientist II,Kestrel Logistics,"Manchester, UK","£32,000 - £42,000",17/11/2025,yes,Graduate
+1251,Insights Analyst,Orchard Media,Glasgow,Competitive salary,02 Sep 2025,,Graduate
+780,Data Analyst,Marlowe Consulting,remote,Competitive salary,06 Nov 2025,Yes,
+620,Data Analyst,Vantage Health,Glasgow,£28k-£35k,14 Jan 2026,No,Junior
+40,Data Scientist II,Northwind Analytics,Manchester,"£37,000",26 Oct 2025,No,Mid
+1465,Insights Analyst,Ashford Digital,manchester,"£31,500",20 Apr 2026,N/A,Graduate
+1225,Business Intelligence Analyst,Vantage Health,Birmingham,"£37,000",2026-04-13,,Junior
+65,Analytics Consultant,Alderly Bank,LONDON,£48k-£63k,21/08/2025,Hybrid,
+682,Machine Learning Engineer,Fenwick Insurance,Glasgow,,27/02/2025,,Junior
+165,Data Scientist,Solstice Energy,Sheffield,Competitive salary,2025-03-19,,Senior
+939,Machine Learning Engineer,Alderly Bank,Work from home,"£75,000 - £95,000",2025-01-27,No,Senior
+1477,Data Analyst,BrightPath Retail,remote,Competitive salary,2025-05-29,No,Mid
+83,Data Scientist,Ashford Digital,Liverpool,"£55,000 - £75,000",11/10/2025,N/A,Senior
+1566,Data Scientist II,Redbridge Telecom,remote,,01/06/2025,yes,Senior
+887,Data Analyst,Northwind Analytics,Birmingham,Competitive salary,07/01/2026,Hybrid,
+1459,Analytics Consultant,Orchard Media,"London, UK","£63,000 - £83,000",21/03/2026,,Senior
+539,Data Analyst,BrightPath Retail,Liverpool,"£31,500",09/05/2026,No,Graduate
+882,Data Scientist,Marlowe Consulting,Manchester,Competitive salary,06/08/2025,Yes,Graduate
+490,Data Scientist,Grove & Co,Manchester,"£55,000 - £75,000",16 Apr 2025,N/A,Mid
+107,Data Science Intern,Northwind Analytics,Edinburgh,£55k-£75k,2025-09-11,No,
+342,Junior Data Scientist,Solstice Energy,Edinburgh,Competitive salary,18/12/2025,No,Mid
+653,Data Scientist,Alderly Bank,Greater London,"£39,500",2026-04-17,Yes,Graduate
+1003,Data Scientist II,Alderly Bank,Greater London,£40k-£50k,2025-04-12,,
+1241,Insights Analyst,Grove & Co,WFH,£75k-£95k,2025-04-11,,Senior
+1066,Data Analyst,BrightPath Retail,Remote,,28/01/2026,No,Mid
+574,Data Engineer,Northwind Analytics,Liverpool,Competitive salary,12/08/2025,No,Mid
+1052,Data Scientist II,Orchard Media,Bristol,"£47,500",06 Apr 2025,No,Mid
+394,Junior Data Scientist,Orchard Media,Glasgow,"£75,000 - £95,000",01/03/2026,yes,Senior
+518,Analytics Consultant,Solstice Energy,Leeds,£32k-£42k,2025-01-23,yes,
+748,Data Engineer,BrightPath Retail,Leeds,£55k-£75k,07/02/2025,yes,Mid
+347,Machine Learning Engineer,Alderly Bank,Remote (UK),Competitive salary,2025-12-16,,
+1378,Insights Analyst,Fenwick Insurance,Liverpool,£55k-£75k,27/02/2025,,Senior
+33,Data Scientist II,Fenwick Insurance,Bristol,"£85,000",2025-07-22,N/A,Senior
+1014,Data Scientist II,Northwind Analytics,Glasgow,,25 Jun 2025,,Junior
+727,Data Analyst,Fenwick Insurance,Liverpool,"£37,000",2025-11-28,No,Junior
+171,Machine Learning Engineer,Alderly Bank,Liverpool,"£40,000 - £55,000",05/07/2025,No,
+599,Data Engineer,Marlowe Consulting,Manchester,£55k-£75k,09 Apr 2025,N/A,Mid
+1585,Machine Learning Engineer,Ashford Digital,Work from home,"£55,000 - £75,000",20/06/2025,yes,Mid
+404,Analytics Consultant,Vantage Health,Leeds,£28k-£35k,21 Jan 2026,N/A,Graduate
+228,Data Science Intern,Redbridge Telecom,Bristol,"£37,000",11 May 2026,yes,Graduate
+307,Data Science Intern,Fenwick Insurance,Remote,"£31,500",24 Apr 2025,N/A,Junior
+807,Data Scientist II,Alderly Bank,Glasgow,"£55,000 - £75,000",17/06/2025,Yes,Senior
+1299,Junior Data Scientist,Northwind Analytics,Bristol,"£32,000 - £42,000",25/10/2025,Yes,Junior
+277,Machine Learning Engineer,Alderly Bank,Birmingham,Competitive salary,2025-01-18,N/A,Mid
+1498,Analytics Consultant,Redbridge Telecom,Birmingham,Competitive salary,11/07/2025,,Mid
+142,Data Science Intern,BrightPath Retail,Edinburgh,Competitive salary,05 May 2026,yes,Graduate
+758,Business Intelligence Analyst,Alderly Bank,Glasgow,£55k-£75k,24 Mar 2026,,
+175,Data Engineer,Solstice Energy,Sheffield,Competitive salary,03/05/2025,,
+1702,,,,,,,
+705,Junior Data Scientist,Redbridge Telecom,LONDON,"£39,500",2025-09-06,No,Graduate
+1161,Business Intelligence Analyst,Redbridge Telecom,Bristol,,05/12/2025,Hybrid,Junior
+1008,Business Intelligence Analyst,Kestrel Logistics,london,,2025-11-06,yes,
+1512,Data Scientist II,Solstice Energy,Glasgow,,11/12/2025,Yes,Mid
+917,Machine Learning Engineer,BrightPath Retail,London,Competitive salary,2026-01-13,,
+835,Data Engineer,Orchard Media,Bristol,Competitive salary,01/05/2025,No,Mid
+904,Insights Analyst,Redbridge Telecom,"Manchester, UK",£28k-£35k,2025-11-19,No,Junior
+743,Data Scientist II,BrightPath Retail,Sheffield,,30 Jan 2026,N/A,Graduate
+1332,Analytics Consultant,BrightPath Retail,"London, UK","£39,500",29/10/2025,Hybrid,Junior
+350,Insights Analyst,Alderly Bank,Bristol,Competitive salary,2026-04-17,No,Senior
+977,Data Engineer,Orchard Media,Birmingham,"£55,000 - £75,000",2025-07-03,yes,Senior
+777,Junior Data Scientist,Redbridge Telecom,Glasgow,"£32,000 - £42,000",13 Mar 2025,yes,Junior
+969,Insights Analyst,Kestrel Logistics,Sheffield,"£31,500",04/08/2025,N/A,Graduate
+1345,Data Scientist,Ashford Digital,Bristol,Competitive salary,2026-01-03,yes,Junior
+1584,Analytics Consultant,Northwind Analytics,Edinburgh,£75k-£95k,13 Oct 2025,N/A,Senior
+81,Machine Learning Engineer,BrightPath Retail,Liverpool,,22 May 2025,yes,Mid
+1220,Data Analyst,Grove & Co,Sheffield,"£85,000",2025-04-15,Yes,Senior
+1585,Machine Learning Engineer,Ashford Digital,Work from home,"£55,000 - £75,000",20/06/2025,yes,Mid
+301,Business Intelligence Analyst,Ashford Digital,Glasgow,"£85,000",23/02/2026,Hybrid,Senior
+233,Data Scientist II,Fenwick Insurance,Liverpool,£75k-£95k,2026-05-06,Hybrid,Senior
+511,Junior Data Scientist,Ashford Digital,Glasgow,,2025-04-29,Hybrid,Junior
+576,Data Scientist II,Redbridge Telecom,Bristol,,2025-04-07,No,Graduate
+962,Machine Learning Engineer,Vantage Health,Leeds,"£47,500",2026-03-03,Hybrid,
+1132,Data Analyst,BrightPath Retail,Greater London,"£55,500",15/01/2026,N/A,Mid
+1203,Data Science Intern,Fenwick Insurance,Sheffield,"£28,000 - £35,000",06 Jan 2026,yes,Junior
+325,Data Scientist II,Northwind Analytics,Glasgow,£32k-£42k,2025-06-02,,
+1403,Junior Data Scientist,Grove & Co,Liverpool,,05/01/2025,Yes,Mid
+1091,Data Scientist II,Alderly Bank,Remote,"£40,000 - £55,000",30 Apr 2026,Hybrid,Mid
+243,Analytics Consultant,Alderly Bank,Liverpool,"£75,000 - £95,000",2025-06-19,N/A,Senior
+851,Data Analyst,Alderly Bank,Leeds,"£37,000",20/08/2025,N/A,Graduate
+335,Data Scientist,Northwind Analytics,"Manchester, UK","£32,000 - £42,000",2026-04-21,,
+312,Data Scientist,Fenwick Insurance,"Manchester, UK",Competitive salary,31 Mar 2025,No,Mid
+328,Insights Analyst,Fenwick Insurance,Liverpool,"£31,500",27/12/2025,Hybrid,Graduate
+1151,Data Analyst,Orchard Media,Leeds,Competitive salary,12 Mar 2025,Yes,
+208,Data Analyst,Marlowe Consulting,Birmingham,"£47,500",24 Apr 2026,No,Mid
+622,Data Scientist,Orchard Media,Sheffield,"£75,000 - £95,000",2025-05-26,N/A,Senior
+594,Data Scientist II,Alderly Bank,Sheffield,"£85,000",2025-02-26,yes,Senior
+359,Machine Learning Engineer,Vantage Health,"Manchester, UK",Competitive salary,2025-12-11,No,Senior
+694,Insights Analyst,Orchard Media,Edinburgh,,2025-10-07,N/A,
+973,Data Scientist,Orchard Media,Edinburgh,"£40,000 - £55,000",2025-06-24,N/A,Mid
+915,Business Intelligence Analyst,Marlowe Consulting,Edinburgh,Competitive salary,31/10/2025,No,Junior
+1195,Data Analyst,Fenwick Insurance,Glasgow,"£32,000 - £42,000",2025-02-13,N/A,Graduate
+647,Data Science Intern,Ashford Digital,Liverpool,"£55,000 - £75,000",2026-01-29,Hybrid,
+744,Data Engineer,Vantage Health,london,,2025-09-12,No,Junior
+136,Data Scientist II,Kestrel Logistics,Sheffield,,2025-11-26,Yes,Graduate
+630,Data Science Intern,Vantage Health,Sheffield,£40k-£55k,2025-12-01,yes,
+437,Data Scientist,Solstice Energy,Bristol,,2026-02-07,No,Mid
+1466,Business Intelligence Analyst,Orchard Media,Remote,"£40,000 - £55,000",05/03/2026,Yes,Mid
+416,Data Analyst,Kestrel Logistics,Glasgow,Competitive salary,21/03/2026,Yes,
+731,Data Scientist,Fenwick Insurance,LONDON,"£40,000 - £50,000",19 Apr 2025,N/A,Junior
+642,Data Engineer,Vantage Health,Glasgow,,27/03/2025,Hybrid,Senior
+185,Data Scientist II,Redbridge Telecom,Leeds,"£75,000 - £95,000",11/11/2025,No,Senior
+679,Insights Analyst,Redbridge Telecom,Glasgow,£75k-£95k,01 Jan 2026,yes,Senior
+109,Junior Data Scientist,Orchard Media,Birmingham,"£47,500",16 Nov 2025,,
+18,Analytics Consultant,BrightPath Retail,Liverpool,Competitive salary,26/03/2025,yes,Mid
+44,Data Science Intern,Northwind Analytics,Glasgow,"£65,000",2025-06-06,No,Mid
+176,Data Engineer,Fenwick Insurance,Sheffield,,15 Sep 2025,,
+1600,Data Scientist,Fenwick Insurance,Glasgow,"£28,000 - £35,000",04 May 2026,Hybrid,Junior
+1176,Data Engineer,Orchard Media,Birmingham,£32k-£42k,2026-01-16,,Junior
+1336,Data Science Intern,Orchard Media,London,"£45,000",16 Mar 2026,,Graduate
+1087,Data Analyst,Ashford Digital,Liverpool,,12 Oct 2025,yes,
+648,Insights Analyst,Grove & Co,Birmingham,"£40,000 - £55,000",03/08/2025,Hybrid,Mid
+997,Data Engineer,Kestrel Logistics,Leeds,,2025-06-24,Hybrid,Mid
+268,Data Scientist II,Marlowe Consulting,Birmingham,£40k-£55k,19 Jun 2025,Yes,Mid
+1427,Data Scientist,Vantage Health,Sheffield,£32k-£42k,22 Nov 2025,Yes,Graduate
+960,Machine Learning Engineer,BrightPath Retail,Sheffield,"£55,000 - £75,000",2026-04-15,No,Mid
+649,Analytics Consultant,Vantage Health,Birmingham,"£40,000 - £55,000",15/11/2025,Yes,Mid
+843,Data Analyst,Fenwick Insurance,Liverpool,"£47,500",2026-03-27,Hybrid,
+309,Data Scientist II,Alderly Bank,Edinburgh,"£37,000",2025-08-01,Yes,
+1581,Machine Learning Engineer,Grove & Co,Glasgow,,21 Feb 2026,N/A,Graduate
+1595,Insights Analyst,Orchard Media,Bristol,"£85,000",2025-07-06,Hybrid,Senior
+1292,Data Engineer,Grove & Co,Birmingham,,16 Nov 2025,No,Senior
+1492,Data Engineer,Vantage Health,manchester,,2026-01-21,Hybrid,Junior
+1596,Data Scientist II,Fenwick Insurance,"Manchester, UK",£40k-£55k,12 Feb 2026,yes,Mid
+560,Data Scientist,Orchard Media,manchester,Competitive salary,22 Oct 2025,N/A,Graduate
+353,Junior Data Scientist,BrightPath Retail,london,,03/05/2026,yes,Junior
+1163,Data Analyst,BrightPath Retail,Sheffield,"£75,000 - £95,000",2025-06-15,No,Senior
+1327,Junior Data Scientist,Redbridge Telecom,WFH,"£28,000 - £35,000",09 May 2025,No,Junior
+423,Analytics Consultant,Alderly Bank,Birmingham,Competitive salary,17/02/2026,N/A,Mid
+1572,Data Analyst,Marlowe Consulting,Bristol,£32k-£42k,05/12/2025,Hybrid,Graduate
+908,Data Engineer,Alderly Bank,Liverpool,,31/07/2025,,Mid
+1587,Insights Analyst,Solstice Energy,Birmingham,,29/06/2025,,Mid
+1300,Insights Analyst,Solstice Energy,LONDON,,2025-05-22,No,Mid
+1060,Data Scientist II,Vantage Health,Leeds,Competitive salary,31 Jul 2025,No,
+517,Machine Learning Engineer,Redbridge Telecom,"Manchester, UK","£65,000",2026-01-04,,Mid
+321,Machine Learning Engineer,Solstice Energy,Sheffield,,2025-03-11,,Senior
+1130,Machine Learning Engineer,Northwind Analytics,Birmingham,"£31,500",19/04/2025,,Junior
+1278,Data Scientist II,Vantage Health,Sheffield,"£85,000",03/02/2025,Yes,Senior
+1271,Business Intelligence Analyst,Grove & Co,Glasgow,"£75,000 - £95,000",28/02/2026,Hybrid,Senior
+409,Insights Analyst,Vantage Health,Edinburgh,Competitive salary,23 Jul 2025,Hybrid,Junior
+105,Data Scientist,Vantage Health,Bristol,Competitive salary,05/09/2025,Hybrid,Mid
+845,Business Intelligence Analyst,Marlowe Consulting,Work from home,Competitive salary,2026-03-20,,Senior
+616,Insights Analyst,BrightPath Retail,"Manchester, UK","£65,000",2025-06-28,Hybrid,
+1481,Junior Data Scientist,Grove & Co,manchester,,2025-07-30,N/A,Graduate
+1550,Data Engineer,BrightPath Retail,Remote,,01 Aug 2025,,Junior
+1433,Business Intelligence Analyst,Vantage Health,Glasgow,"£37,000",24/10/2025,Hybrid,Junior
+964,Data Analyst,BrightPath Retail,London,"£48,000 - £63,000",2026-02-05,Yes,
+635,Insights Analyst,Kestrel Logistics,Leeds,,10 Mar 2025,yes,Senior
+805,Machine Learning Engineer,Ashford Digital,Sheffield,£32k-£42k,04/03/2026,,
+438,Insights Analyst,Orchard Media,WFH,,2025-01-03,yes,
+1554,Data Engineer,Kestrel Logistics,Bristol,,09 Dec 2025,yes,Senior
+197,Data Scientist,BrightPath Retail,Work from home,"£28,000 - £35,000",15 Mar 2025,N/A,Graduate
+837,Data Science Intern,Grove & Co,london,£48k-£63k,15/01/2025,Hybrid,Mid
+1570,Data Engineer,Fenwick Insurance,Manchester,,05 Mar 2025,N/A,Senior
+949,Insights Analyst,Fenwick Insurance,london,"£40,000 - £50,000",2026-04-07,N/A,Junior
+1279,Analytics Consultant,Northwind Analytics,Leeds,"£28,000 - £35,000",08/09/2025,Yes,Graduate
+1377,Analytics Consultant,Marlowe Consulting,Birmingham,,08 Sep 2025,,Mid
+1397,Data Analyst,Marlowe Consulting,Birmingham,"£40,000 - £55,000",14/03/2025,yes,
+392,Machine Learning Engineer,Fenwick Insurance,Birmingham,"£75,000 - £95,000",2025-05-16,No,Senior
+445,Data Analyst,Orchard Media,Glasgow,,2025-12-26,No,Junior
+1487,Data Scientist II,Grove & Co,"Manchester, UK",£75k-£95k,25 Aug 2025,Yes,Senior
+1506,Data Engineer,Kestrel Logistics,Leeds,Competitive salary,2026-03-28,Hybrid,
+1086,Insights Analyst,Alderly Bank,WFH,Competitive salary,2025-03-06,Hybrid,
+273,Business Intelligence Analyst,Fenwick Insurance,Liverpool,,25/01/2026,No,
+817,Machine Learning Engineer,Marlowe Consulting,Liverpool,"£32,000 - £42,000",16/07/2025,Hybrid,Junior
+668,Machine Learning Engineer,Ashford Digital,LONDON,,2026-03-26,Hybrid,
+692,Insights Analyst,Northwind Analytics,Sheffield,"£40,000 - £55,000",09 Jul 2025,Yes,Mid
+745,Data Scientist,Northwind Analytics,Edinburgh,"£65,000",21 Jun 2025,,Mid
+950,Junior Data Scientist,Orchard Media,Liverpool,"£32,000 - £42,000",2025-10-03,N/A,
+1307,Insights Analyst,Vantage Health,Manchester,"£37,000",07 Nov 2025,Yes,Junior
+910,Data Analyst,Fenwick Insurance,Edinburgh,"£55,000 - £75,000",2025-07-21,N/A,Mid
+927,Business Intelligence Analyst,Kestrel Logistics,Birmingham,Competitive salary,2025-06-28,Yes,Junior
+944,Data Science Intern,Marlowe Consulting,Glasgow,Competitive salary,29 May 2025,No,Junior
+856,Data Scientist II,Orchard Media,Glasgow,£28k-£35k,08/04/2025,Hybrid,Junior
+863,Data Scientist II,Solstice Energy,Edinburgh,"£37,000",30 Dec 2025,,Mid
+832,Analytics Consultant,Grove & Co,Liverpool,Competitive salary,2025-09-13,N/A,Junior
+427,Machine Learning Engineer,Vantage Health,Bristol,Competitive salary,2026-01-27,Yes,Mid
+723,Business Intelligence Analyst,Solstice Energy,"London, UK","£40,000 - £50,000",07/12/2025,Hybrid,Mid
+1464,Insights Analyst,Kestrel Logistics,Liverpool,"£31,500",2025-07-10,No,Junior
+257,Data Science Intern,Fenwick Insurance,WFH,"£55,000 - £75,000",16 Dec 2025,yes,
+1494,Junior Data Scientist,Alderly Bank,Liverpool,"£31,500",16/10/2025,N/A,Junior
+465,Analytics Consultant,Fenwick Insurance,Liverpool,"£75,000 - £95,000",19 Feb 2025,No,Senior
+1109,Data Scientist,Ashford Digital,Remote (UK),Competitive salary,17 Dec 2025,Yes,Senior
+841,Machine Learning Engineer,Redbridge Telecom,remote,£40k-£55k,2025-02-24,No,
+942,Business Intelligence Analyst,Marlowe Consulting,Sheffield,"£47,500",18/10/2025,,Mid
+88,Business Intelligence Analyst,Redbridge Telecom,Sheffield,£28k-£35k,2025-11-17,Hybrid,Graduate
+295,Insights Analyst,Redbridge Telecom,Edinburgh,,2025-07-18,N/A,Junior
+615,Insights Analyst,Kestrel Logistics,Liverpool,"£37,000",02/02/2026,Hybrid,Mid
+885,Business Intelligence Analyst,Fenwick Insurance,Sheffield,"£47,500",2026-05-10,No,
+43,Data Science Intern,Northwind Analytics,Birmingham,"£47,500",23 Mar 2025,Yes,
+754,Data Science Intern,Ashford Digital,Leeds,Competitive salary,24 Apr 2025,No,Senior
+329,Insights Analyst,Vantage Health,Liverpool,"£55,000 - £75,000",22 May 2025,No,Mid
+527,Data Engineer,BrightPath Retail,Bristol,"£75,000 - £95,000",30 Dec 2025,Yes,Senior
+796,Data Scientist II,Redbridge Telecom,Liverpool,"£55,000 - £75,000",2025-03-01,Yes,
+358,Data Science Intern,Alderly Bank,Birmingham,£32k-£42k,2025-06-14,,Graduate
+1305,Data Scientist,Northwind Analytics,Birmingham,,24 Apr 2026,,Junior
+588,Junior Data Scientist,Ashford Digital,Liverpool,£55k-£75k,12 Jun 2025,N/A,Mid
+296,Data Scientist II,Kestrel Logistics,Sheffield,£40k-£55k,18/05/2025,Hybrid,
+459,Analytics Consultant,Fenwick Insurance,remote,"£28,000 - £35,000",2025-11-26,yes,Graduate
+738,Machine Learning Engineer,Marlowe Consulting,Birmingham,£32k-£42k,21 Feb 2025,yes,Mid
+1438,Machine Learning Engineer,Northwind Analytics,Birmingham,"£47,500",2025-11-28,No,
+931,Analytics Consultant,Ashford Digital,Bristol,Competitive salary,19 Nov 2025,Hybrid,Mid
+1384,Junior Data Scientist,Marlowe Consulting,Leeds,£28k-£35k,06 Nov 2025,Yes,Graduate
+982,Junior Data Scientist,Marlowe Consulting,Sheffield,£28k-£35k,2026-03-28,No,Junior
+1396,Machine Learning Engineer,Solstice Energy,Sheffield,£75k-£95k,19 Feb 2026,Yes,Senior
+972,Machine Learning Engineer,Vantage Health,Edinburgh,"£28,000 - £35,000",02 May 2025,yes,Graduate
+707,Data Analyst,Redbridge Telecom,Birmingham,£40k-£55k,14 May 2025,No,
+513,Data Scientist,Grove & Co,Edinburgh,"£31,500",24 Oct 2025,yes,Graduate
+1255,Data Scientist II,Fenwick Insurance,Bristol,£32k-£42k,23/04/2025,,Mid
+1573,Data Analyst,Marlowe Consulting,Sheffield,"£37,000",25/03/2026,Yes,Mid
+487,Data Engineer,Grove & Co,Sheffield,,2026-04-14,,Junior
+921,Junior Data Scientist,Solstice Energy,Leeds,Competitive salary,26 Jul 2025,yes,Junior
+793,Data Analyst,Redbridge Telecom,Birmingham,"£85,000",17 Dec 2025,N/A,Senior
+1262,Data Science Intern,BrightPath Retail,london,"£36,000 - £43,000",2025-01-28,yes,Junior
+1586,Data Scientist II,Ashford Digital,Leeds,"£55,000 - £75,000",24/11/2025,Hybrid,Senior
+791,Analytics Consultant,Ashford Digital,Birmingham,"£37,000",04/07/2025,N/A,Mid
+1321,Machine Learning Engineer,Orchard Media,Glasgow,"£32,000 - £42,000",2025-01-14,yes,Mid
+1171,Insights Analyst,BrightPath Retail,Glasgow,"£31,500",2025-03-14,No,Junior
+976,Data Engineer,Solstice Energy,Sheffield,"£65,000",18 Feb 2026,,Mid
+1329,Data Engineer,Marlowe Consulting,Bristol,"£28,000 - £35,000",27/06/2025,N/A,Graduate
+41,Data Science Intern,Alderly Bank,LONDON,"£73,000",18 Apr 2025,No,Senior
+152,Insights Analyst,Solstice Energy,Liverpool,,2025-11-03,Yes,Junior
+1118,Business Intelligence Analyst,BrightPath Retail,Glasgow,"£47,500",18/01/2026,Yes,Mid
+1155,Business Intelligence Analyst,Fenwick Insurance,Glasgow,Competitive salary,21/12/2025,N/A,Mid
+73,Analytics Consultant,Ashford Digital,Birmingham,Competitive salary,18 Feb 2026,,Mid
+1287,Data Scientist,Marlowe Consulting,"London, UK",Competitive salary,10/04/2026,No,Junior
+460,Analytics Consultant,Solstice Energy,Birmingham,£40k-£55k,19/06/2025,Yes,
+246,Junior Data Scientist,Alderly Bank,Glasgow,"£37,000",2025-07-16,,Mid
+1162,Data Analyst,Northwind Analytics,Birmingham,,17 Aug 2025,,Senior
+794,Machine Learning Engineer,BrightPath Retail,Liverpool,£32k-£42k,23/09/2025,Hybrid,Mid
+120,Business Intelligence Analyst,Grove & Co,Birmingham,,18 Jan 2025,Hybrid,Junior
+1153,Junior Data Scientist,Kestrel Logistics,manchester,"£32,000 - £42,000",2026-05-06,yes,Mid
+8,Machine Learning Engineer,Fenwick Insurance,Leeds,Competitive salary,2026-01-09,No,Junior
+781,Machine Learning Engineer,Orchard Media,Birmingham,"£85,000",07/01/2025,Hybrid,Senior
+13,Data Science Intern,Redbridge Telecom,manchester,Competitive salary,09 May 2025,Yes,
+479,Data Scientist,Orchard Media,WFH,"£55,000 - £75,000",16/01/2026,No,Senior
+213,Business Intelligence Analyst,Grove & Co,Bristol,"£65,000",2025-08-21,N/A,Mid
+1364,Machine Learning Engineer,Northwind Analytics,Sheffield,,2025-06-13,No,Senior
+79,Data Engineer,Vantage Health,Sheffield,,17 Jan 2026,Hybrid,
+759,Junior Data Scientist,Fenwick Insurance,Glasgow,"£37,000",2025-09-29,Hybrid,Junior
+1569,Junior Data Scientist,Solstice Energy,Birmingham,,20 Jul 2025,No,
+348,Data Analyst,Northwind Analytics,Sheffield,£28k-£35k,2025-01-21,,Junior
+1267,Analytics Consultant,Alderly Bank,"London, UK","£48,000 - £63,000",01/04/2025,Yes,
+36,Business Intelligence Analyst,Alderly Bank,Glasgow,Competitive salary,03 Jun 2025,Yes,Graduate
+1544,Data Science Intern,Solstice Energy,LONDON,£63k-£83k,2026-03-10,No,Senior
+1061,Data Scientist,Grove & Co,Edinburgh,"£65,000",14/12/2025,No,Senior
+840,Data Scientist II,BrightPath Retail,Liverpool,£32k-£42k,2025-11-04,Hybrid,
+134,Data Engineer,Redbridge Telecom,Edinburgh,"£40,000 - £55,000",06 Mar 2025,,Mid
+1516,Machine Learning Engineer,Marlowe Consulting,Glasgow,"£85,000",30/08/2025,Hybrid,Senior
+117,Business Intelligence Analyst,Kestrel Logistics,WFH,,20/10/2025,yes,Junior
+651,Analytics Consultant,Solstice Energy,WFH,£28k-£35k,28 Mar 2026,Hybrid,Junior
+1121,Analytics Consultant,Grove & Co,Birmingham,£55k-£75k,2025-02-26,Yes,
+294,Data Scientist II,Marlowe Consulting,Liverpool,"£28,000 - £35,000",01 Jul 2025,Yes,Junior
+330,Junior Data Scientist,Kestrel Logistics,Birmingham,,14 Mar 2025,N/A,Mid
+1693,,,,,,,
+590,Analytics Consultant,Marlowe Consulting,Bristol,Competitive salary,28/06/2025,N/A,Mid
+1083,Data Science Intern,Solstice Energy,Bristol,,19 Mar 2026,,
+1233,Business Intelligence Analyst,Alderly Bank,Leeds,Competitive salary,11 Feb 2026,Hybrid,
+504,Data Scientist,Fenwick Insurance,Leeds,"£47,500",10 Mar 2025,N/A,
+375,Junior Data Scientist,BrightPath Retail,Edinburgh,"£32,000 - £42,000",28 Mar 2025,,Junior
+1014,Data Scientist II,Northwind Analytics,Glasgow,,25 Jun 2025,,Junior
+52,Insights Analyst,Redbridge Telecom,Edinburgh,£55k-£75k,19/09/2025,N/A,
+899,Analytics Consultant,Alderly Bank,Birmingham,"£55,000 - £75,000",11/02/2026,,Mid
+1348,Data Scientist,Fenwick Insurance,Sheffield,"£85,000",29/08/2025,yes,Senior
+688,Junior Data Scientist,Vantage Health,Remote,Competitive salary,30/01/2026,Hybrid,Graduate
+399,Business Intelligence Analyst,Grove & Co,Bristol,"£32,000 - £42,000",21 Jul 2025,yes,Mid
+1285,Insights Analyst,Grove & Co,Glasgow,"£55,000 - £75,000",12 Mar 2025,,
+377,Business Intelligence Analyst,Solstice Energy,Birmingham,"£31,500",13/09/2025,yes,Graduate
+462,Analytics Consultant,BrightPath Retail,Glasgow,,17 Jan 2026,Yes,Senior
+131,Data Analyst,Grove & Co,Leeds,£28k-£35k,06 Mar 2025,No,Junior
+1036,Insights Analyst,Marlowe Consulting,Leeds,,07/01/2026,Hybrid,Graduate
+598,Data Science Intern,Fenwick Insurance,Greater London,"£63,000 - £83,000",04/03/2026,Yes,Senior
+314,Data Science Intern,Orchard Media,Greater London,Competitive salary,08/08/2025,Yes,Mid
+779,Data Scientist,Redbridge Telecom,Leeds,"£75,000 - £95,000",12 Feb 2025,,Senior
+802,Machine Learning Engineer,Northwind Analytics,Manchester,"£85,000",24 Mar 2025,N/A,Senior
+116,Data Scientist II,Alderly Bank,manchester,,20/12/2025,,Senior
+1320,Data Scientist II,Solstice Energy,Birmingham,"£28,000 - £35,000",12 Sep 2025,No,Junior
+411,Insights Analyst,Redbridge Telecom,Sheffield,"£31,500",21 Mar 2026,Hybrid,Junior
+947,Data Analyst,Alderly Bank,Liverpool,Competitive salary,16/09/2025,N/A,
+718,Data Science Intern,Grove & Co,Sheffield,"£31,500",31/05/2025,N/A,Junior
+360,Data Engineer,Marlowe Consulting,"London, UK","£45,000",01/02/2026,Hybrid,Junior
+514,Junior Data Scientist,Orchard Media,Work from home,Competitive salary,09/05/2025,No,Graduate
+700,Insights Analyst,Fenwick Insurance,London,"£45,000",27 Feb 2025,,Graduate
+313,Machine Learning Engineer,Marlowe Consulting,WFH,£55k-£75k,06 Apr 2025,N/A,Mid
+30,Data Scientist II,Northwind Analytics,Edinburgh,Competitive salary,16 Apr 2026,No,Junior
+1165,Junior Data Scientist,Grove & Co,Leeds,Competitive salary,01/10/2025,yes,
+90,Insights Analyst,Solstice Energy,Bristol,"£47,500",26/12/2025,Yes,Mid
+652,Insights Analyst,Grove & Co,Liverpool,£28k-£35k,29 Jan 2025,Hybrid,Junior
+431,Junior Data Scientist,Vantage Health,manchester,Competitive salary,2026-01-26,N/A,Mid
+388,Machine Learning Engineer,Alderly Bank,Birmingham,£40k-£55k,29 Dec 2025,N/A,
+1032,Analytics Consultant,Ashford Digital,Edinburgh,"£75,000 - £95,000",24/09/2025,N/A,Senior
+1457,Machine Learning Engineer,Solstice Energy,Edinburgh,,30/09/2025,N/A,Junior
+85,Junior Data Scientist,Northwind Analytics,Bristol,,2025-09-09,yes,Junior
+1223,Business Intelligence Analyst,Kestrel Logistics,Liverpool,"£40,000 - £55,000",2025-05-21,No,
+906,Machine Learning Engineer,Alderly Bank,Manchester,"£55,000 - £75,000",06/05/2025,Hybrid,
+293,Business Intelligence Analyst,Solstice Energy,Edinburgh,"£28,000 - £35,000",06/04/2025,,Junior
+898,Data Science Intern,Orchard Media,Edinburgh,"£47,500",20 Dec 2025,Yes,Mid
+1528,Data Science Intern,Orchard Media,Glasgow,Competitive salary,2025-07-11,yes,Graduate
+1261,Business Intelligence Analyst,Kestrel Logistics,remote,Competitive salary,08/11/2025,yes,Graduate
+893,Data Science Intern,Solstice Energy,Sheffield,,06 Sep 2025,yes,Junior
+496,Analytics Consultant,Alderly Bank,Liverpool,Competitive salary,01 Jun 2025,No,Mid
+139,Analytics Consultant,Marlowe Consulting,Sheffield,Competitive salary,2026-01-05,,Junior
+172,Data Engineer,Fenwick Insurance,Glasgow,£40k-£55k,09/02/2025,Yes,Mid
+378,Analytics Consultant,Northwind Analytics,manchester,,13 Apr 2025,yes,
+795,Analytics Consultant,Orchard Media,Edinburgh,£28k-£35k,2025-09-15,No,Junior
+78,Analytics Consultant,Grove & Co,Glasgow,"£31,500",24/04/2025,N/A,Junior
+469,Insights Analyst,Marlowe Consulting,Birmingham,Competitive salary,24/04/2026,yes,Junior
+229,Insights Analyst,Kestrel Logistics,Greater London,Competitive salary,19 Nov 2025,yes,
+224,Data Engineer,Redbridge Telecom,Liverpool,"£28,000 - £35,000",2025-01-20,N/A,Graduate
+981,Data Science Intern,Grove & Co,manchester,,03/05/2025,Hybrid,Mid
+961,Junior Data Scientist,Fenwick Insurance,Bristol,,2025-08-10,yes,Junior
+74,Analytics Consultant,Orchard Media,Sheffield,"£75,000 - £95,000",23/05/2025,No,Senior
+1204,Insights Analyst,Alderly Bank,Edinburgh,,2026-04-24,,Junior
+261,Insights Analyst,Northwind Analytics,Leeds,Competitive salary,18/01/2025,yes,Junior
+1587,Insights Analyst,Solstice Energy,Birmingham,,29/06/2025,,Mid
+1563,Junior Data Scientist,Orchard Media,Liverpool,"£40,000 - £55,000",12 Apr 2025,N/A,Mid
+1137,Analytics Consultant,Grove & Co,manchester,,26 Sep 2025,Yes,Junior
+178,Data Analyst,Ashford Digital,Liverpool,£55k-£75k,20/05/2025,yes,Senior
+414,Analytics Consultant,Vantage Health,Edinburgh,"£85,000",24/05/2025,N/A,Senior
+809,Data Engineer,BrightPath Retail,Glasgow,,2025-12-11,,Mid
+245,Junior Data Scientist,Redbridge Telecom,WFH,"£28,000 - £35,000",25 Jul 2025,Yes,Graduate
+223,Insights Analyst,BrightPath Retail,Birmingham,"£47,500",13/10/2025,No,
+536,Analytics Consultant,Solstice Energy,london,£36k-£43k,18 Jan 2025,yes,Graduate
+1168,Data Scientist II,Solstice Energy,Birmingham,"£31,500",2026-03-11,Hybrid,Junior
+1594,Data Scientist II,Marlowe Consulting,Sheffield,Competitive salary,25/10/2025,N/A,
+587,Data Engineer,Alderly Bank,Glasgow,"£28,000 - £35,000",31/01/2025,N/A,Graduate
+1099,Data Analyst,Fenwick Insurance,Edinburgh,"£47,500",2025-01-06,,Mid
+584,Data Scientist,Ashford Digital,Liverpool,"£85,000",12/04/2025,Yes,Senior
+816,Data Scientist II,Solstice Energy,Glasgow,,16/09/2025,yes,Senior
+1424,Analytics Consultant,Grove & Co,LONDON,£36k-£43k,02 Dec 2025,N/A,Junior
+1527,Machine Learning Engineer,Kestrel Logistics,Bristol,£28k-£35k,03 Mar 2025,,Graduate
+526,Data Engineer,Solstice Energy,Work from home,,10/03/2025,,Graduate
+734,Data Scientist,Alderly Bank,LONDON,Competitive salary,29 Mar 2025,Yes,Junior
+671,Data Scientist II,Vantage Health,Edinburgh,£28k-£35k,2026-01-06,,Junior
+1100,Data Engineer,Orchard Media,Manchester,Competitive salary,25/02/2026,Yes,Mid
+376,Data Science Intern,Solstice Energy,"London, UK","£55,500",2025-04-20,Hybrid,
+137,Analytics Consultant,Orchard Media,Remote,"£55,000 - £75,000",2026-04-06,Hybrid,
+1001,Junior Data Scientist,Fenwick Insurance,Sheffield,,02 Feb 2025,,
+326,Business Intelligence Analyst,Fenwick Insurance,manchester,£28k-£35k,20 Feb 2026,yes,Junior
+237,Data Engineer,Marlowe Consulting,Bristol,Competitive salary,15 Jan 2026,No,Mid
+235,Data Scientist II,Ashford Digital,Bristol,,24/02/2026,No,Junior
+1306,Machine Learning Engineer,Kestrel Logistics,Leeds,,2026-04-18,Yes,Mid
+145,Data Analyst,Fenwick Insurance,Liverpool,Competitive salary,26/04/2025,yes,Junior
+457,Junior Data Scientist,Solstice Energy,Glasgow,"£55,000 - £75,000",02/02/2025,N/A,
+1413,Data Analyst,Redbridge Telecom,Birmingham,"£55,000 - £75,000",2025-06-15,Yes,Mid
+1358,Data Scientist,Alderly Bank,manchester,"£75,000 - £95,000",2025-03-06,,Senior
+264,Data Scientist II,Kestrel Logistics,Work from home,Competitive salary,01 May 2026,N/A,Senior
+920,Machine Learning Engineer,Solstice Energy,Manchester,"£55,000 - £75,000",2025-02-17,,
+1426,Data Science Intern,Grove & Co,London,"£55,500",2025-02-12,,Mid
+1557,Data Engineer,Alderly Bank,Work from home,,16/03/2026,No,Junior
+810,Analytics Consultant,Marlowe Consulting,Manchester,,22 Dec 2025,Yes,Mid
+1419,Data Scientist,Kestrel Logistics,Glasgow,"£28,000 - £35,000",28/10/2025,Hybrid,Graduate
+1284,Data Engineer,Vantage Health,Birmingham,"£31,500",2025-06-06,Hybrid,Graduate
+22,Data Analyst,Marlowe Consulting,Leeds,Competitive salary,09 Mar 2025,yes,
+1230,Data Scientist II,Marlowe Consulting,Birmingham,£55k-£75k,16/01/2025,No,Senior
+520,Data Scientist II,Orchard Media,Sheffield,£55k-£75k,18 Aug 2025,,Senior
+1000,Data Science Intern,Ashford Digital,Liverpool,Competitive salary,2026-02-07,No,Senior
+389,Insights Analyst,Fenwick Insurance,Leeds,"£47,500",2025-03-07,N/A,
+570,Junior Data Scientist,Redbridge Telecom,Sheffield,Competitive salary,24 Nov 2025,yes,Graduate
+1575,Analytics Consultant,Vantage Health,Leeds,£28k-£35k,22 Mar 2026,,Junior
+848,Data Science Intern,Fenwick Insurance,Remote,Competitive salary,03/02/2025,,Mid
+852,Junior Data Scientist,Vantage Health,Birmingham,"£75,000 - £95,000",01/08/2025,No,Senior
+21,Data Engineer,Northwind Analytics,"Manchester, UK","£28,000 - £35,000",2026-04-09,Hybrid,Junior
+1414,Junior Data Scientist,Marlowe Consulting,Glasgow,"£47,500",2025-09-14,No,
+839,Data Analyst,Orchard Media,Edinburgh,£40k-£55k,27 Feb 2025,N/A,
+559,Analytics Consultant,Ashford Digital,Edinburgh,Competitive salary,13/10/2025,Hybrid,Senior
+1339,Insights Analyst,Vantage Health,Edinburgh,"£55,000 - £75,000",07 Jun 2025,N/A,Senior
+420,Machine Learning Engineer,Solstice Energy,Sheffield,Competitive salary,10/10/2025,Hybrid,Mid
+635,Insights Analyst,Kestrel Logistics,Leeds,,10 Mar 2025,yes,Senior
+1579,Data Science Intern,Redbridge Telecom,Liverpool,Competitive salary,06 Mar 2026,Yes,Junior
+1455,Machine Learning Engineer,Alderly Bank,Sheffield,,01 Dec 2025,,
+1169,Analytics Consultant,Alderly Bank,Liverpool,£40k-£55k,29 Jan 2025,No,Mid
+1394,Business Intelligence Analyst,Ashford Digital,Liverpool,,08/01/2026,Hybrid,
+866,Machine Learning Engineer,Ashford Digital,Glasgow,"£32,000 - £42,000",2025-04-07,Yes,Graduate
+529,Machine Learning Engineer,BrightPath Retail,Birmingham,"£31,500",14 Mar 2026,,Graduate
+477,Data Scientist,Ashford Digital,Bristol,"£31,500",21/02/2026,Yes,Graduate
+1274,Data Science Intern,Fenwick Insurance,Leeds,"£55,000 - £75,000",10/05/2026,N/A,Mid
+1428,Business Intelligence Analyst,Vantage Health,Liverpool,,18 Oct 2025,Yes,Junior
+1227,Data Science Intern,Fenwick Insurance,Glasgow,"£40,000 - £55,000",2026-04-08,N/A,Mid
+291,Data Science Intern,Alderly Bank,Sheffield,£28k-£35k,2026-01-01,Yes,Junior
+320,Analytics Consultant,Grove & Co,Liverpool,,2025-05-28,No,Graduate
+1525,Data Scientist II,Grove & Co,Bristol,"£28,000 - £35,000",22 Mar 2026,N/A,Junior
+824,Insights Analyst,BrightPath Retail,manchester,£28k-£35k,11 Jan 2025,Hybrid,Junior
+762,Data Scientist II,Ashford Digital,"Manchester, UK","£47,500",03 May 2025,Yes,Mid
+468,Analytics Consultant,Kestrel Logistics,Edinburgh,Competitive salary,05/03/2025,,
+799,Junior Data Scientist,BrightPath Retail,Remote,,23/01/2026,Yes,Junior
+1493,Machine Learning Engineer,Vantage Health,Glasgow,Competitive salary,21 May 2025,Yes,
+678,Data Scientist,Solstice Energy,London,"£40,000 - £50,000",07/08/2025,No,
+1006,Analytics Consultant,Ashford Digital,manchester,£40k-£55k,08/06/2025,N/A,Mid
+493,Data Science Intern,Orchard Media,Glasgow,"£40,000 - £55,000",19 Jul 2025,Yes,
+186,Insights Analyst,Orchard Media,Birmingham,"£28,000 - £35,000",04 May 2026,yes,Graduate
+595,Data Analyst,Northwind Analytics,Birmingham,"£28,000 - £35,000",2025-09-06,Yes,Junior
+1168,Data Scientist II,Solstice Energy,Birmingham,"£31,500",2026-03-11,Hybrid,Junior
+1412,Business Intelligence Analyst,Ashford Digital,Sheffield,"£40,000 - £55,000",2026-02-06,No,Mid
+422,Data Engineer,Grove & Co,Leeds,Competitive salary,11 Jan 2025,Yes,Senior
+782,Machine Learning Engineer,Vantage Health,Glasgow,,16/02/2026,Hybrid,Mid
+93,Analytics Consultant,BrightPath Retail,Glasgow,Competitive salary,04/10/2025,,
+32,Data Engineer,Redbridge Telecom,Sheffield,,03 Dec 2025,yes,Graduate
+645,Analytics Consultant,Redbridge Telecom,Leeds,"£31,500",21 Dec 2025,N/A,Junior
+1312,Data Scientist II,Solstice Energy,Leeds,Competitive salary,30/06/2025,yes,Graduate
+1590,Insights Analyst,Grove & Co,Work from home,Competitive salary,01/07/2025,No,Mid
+424,Business Intelligence Analyst,Orchard Media,Work from home,£40k-£55k,27/08/2025,N/A,
+1015,Data Engineer,Orchard Media,London,£63k-£83k,17 Jun 2025,N/A,Senior
+417,Data Scientist II,Alderly Bank,manchester,£32k-£42k,04 Feb 2026,yes,Graduate
+1463,Data Analyst,Alderly Bank,Birmingham,"£47,500",13/05/2026,N/A,
+150,Data Scientist,Grove & Co,manchester,,07/11/2025,,
+656,Data Analyst,Vantage Health,Glasgow,"£31,500",27/09/2025,yes,Junior
+1460,Machine Learning Engineer,Northwind Analytics,Sheffield,"£85,000",12/12/2025,Yes,Senior
+454,Data Analyst,Orchard Media,WFH,,14/02/2026,N/A,Senior
+381,Data Scientist,Vantage Health,"London, UK",Competitive salary,2025-04-30,Yes,Graduate
+937,Business Intelligence Analyst,Alderly Bank,Birmingham,"£31,500",03/05/2026,N/A,Junior
+1491,Insights Analyst,BrightPath Retail,Birmingham,£40k-£55k,2026-04-13,,
+440,Data Engineer,Kestrel Logistics,Edinburgh,,15 Sep 2025,Hybrid,Mid
+92,Business Intelligence Analyst,Alderly Bank,Manchester,Competitive salary,19 Jan 2026,Hybrid,Mid
+1560,Analytics Consultant,Grove & Co,"Manchester, UK","£75,000 - £95,000",05/02/2026,,Senior
+1395,Data Scientist II,Ashford Digital,manchester,,2026-01-30,,Mid
+760,Data Science Intern,Vantage Health,Sheffield,"£28,000 - £35,000",21 Sep 2025,Hybrid,Junior
+1552,Data Scientist II,Fenwick Insurance,Sheffield,Competitive salary,2025-04-11,No,
+366,Insights Analyst,BrightPath Retail,Liverpool,Competitive salary,2025-10-18,,
+1074,Data Scientist,Redbridge Telecom,Edinburgh,"£31,500",11 Mar 2026,yes,Graduate
+1042,Machine Learning Engineer,Alderly Bank,Glasgow,"£40,000 - £55,000",07 Jan 2025,N/A,Mid
+1513,Analytics Consultant,Fenwick Insurance,Liverpool,£32k-£42k,20/04/2025,yes,Mid
+889,Data Analyst,Northwind Analytics,Leeds,£55k-£75k,2025-11-29,,Mid
+1402,Data Scientist II,Ashford Digital,Manchester,"£55,000 - £75,000",20/01/2025,,Mid
+108,Data Scientist II,Redbridge Telecom,Edinburgh,Competitive salary,12/04/2026,Yes,
+1102,Machine Learning Engineer,Orchard Media,Birmingham,,2025-10-31,Hybrid,Graduate
+721,Analytics Consultant,Kestrel Logistics,Sheffield,"£55,000 - £75,000",15 Mar 2025,,Mid
+1556,Data Scientist,Ashford Digital,Remote,"£40,000 - £55,000",15 Mar 2025,Yes,Mid
+789,Data Analyst,Redbridge Telecom,Edinburgh,"£37,000",18 Nov 2025,,Graduate
+621,Data Engineer,Marlowe Consulting,Liverpool,Competitive salary,2026-01-09,N/A,Graduate
+97,Machine Learning Engineer,Grove & Co,Manchester,,28 May 2025,,Senior
+58,Analytics Consultant,Solstice Energy,Bristol,£75k-£95k,21/05/2025,Yes,Senior
+1095,Business Intelligence Analyst,Vantage Health,remote,"£55,000 - £75,000",29/04/2026,N/A,
+99,Data Scientist,Grove & Co,Liverpool,£32k-£42k,23/09/2025,yes,
+1514,Business Intelligence Analyst,Fenwick Insurance,Liverpool,Competitive salary,18 Apr 2025,N/A,Junior
+643,Insights Analyst,Northwind Analytics,Liverpool,"£55,000 - £75,000",05 Jan 2026,Yes,
+1313,Data Scientist II,Alderly Bank,manchester,"£55,000 - £75,000",2025-10-19,No,
+356,Data Scientist,Solstice Energy,Sheffield,"£85,000",2026-01-31,yes,Senior
+1112,Data Engineer,Marlowe Consulting,manchester,"£85,000",2025-05-16,Yes,Senior
+1170,Data Analyst,Ashford Digital,Birmingham,"£37,000",28 Jan 2025,Yes,Junior
+1532,Junior Data Scientist,Grove & Co,Edinburgh,,28 Sep 2025,N/A,Mid
+1204,Insights Analyst,Alderly Bank,Edinburgh,,2026-04-24,,Junior
+629,Junior Data Scientist,BrightPath Retail,Remote (UK),,04 May 2025,No,Graduate
+183,Insights Analyst,Marlowe Consulting,Remote,"£85,000",2025-03-04,No,Senior
+441,Junior Data Scientist,BrightPath Retail,LONDON,Competitive salary,02 Nov 2025,Hybrid,Senior
+274,Machine Learning Engineer,Fenwick Insurance,Remote,£28k-£35k,09/01/2025,yes,Graduate
+1081,Data Science Intern,Orchard Media,Birmingham,,2025-04-02,Yes,Junior
+113,Machine Learning Engineer,Fenwick Insurance,remote,Competitive salary,2025-12-16,No,Mid
+1432,Business Intelligence Analyst,Alderly Bank,Sheffield,£40k-£55k,2025-05-20,No,
+1401,Data Scientist II,Marlowe Consulting,Manchester,,2025-03-07,No,
+589,Machine Learning Engineer,Solstice Energy,Leeds,£40k-£55k,2025-05-09,,
+1459,Analytics Consultant,Orchard Media,"London, UK","£63,000 - £83,000",21/03/2026,,Senior
+627,Machine Learning Engineer,Grove & Co,Edinburgh,Competitive salary,2025-05-22,N/A,Senior
+331,Business Intelligence Analyst,Grove & Co,WFH,"£32,000 - £42,000",26 Jul 2025,N/A,
+1249,Business Intelligence Analyst,Northwind Analytics,Manchester,"£65,000",18 Jun 2025,yes,Senior
+992,Machine Learning Engineer,Vantage Health,Remote,£55k-£75k,16 May 2025,Yes,Mid
+1150,Business Intelligence Analyst,Northwind Analytics,Bristol,Competitive salary,2025-04-07,No,Mid
+659,Data Scientist II,Ashford Digital,Glasgow,"£47,500",2025-04-10,Yes,Mid
+214,Data Scientist,Alderly Bank,Glasgow,£55k-£75k,24 Jun 2025,No,
+1007,Analytics Consultant,Alderly Bank,Sheffield,Competitive salary,02 Jan 2026,,Graduate
+49,Data Engineer,Fenwick Insurance,Remote,"£75,000 - £95,000",04/01/2026,yes,Senior
+1005,Data Scientist,Alderly Bank,Edinburgh,"£40,000 - £55,000",08 Mar 2025,,
+169,Business Intelligence Analyst,Ashford Digital,Sheffield,Competitive salary,2025-12-06,Hybrid,Senior
+773,Data Scientist,Fenwick Insurance,Sheffield,"£47,500",2025-04-05,yes,
+892,Business Intelligence Analyst,Redbridge Telecom,Remote,"£55,000 - £75,000",19 Nov 2025,,Senior
+812,Data Engineer,Orchard Media,Glasgow,,02/07/2025,N/A,Graduate
+874,Insights Analyst,Alderly Bank,Leeds,"£75,000 - £95,000",2026-01-16,yes,Senior
+1283,Business Intelligence Analyst,Vantage Health,Sheffield,"£65,000",16 Feb 2026,No,Mid
+600,Data Engineer,Redbridge Telecom,Birmingham,,26 Dec 2025,,Junior
+406,Data Science Intern,Marlowe Consulting,Glasgow,"£40,000 - £55,000",22 Jul 2025,Yes,
+1564,Machine Learning Engineer,Marlowe Consulting,Sheffield,Competitive salary,05 Jul 2025,No,Graduate
+1041,Data Science Intern,Solstice Energy,Bristol,Competitive salary,07/11/2025,Yes,Senior
+278,Data Scientist,Northwind Analytics,remote,£32k-£42k,2025-01-05,yes,Mid
+1598,Machine Learning Engineer,Ashford Digital,Liverpool,Competitive salary,2026-03-05,,
+579,Business Intelligence Analyst,Alderly Bank,Glasgow,£32k-£42k,08/01/2025,No,Mid
+412,Data Science Intern,Vantage Health,WFH,"£32,000 - £42,000",30/03/2025,,Graduate
+1318,Machine Learning Engineer,Northwind Analytics,Birmingham,"£28,000 - £35,000",01/05/2025,Yes,Graduate
+1119,Machine Learning Engineer,Ashford Digital,Leeds,"£40,000 - £55,000",10/03/2025,,Mid
+1551,Junior Data Scientist,Redbridge Telecom,LONDON,"£73,000",07/03/2025,N/A,
+808,Data Science Intern,Vantage Health,Glasgow,Competitive salary,28/07/2025,,
+1069,Data Science Intern,Kestrel Logistics,Leeds,"£28,000 - £35,000",2025-02-27,Hybrid,Junior
+1090,Junior Data Scientist,BrightPath Retail,Liverpool,"£28,000 - £35,000",17/09/2025,Hybrid,Junior
+1439,Machine Learning Engineer,Vantage Health,Birmingham,"£28,000 - £35,000",13 Aug 2025,,Graduate
+1178,Data Science Intern,Orchard Media,Birmingham,£75k-£95k,2025-05-19,Yes,Senior
+638,Data Engineer,BrightPath Retail,Birmingham,"£37,000",20/03/2026,No,Graduate
+1080,Junior Data Scientist,Kestrel Logistics,Leeds,Competitive salary,22 Feb 2025,No,Junior
+657,Data Engineer,Ashford Digital,Leeds,,06 Jan 2026,yes,Junior
+1342,Insights Analyst,Marlowe Consulting,Edinburgh,"£47,500",28/01/2026,Hybrid,
+1359,Data Scientist,Ashford Digital,Birmingham,,2025-07-01,,Mid
+187,Data Scientist II,Marlowe Consulting,Liverpool,"£55,000 - £75,000",22/11/2025,Hybrid,
+1065,Analytics Consultant,BrightPath Retail,Glasgow,£40k-£55k,21 Jan 2026,N/A,Mid
+203,Data Analyst,Grove & Co,Edinburgh,"£31,500",2026-03-12,N/A,Junior
+1211,Junior Data Scientist,Marlowe Consulting,WFH,"£85,000",26 Dec 2025,Yes,Senior
+1546,Business Intelligence Analyst,Fenwick Insurance,Sheffield,£55k-£75k,31 Mar 2025,No,Mid
+1450,Data Scientist,Kestrel Logistics,Sheffield,"£47,500",24 Jun 2025,Yes,Mid
+1351,Junior Data Scientist,Orchard Media,Manchester,Competitive salary,2026-01-11,yes,Mid
+984,Insights Analyst,Kestrel Logistics,Liverpool,£40k-£55k,28 Jan 2025,Hybrid,Mid
+121,Junior Data Scientist,BrightPath Retail,Bristol,£40k-£55k,09 Mar 2025,Hybrid,
+734,Data Scientist,Alderly Bank,LONDON,Competitive salary,29 Mar 2025,Yes,Junior
+86,Data Scientist,Alderly Bank,Birmingham,"£28,000 - £35,000",13/10/2025,yes,Junior
+828,Data Science Intern,Kestrel Logistics,Glasgow,"£31,500",2025-05-16,Hybrid,Graduate
+386,Junior Data Scientist,Fenwick Insurance,Birmingham,£28k-£35k,28 Oct 2025,No,Junior
+1006,Analytics Consultant,Ashford Digital,manchester,£40k-£55k,08/06/2025,N/A,Mid
+491,Data Science Intern,Grove & Co,"Manchester, UK",,03/01/2026,Yes,Mid
+290,Data Science Intern,Fenwick Insurance,LONDON,£63k-£83k,02 Jul 2025,,
+749,Analytics Consultant,Northwind Analytics,remote,£55k-£75k,18/07/2025,No,Mid
+505,Machine Learning Engineer,Solstice Energy,Glasgow,,2025-10-10,No,Senior
+693,Data Scientist,Ashford Digital,Liverpool,"£28,000 - £35,000",01/05/2025,N/A,Junior
+135,Data Scientist II,BrightPath Retail,manchester,Competitive salary,2025-10-31,,
+1136,Data Scientist,Alderly Bank,Leeds,Competitive salary,15/05/2026,Hybrid,Graduate
+1370,Data Analyst,Solstice Energy,WFH,£55k-£75k,23 May 2025,N/A,Senior
+239,Analytics Consultant,BrightPath Retail,Birmingham,,01/12/2025,,Graduate
+918,Machine Learning Engineer,Kestrel Logistics,Sheffield,"£85,000",08 Dec 2025,yes,Senior
+1225,Business Intelligence Analyst,Vantage Health,Birmingham,"£37,000",2026-04-13,,Junior
+797,Analytics Consultant,Fenwick Insurance,Bristol,Competitive salary,25/09/2025,No,Mid
+1123,Data Scientist,Orchard Media,Glasgow,"£75,000 - £95,000",25/01/2026,No,Senior
+1349,Data Scientist,Alderly Bank,Edinburgh,Competitive salary,2025-01-14,yes,Senior
+932,Data Scientist II,Grove & Co,"Manchester, UK",£28k-£35k,05 May 2026,yes,Graduate
+691,Data Engineer,Kestrel Logistics,Edinburgh,,03/01/2026,Yes,Graduate
+1256,Analytics Consultant,Redbridge Telecom,Liverpool,"£40,000 - £55,000",23/05/2025,No,
+318,Data Analyst,Grove & Co,Birmingham,"£31,500",2025-03-01,Hybrid,Junior
+1236,Data Analyst,Solstice Energy,Birmingham,Competitive salary,29/07/2025,yes,Graduate
+396,Data Analyst,Fenwick Insurance,Birmingham,Competitive salary,2026-04-28,Hybrid,Mid
+1020,Data Analyst,Orchard Media,Bristol,"£28,000 - £35,000",31/01/2026,No,Junior
+205,Machine Learning Engineer,Marlowe Consulting,Sheffield,Competitive salary,2026-03-29,Yes,
+343,Data Analyst,BrightPath Retail,Birmingham,"£37,000",09/05/2026,Hybrid,Graduate
+1062,Insights Analyst,Solstice Energy,Remote (UK),,26/04/2026,N/A,Junior
+1209,Analytics Consultant,Grove & Co,Glasgow,"£47,500",01 Mar 2026,,
+370,Business Intelligence Analyst,BrightPath Retail,Manchester,£55k-£75k,04/03/2026,No,Senior
+1691,,,,,,,
+715,Junior Data Scientist,Fenwick Insurance,Liverpool,"£28,000 - £35,000",2025-07-30,yes,Junior
+221,Machine Learning Engineer,Orchard Media,Edinburgh,Competitive salary,2025-10-15,Hybrid,
+597,Data Analyst,Northwind Analytics,Leeds,"£32,000 - £42,000",04 Jul 2025,N/A,Junior
+639,Data Science Intern,Orchard Media,Greater London,,10 Nov 2025,yes,
+247,Business Intelligence Analyst,Fenwick Insurance,Bristol,£75k-£95k,01 Feb 2025,Yes,Senior
+296,Data Scientist II,Kestrel Logistics,Sheffield,£40k-£55k,18/05/2025,Hybrid,
+1101,Data Scientist II,Fenwick Insurance,Sheffield,Competitive salary,2025-02-20,No,Graduate
+80,Machine Learning Engineer,Ashford Digital,Glasgow,£75k-£95k,03 Mar 2025,No,Senior
+1275,Data Scientist II,Solstice Energy,Liverpool,"£85,000",20 Jul 2025,,Senior
+63,Analytics Consultant,Northwind Analytics,Work from home,,2026-04-16,yes,
+912,Data Scientist II,Vantage Health,Edinburgh,Competitive salary,2025-11-09,N/A,Junior
+305,Data Scientist II,Marlowe Consulting,Remote (UK),Competitive salary,01 Nov 2025,Yes,Junior
+1040,Data Science Intern,Orchard Media,manchester,Competitive salary,2026-01-08,Hybrid,Graduate
+364,Data Science Intern,Ashford Digital,Bristol,,2025-09-09,No,Mid
+1582,Data Science Intern,Grove & Co,london,"£36,000 - £43,000",19/11/2025,Yes,Graduate
+1447,Data Scientist II,Grove & Co,remote,,2025-12-28,Yes,
+903,Junior Data Scientist,Ashford Digital,Liverpool,,2026-05-08,Yes,Junior
+363,Junior Data Scientist,Northwind Analytics,Remote,"£40,000 - £55,000",02/05/2026,Yes,Mid
+1176,Data Engineer,Orchard Media,Birmingham,£32k-£42k,2026-01-16,,Junior
+767,Junior Data Scientist,Solstice Energy,Birmingham,"£31,500",02 Aug 2025,yes,Graduate
+1229,Data Scientist II,Northwind Analytics,Birmingham,Competitive salary,16 Jan 2025,Yes,Junior
+317,Insights Analyst,BrightPath Retail,Edinburgh,"£47,500",16 Apr 2026,yes,
+1400,Data Scientist II,Solstice Energy,Liverpool,"£85,000",25 Aug 2025,,Senior
+199,Insights Analyst,Alderly Bank,Glasgow,"£75,000 - £95,000",2025-10-21,yes,Senior
+708,Analytics Consultant,Alderly Bank,Liverpool,£55k-£75k,2025-11-01,,Senior
+448,Data Engineer,Vantage Health,Liverpool,"£85,000",2025-03-24,yes,Senior
+1097,Data Scientist II,Redbridge Telecom,Birmingham,,2025-07-14,yes,Mid
+373,Data Scientist,Northwind Analytics,Leeds,"£65,000",18 Dec 2025,N/A,Mid
+1021,Data Engineer,Fenwick Insurance,Leeds,,2025-01-15,Hybrid,Junior
+1272,Machine Learning Engineer,Marlowe Consulting,Sheffield,Competitive salary,08 Jan 2026,Yes,Junior
+1304,Data Scientist II,Vantage Health,Birmingham,Competitive salary,13/11/2025,Yes,Graduate
+387,Data Analyst,Marlowe Consulting,Edinburgh,Competitive salary,21/02/2025,Hybrid,Senior
+354,Data Scientist II,Ashford Digital,Bristol,"£85,000",2026-01-11,Yes,Senior
+143,Machine Learning Engineer,Grove & Co,manchester,"£75,000 - £95,000",11/05/2026,yes,Senior
+768,Junior Data Scientist,Solstice Energy,Edinburgh,"£37,000",2025-04-07,Yes,
+1154,Machine Learning Engineer,Ashford Digital,Manchester,Competitive salary,02/04/2026,No,Mid
+1164,Data Science Intern,Fenwick Insurance,Edinburgh,,05 Nov 2025,Hybrid,
+246,Junior Data Scientist,Alderly Bank,Glasgow,"£37,000",2025-07-16,,Mid
+57,Analytics Consultant,Alderly Bank,Glasgow,Competitive salary,2025-08-17,N/A,
+628,Business Intelligence Analyst,Orchard Media,Greater London,£83k-£103k,24/06/2025,N/A,Senior
+788,Business Intelligence Analyst,Orchard Media,Birmingham,"£32,000 - £42,000",27/01/2026,,Mid
+670,Data Analyst,Solstice Energy,Liverpool,£40k-£55k,24/06/2025,N/A,
+10,Data Science Intern,Vantage Health,Manchester,£28k-£35k,02/12/2025,,Graduate
+26,Analytics Consultant,Kestrel Logistics,manchester,"£28,000 - £35,000",30 Nov 2025,Yes,Graduate
+1084,Business Intelligence Analyst,Grove & Co,Glasgow,"£28,000 - £35,000",2025-02-12,,Junior
+4,Data Science Intern,Fenwick Insurance,Bristol,"£40,000 - £55,000",17/02/2025,Yes,Mid
+346,Data Science Intern,BrightPath Retail,Leeds,Competitive salary,2026-04-01,Hybrid,Graduate
+196,Data Science Intern,Alderly Bank,Glasgow,"£37,000",11/11/2025,Hybrid,
+765,Data Analyst,Solstice Energy,Liverpool,"£40,000 - £55,000",07/04/2025,Yes,
+1399,Machine Learning Engineer,Alderly Bank,LONDON,"£40,000 - £50,000",18 May 2025,No,Graduate
+122,Data Scientist II,Marlowe Consulting,Bristol,"£85,000",18/01/2026,Yes,Senior
+1141,Data Scientist,Marlowe Consulting,Glasgow,"£85,000",29/12/2025,yes,Senior
+125,Data Analyst,Grove & Co,Leeds,Competitive salary,24 Apr 2025,Yes,Junior
+1242,Analytics Consultant,Northwind Analytics,Bristol,,29 Mar 2025,Hybrid,Junior
+42,Data Analyst,Fenwick Insurance,Liverpool,£28k-£35k,2026-03-19,No,Graduate
+528,Insights Analyst,Marlowe Consulting,"Manchester, UK",£32k-£42k,19/12/2025,,Junior
+1073,Junior Data Scientist,Vantage Health,Leeds,Competitive salary,2025-05-26,N/A,
+193,Data Science Intern,Ashford Digital,Glasgow,,21/12/2025,Hybrid,Senior
+1540,Data Analyst,BrightPath Retail,Birmingham,"£40,000 - £55,000",27/04/2026,N/A,Mid
+926,Business Intelligence Analyst,Vantage Health,Glasgow,Competitive salary,2025-08-04,Hybrid,Mid
+696,Business Intelligence Analyst,Grove & Co,Birmingham,"£28,000 - £35,000",15 Mar 2025,,Junior
+168,Insights Analyst,Northwind Analytics,Edinburgh,Competitive salary,14/12/2025,Hybrid,Senior
+1297,Data Engineer,Alderly Bank,Liverpool,"£65,000",29 May 2025,Yes,
+1326,Analytics Consultant,Alderly Bank,Bristol,Competitive salary,2025-12-02,Hybrid,Senior
