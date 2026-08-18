@@ -18,7 +18,7 @@ from dateutil import parser as dateparser
 # what the repo folder is named or where it's cloned/extracted to
 # (e.g. "Job-Postings-Pipeline-main" after downloading a GitHub zip).
 SCRIPT_DIR = os.path.dirname(os.path.abspath(__file__))
-DATA_DIR = os.path.join(SCRIPT_DIR, "..", "data")
+DATA_DIR = SCRIPT_DIR
 
 RAW_PATH = os.path.join(DATA_DIR, "raw_job_postings.csv")
 DB_PATH = os.path.join(DATA_DIR, "jobs.db")
