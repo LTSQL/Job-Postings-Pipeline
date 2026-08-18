@@ -12,24 +12,24 @@ Most student projects start from a clean Kaggle CSV. This one starts from date d
 raw_job_postings.csv → clean_pipeline.py → jobs.db (SQLite) + clean_job_postings.csv → analysis.py / dashboard.py
 ```
  
-1. **`src/generate_raw_data.py`** — generates a realistic messy raw dataset (stands in for a scrape/API pull). Salary bands are correlated with seniority and location, as they would be in reality, so the analysis has genuine signal to find.
-2. **`src/clean_pipeline.py`** — the core ETL step:
+1. **`generate_raw_data.py`** — generates a realistic messy raw dataset (stands in for a scrape/API pull). Salary bands are correlated with seniority and location, as they would be in reality, so the analysis has genuine signal to find.
+2. **`clean_pipeline.py`** — the core ETL step:
    - Normalises location naming (`london`, `LONDON`, `London, UK` → `London`)
    - Parses inconsistent salary formats (`£40k-£55k`, `£40,000 - £55,000`, `Competitive`) into numeric `salary_min` / `salary_max`
    - Parses mixed date formats into ISO dates
    - Deduplicates postings scraped more than once
    - Loads the result into a SQLite database (`data/jobs.db`) and a clean CSV
-3. **`src/analysis.py`** — answers concrete questions (median salary split by seniority/location, remote work split, most common titles) and saves a summary chart to `outputs/`
-4. **`src/dashboard.py`** — an interactive Streamlit dashboard over the cleaned database, with filtering by title and location
+3. **`analysis.py`** — answers concrete questions (median salary split by seniority/location, remote work split, most common titles) and saves a summary chart to `outputs/`
+4. **`dashboard.py`** — an interactive Streamlit dashboard over the cleaned database, with filtering by title and location
 ## How to run
  
 ```bash
 pip install pandas numpy python-dateutil matplotlib streamlit
  
-python src/generate_raw_data.py     # creates data/raw_job_postings.csv
-python src/clean_pipeline.py        # creates data/jobs.db + data/clean_job_postings.csv
-python src/analysis.py              # prints summary stats, saves outputs/salary_by_seniority.png
-streamlit run src/dashboard.py      # interactive dashboard
+python generate_raw_data.py     # creates data/raw_job_postings.csv
+python clean_pipeline.py        # creates data/jobs.db + data/clean_job_postings.csv
+python analysis.py              # prints summary stats, saves outputs/salary_by_seniority.png
+streamlit run dashboard.py      # interactive dashboard
 ```
  
 ## Key findings (from this run)
