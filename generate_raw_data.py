@@ -89,7 +89,7 @@ for _ in range(15):
 random.shuffle(rows)
 
 out_path = os.path.join(DATA_DIR, "raw_job_postings.csv")
-with open(out_path, "w", newline="") as f:
+with open(out_path, "w", newline="", encoding="utf-8") as f:
     w = csv.writer(f)
     w.writerow(["posting_id", "title", "company", "location", "salary_raw", "date_posted_raw", "remote", "seniority"])
     w.writerows(rows)
