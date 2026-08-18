@@ -44,16 +44,5 @@ streamlit run src/dashboard.py      # interactive dashboard
 - Swap the synthetic generator for a real API/scrape source (e.g. a job board API) — the cleaning and analysis layers are already written to be source-agnostic.
 - Add a scheduled run (`cron`/GitHub Actions) so the dashboard shows trends over time, not just a snapshot.
 - Add data validation checks (e.g. with `pandera`) so bad data fails loudly instead of silently passing through.
-## Files
- 
-```
-data/raw_job_postings.csv    # simulated raw scrape output
-data/clean_job_postings.csv  # cleaned output
-data/jobs.db                 # SQLite database
-src/generate_raw_data.py
-src/clean_pipeline.py
-src/analysis.py
-src/dashboard.py
-outputs/salary_by_seniority.png
-```
+
  
