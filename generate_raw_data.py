@@ -16,7 +16,7 @@ from datetime import datetime, timedelta
 # Paths are relative to this script's location, so this works no matter
 # what the repo folder is named or where it's cloned/extracted to
 SCRIPT_DIR = os.path.dirname(os.path.abspath(__file__))
-DATA_DIR = os.path.join(SCRIPT_DIR, "..", "data")
+DATA_DIR = SCRIPT_DIR
 os.makedirs(DATA_DIR, exist_ok=True)
 
 random.seed(42)
