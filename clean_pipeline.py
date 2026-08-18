@@ -71,7 +71,7 @@ def clean_remote(val):
     return "Unknown"
 
 def run():
-    df = pd.read_csv(RAW_PATH)
+    df = pd.read_csv(RAW_PATH, encoding="utf-8")
 
     # drop fully blank postings
     df = df.dropna(subset=["title", "company"], how="all")
