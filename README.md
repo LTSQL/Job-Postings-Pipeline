@@ -26,10 +26,10 @@ raw_job_postings.csv → clean_pipeline.py → jobs.db (SQLite) + clean_job_post
 ```bash
 pip install pandas numpy python-dateutil matplotlib streamlit
  
-python generate_raw_data.py     # creates data/raw_job_postings.csv
-python clean_pipeline.py        # creates data/jobs.db + data/clean_job_postings.csv
-python analysis.py              # prints summary stats, saves outputs/salary_by_seniority.png
-streamlit run dashboard.py      # interactive dashboard
+python FileLocation\generate_raw_data.py     # creates raw_job_postings.csv
+python FileLocation\clean_pipeline.py        # creates jobs.db + clean_job_postings.csv
+python FileLocation\analysis.py              # prints summary stats, saves outputs/salary_by_seniority.png
+streamlit run FileLocation\dashboard.py      # interactive dashboard
 ```
  
 ## Key findings (from this run)
