@@ -13,6 +13,12 @@ import random
 import csv
 from datetime import datetime, timedelta
 
+# Paths are relative to this script's location, so this works no matter
+# what the repo folder is named or where it's cloned/extracted to
+SCRIPT_DIR = os.path.dirname(os.path.abspath(__file__))
+DATA_DIR = os.path.join(SCRIPT_DIR, "..", "data")
+os.makedirs(DATA_DIR, exist_ok=True)
+
 random.seed(42)
 
 titles = ["Data Scientist", "Data Analyst", "Junior Data Scientist", "Data Engineer",
@@ -81,9 +87,10 @@ for _ in range(15):
 
 random.shuffle(rows)
 
-with open("/home/claude/projects/01_end_to_end_pipeline/data/raw_job_postings.csv", "w", newline="") as f:
+out_path = os.path.join(DATA_DIR, "raw_job_postings.csv")
+with open(out_path, "w", newline="") as f:
     w = csv.writer(f)
     w.writerow(["posting_id", "title", "company", "location", "salary_raw", "date_posted_raw", "remote", "seniority"])
     w.writerows(rows)
 
-print(f"Generated {len(rows)} raw rows -> data/raw_job_postings.csv")
+print(f"Generated {len(rows)} raw rows -> {out_path}")
