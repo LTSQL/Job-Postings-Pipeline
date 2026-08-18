@@ -11,6 +11,7 @@ cleaning step in clean_pipeline.py has real work to do.
 """
 import random
 import csv
+import os
 from datetime import datetime, timedelta
 
 # Paths are relative to this script's location, so this works no matter
