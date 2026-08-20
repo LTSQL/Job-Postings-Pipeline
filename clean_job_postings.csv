@@ -1,0 +1,1600 @@
+posting_id,title,company,location,salary_min,salary_max,date_posted,remote,seniority,salary_mid
+421,Junior Data Scientist,Vantage Health,Manchester,32000.0,42000.0,2025-03-25,No,Junior,37000.0
+299,Data Scientist,Orchard Media,Edinburgh,85000.0,85000.0,2025-08-09,Yes,Senior,85000.0
+631,Data Scientist II,Grove & Co,Leeds,,,2026-11-04,Unknown,Senior,
+1357,Data Analyst,Orchard Media,Remote (Uk),55000.0,75000.0,2026-06-04,Unknown,Mid,65000.0
+985,Junior Data Scientist,Marlowe Consulting,Sheffield,,,2026-02-09,Yes,Mid,
+677,Insights Analyst,Kestrel Logistics,Birmingham,,,2025-08-16,No,Senior,
+519,Insights Analyst,Alderly Bank,Birmingham,28000.0,35000.0,2025-03-27,No,Graduate,31500.0
+1508,Insights Analyst,Kestrel Logistics,Sheffield,,,2025-09-08,Unknown,Senior,
+149,Junior Data Scientist,Fenwick Insurance,Bristol,28000.0,35000.0,2025-03-21,Yes,Graduate,31500.0
+855,Insights Analyst,Vantage Health,Birmingham,,,2025-02-03,Unknown,Senior,
+948,Machine Learning Engineer,Grove & Co,Bristol,85000.0,85000.0,2025-06-24,Unknown,Senior,85000.0
+1016,Analytics Consultant,Solstice Energy,Glasgow,,,2025-03-13,Hybrid,Junior,
+757,Data Science Intern,Kestrel Logistics,Birmingham,75000.0,95000.0,2025-01-09,Unknown,Senior,85000.0
+933,Insights Analyst,Northwind Analytics,Sheffield,32000.0,42000.0,2025-12-04,No,Unspecified,37000.0
+1562,Business Intelligence Analyst,Alderly Bank,Edinburgh,,,2026-04-27,Yes,Unspecified,
+953,Machine Learning Engineer,Kestrel Logistics,Manchester,75000.0,95000.0,2025-09-10,Yes,Senior,85000.0
+1098,Data Engineer,BrightPath Retail,Bristol,,,2025-07-28,Hybrid,Graduate,
+87,Insights Analyst,Redbridge Telecom,Leeds,65000.0,65000.0,2026-03-17,Unknown,Unspecified,65000.0
+1425,Data Scientist,Fenwick Insurance,Edinburgh,,,2025-01-08,Unknown,Graduate,
+1503,Data Scientist II,Ashford Digital,Liverpool,,,2025-09-25,No,Junior,
+1469,Business Intelligence Analyst,Vantage Health,London,,,2025-03-12,Hybrid,Mid,
+565,Junior Data Scientist,Alderly Bank,London,48000.0,63000.0,2025-04-18,Unknown,Mid,55500.0
+923,Junior Data Scientist,Marlowe Consulting,Birmingham,,,2026-03-18,Yes,Unspecified,
+1111,Machine Learning Engineer,Northwind Analytics,Remote,47500.0,47500.0,2026-12-05,Hybrid,Unspecified,47500.0
+548,Data Analyst,Grove & Co,Glasgow,,,2025-07-10,Hybrid,Graduate,
+1311,Data Scientist,Fenwick Insurance,Remote (Uk),31500.0,31500.0,2025-04-05,Unknown,Graduate,31500.0
+1474,Insights Analyst,BrightPath Retail,Glasgow,,,2025-07-09,Hybrid,Junior,
+680,Data Analyst,Solstice Energy,Sheffield,32000.0,42000.0,2025-08-22,Unknown,Junior,37000.0
+684,Data Analyst,Fenwick Insurance,Liverpool,,,2025-10-30,No,Senior,
+315,Data Engineer,Kestrel Logistics,Bristol,,,2025-04-06,Hybrid,Graduate,
+390,Data Scientist,Ashford Digital,Sheffield,28000.0,35000.0,2025-11-05,Yes,Graduate,31500.0
+24,Machine Learning Engineer,Orchard Media,Remote,28000.0,35000.0,2025-07-26,Hybrid,Junior,31500.0
+1022,Data Engineer,Grove & Co,Manchester,28000.0,35000.0,2025-01-23,Yes,Junior,31500.0
+470,Analytics Consultant,Marlowe Consulting,Birmingham,,,2025-12-03,Yes,Mid,
+785,Data Science Intern,Alderly Bank,Liverpool,28000.0,35000.0,2025-04-06,Hybrid,Graduate,31500.0
+1449,Data Science Intern,Redbridge Telecom,Remote (Uk),,,2025-12-09,Yes,Junior,
+160,Junior Data Scientist,Kestrel Logistics,Manchester,75000.0,95000.0,2025-05-11,Unknown,Senior,85000.0
+1356,Data Engineer,Orchard Media,Sheffield,31500.0,31500.0,2025-06-24,Yes,Graduate,31500.0
+216,Machine Learning Engineer,Kestrel Logistics,Glasgow,75000.0,95000.0,2025-03-14,Yes,Senior,85000.0
+945,Data Scientist,Northwind Analytics,Glasgow,,,2025-06-29,No,Graduate,
+5,Machine Learning Engineer,Fenwick Insurance,Sheffield,,,2025-03-05,Yes,Junior,
+1012,Junior Data Scientist,Vantage Health,Liverpool,,,2025-07-30,Yes,Junior,
+418,Data Scientist,Alderly Bank,Leeds,28000.0,35000.0,2025-08-22,Hybrid,Junior,31500.0
+804,Business Intelligence Analyst,Alderly Bank,Liverpool,,,2026-03-12,Unknown,Junior,
+1490,Data Scientist,Fenwick Insurance,Remote (Uk),55000.0,75000.0,2025-02-23,Hybrid,Unspecified,65000.0
+1135,Data Analyst,Marlowe Consulting,Sheffield,75000.0,95000.0,2025-10-01,No,Senior,85000.0
+709,Data Science Intern,Orchard Media,Leeds,,,2026-01-11,Yes,Mid,
+712,Business Intelligence Analyst,Solstice Energy,Remote,28000.0,35000.0,2026-04-15,Unknown,Graduate,31500.0
+1046,Data Engineer,Kestrel Logistics,Glasgow,55000.0,75000.0,2025-05-14,Unknown,Senior,65000.0
+1189,Junior Data Scientist,Vantage Health,Birmingham,85000.0,85000.0,2025-02-15,No,Senior,85000.0
+1238,Data Engineer,BrightPath Retail,Leeds,85000.0,85000.0,2025-04-03,Hybrid,Senior,85000.0
+1082,Data Scientist II,Grove & Co,Edinburgh,55000.0,75000.0,2025-01-18,No,Mid,65000.0
+607,Insights Analyst,Kestrel Logistics,Leeds,,,2025-07-24,No,Senior,
+515,Data Scientist II,Orchard Media,Edinburgh,,,2025-01-04,No,Unspecified,
+436,Machine Learning Engineer,Ashford Digital,Birmingham,40000.0,55000.0,2025-06-10,Yes,Unspecified,47500.0
+665,Data Science Intern,Ashford Digital,London,,,2025-02-10,No,Senior,
+1308,Junior Data Scientist,Fenwick Insurance,Manchester,55000.0,75000.0,2025-11-23,Yes,Unspecified,65000.0
+443,Data Engineer,Kestrel Logistics,Birmingham,28000.0,35000.0,2025-07-07,Unknown,Junior,31500.0
+558,Data Science Intern,BrightPath Retail,Birmingham,,,2026-03-06,Yes,Mid,
+720,Data Scientist,Orchard Media,Remote,31500.0,31500.0,2025-04-02,Yes,Junior,31500.0
+182,Analytics Consultant,Redbridge Telecom,London,36000.0,43000.0,2026-04-03,Yes,Junior,39500.0
+151,Business Intelligence Analyst,Kestrel Logistics,Liverpool,75000.0,95000.0,2025-05-26,Unknown,Senior,85000.0
+102,Data Science Intern,BrightPath Retail,Leeds,32000.0,42000.0,2025-09-13,Hybrid,Unspecified,37000.0
+772,Junior Data Scientist,Ashford Digital,Liverpool,40000.0,55000.0,2025-03-24,Yes,Mid,47500.0
+578,Data Engineer,Fenwick Insurance,London,36000.0,43000.0,2026-05-13,Hybrid,Junior,39500.0
+533,Data Science Intern,Fenwick Insurance,Liverpool,55000.0,75000.0,2026-02-16,No,Mid,65000.0
+1254,Data Engineer,Solstice Energy,Remote,37000.0,37000.0,2025-04-17,Yes,Unspecified,37000.0
+249,Insights Analyst,Kestrel Logistics,Leeds,,,2026-01-18,Hybrid,Unspecified,
+1244,Junior Data Scientist,Orchard Media,London,39500.0,39500.0,2025-11-27,Yes,Graduate,39500.0
+928,Data Science Intern,Solstice Energy,Sheffield,37000.0,37000.0,2026-02-05,Unknown,Graduate,37000.0
+913,Data Science Intern,Solstice Energy,Leeds,75000.0,95000.0,2026-03-28,Yes,Senior,85000.0
+1186,Junior Data Scientist,Ashford Digital,Birmingham,47500.0,47500.0,2025-05-29,Yes,Unspecified,47500.0
+357,Data Analyst,Kestrel Logistics,Liverpool,28000.0,35000.0,2025-01-24,Hybrid,Junior,31500.0
+53,Junior Data Scientist,Grove & Co,Manchester,28000.0,35000.0,2026-02-24,Unknown,Graduate,31500.0
+1558,Insights Analyst,Orchard Media,Glasgow,,,2025-08-14,Unknown,Unspecified,
+1485,Data Engineer,Alderly Bank,Glasgow,85000.0,85000.0,2025-03-02,No,Senior,85000.0
+1221,Data Scientist,Orchard Media,London,,,2025-12-29,Yes,Mid,
+89,Data Analyst,Alderly Bank,Leeds,28000.0,35000.0,2025-01-02,Unknown,Graduate,31500.0
+302,Data Analyst,Redbridge Telecom,Leeds,,,2026-04-28,No,Graduate,
+1442,Business Intelligence Analyst,Redbridge Telecom,Remote (Uk),,,2025-03-27,Yes,Junior,
+1578,Insights Analyst,Solstice Energy,Leeds,,,2025-10-15,Yes,Senior,
+1273,Junior Data Scientist,Orchard Media,Leeds,75000.0,95000.0,2025-05-06,Unknown,Senior,85000.0
+1599,Insights Analyst,Solstice Energy,Glasgow,28000.0,35000.0,2025-10-14,Yes,Junior,31500.0
+227,Analytics Consultant,Ashford Digital,Sheffield,37000.0,37000.0,2025-06-19,Yes,Unspecified,37000.0
+1128,Business Intelligence Analyst,Ashford Digital,Leeds,,,2025-02-01,Unknown,Senior,
+836,Data Analyst,Alderly Bank,Leeds,,,2025-09-06,Unknown,Mid,
+1502,Data Engineer,Fenwick Insurance,London,,,2025-02-04,Yes,Junior,
+619,Data Analyst,Ashford Digital,London,39500.0,39500.0,2025-01-08,Unknown,Graduate,39500.0
+57,Analytics Consultant,Alderly Bank,Glasgow,,,2025-08-17,Unknown,Unspecified,
+429,Data Science Intern,Ashford Digital,London,39500.0,39500.0,2026-01-07,No,Graduate,39500.0
+1113,Insights Analyst,Orchard Media,Leeds,,,2026-04-02,Unknown,Graduate,
+1314,Data Scientist II,Vantage Health,Manchester,40000.0,55000.0,2025-11-04,Hybrid,Unspecified,47500.0
+248,Analytics Consultant,Vantage Health,Birmingham,28000.0,35000.0,2025-11-24,Hybrid,Graduate,31500.0
+435,Data Scientist,Alderly Bank,Birmingham,,,2026-04-03,No,Senior,
+1072,Junior Data Scientist,Marlowe Consulting,Sheffield,32000.0,42000.0,2025-10-03,Hybrid,Junior,37000.0
+1545,Insights Analyst,Northwind Analytics,Birmingham,55000.0,75000.0,2025-02-01,No,Mid,65000.0
+672,Data Science Intern,Ashford Digital,Liverpool,28000.0,35000.0,2025-12-18,Yes,Junior,31500.0
+1180,Data Analyst,Kestrel Logistics,Sheffield,,,2025-04-14,Yes,Senior,
+439,Data Engineer,Ashford Digital,Edinburgh,75000.0,95000.0,2025-12-13,Unknown,Senior,85000.0
+452,Business Intelligence Analyst,Fenwick Insurance,Edinburgh,28000.0,35000.0,2025-05-01,Unknown,Junior,31500.0
+284,Data Scientist II,Solstice Energy,London,,,2026-03-09,Unknown,Mid,
+1330,Insights Analyst,Solstice Energy,Bristol,,,2025-04-29,Unknown,Mid,
+1047,Junior Data Scientist,Vantage Health,Leeds,28000.0,35000.0,2025-11-26,Unknown,Junior,31500.0
+1129,Data Scientist,Vantage Health,Manchester,85000.0,85000.0,2025-12-31,No,Senior,85000.0
+681,Analytics Consultant,Solstice Energy,Leeds,47500.0,47500.0,2025-07-20,Unknown,Mid,47500.0
+1023,Data Analyst,Fenwick Insurance,Edinburgh,,,2025-07-22,Yes,Graduate,
+1315,Data Scientist,Kestrel Logistics,Bristol,40000.0,55000.0,2026-03-23,Hybrid,Unspecified,47500.0
+39,Data Scientist,Northwind Analytics,Edinburgh,,,2025-10-10,Unknown,Senior,
+118,Business Intelligence Analyst,Ashford Digital,Bristol,40000.0,55000.0,2025-10-17,Unknown,Unspecified,47500.0
+433,Business Intelligence Analyst,Redbridge Telecom,Bristol,32000.0,42000.0,2026-03-20,Yes,Junior,37000.0
+571,Business Intelligence Analyst,Fenwick Insurance,Glasgow,37000.0,37000.0,2025-07-07,Hybrid,Junior,37000.0
+737,Insights Analyst,Alderly Bank,Edinburgh,28000.0,35000.0,2026-01-23,No,Junior,31500.0
+1461,Data Scientist II,Vantage Health,Birmingham,75000.0,95000.0,2025-08-17,Hybrid,Senior,85000.0
+226,Junior Data Scientist,Orchard Media,Sheffield,,,2026-03-01,Yes,Graduate,
+1583,Business Intelligence Analyst,Orchard Media,London,93000.0,93000.0,2025-06-30,Hybrid,Senior,93000.0
+683,Analytics Consultant,Alderly Bank,Bristol,,,2025-02-22,Unknown,Graduate,
+101,Analytics Consultant,BrightPath Retail,London,55500.0,55500.0,2025-10-10,Yes,Mid,55500.0
+676,Data Scientist II,BrightPath Retail,Leeds,31500.0,31500.0,2025-03-14,Hybrid,Graduate,31500.0
+238,Data Engineer,Northwind Analytics,Liverpool,32000.0,42000.0,2025-07-31,Unknown,Mid,37000.0
+1443,Data Scientist II,Kestrel Logistics,Sheffield,40000.0,55000.0,2026-12-05,Hybrid,Mid,47500.0
+775,Business Intelligence Analyst,BrightPath Retail,London,,,2026-04-21,No,Unspecified,
+632,Insights Analyst,Alderly Bank,Edinburgh,28000.0,35000.0,2025-12-06,Unknown,Graduate,31500.0
+1038,Insights Analyst,Solstice Energy,Leeds,37000.0,37000.0,2025-07-23,No,Unspecified,37000.0
+776,Data Scientist,Ashford Digital,Liverpool,85000.0,85000.0,2026-05-12,Unknown,Senior,85000.0
+914,Data Scientist,Marlowe Consulting,Edinburgh,40000.0,55000.0,2025-02-17,Yes,Mid,47500.0
+77,Data Scientist,Marlowe Consulting,Leeds,,,2025-12-10,Unknown,Mid,
+38,Machine Learning Engineer,Kestrel Logistics,Bristol,55000.0,75000.0,2025-11-21,Hybrid,Senior,65000.0
+1518,Data Science Intern,Northwind Analytics,Remote,40000.0,55000.0,2026-05-15,Hybrid,Unspecified,47500.0
+447,Data Science Intern,BrightPath Retail,Liverpool,55000.0,75000.0,2025-12-09,Yes,Senior,65000.0
+466,Data Scientist,Fenwick Insurance,Edinburgh,28000.0,35000.0,2025-01-24,Unknown,Graduate,31500.0
+274,Machine Learning Engineer,Fenwick Insurance,Remote,28000.0,35000.0,2025-01-09,Yes,Graduate,31500.0
+1017,Junior Data Scientist,Alderly Bank,London,39500.0,39500.0,2025-03-05,Unknown,Junior,39500.0
+1531,Insights Analyst,Solstice Energy,Sheffield,37000.0,37000.0,2025-08-27,Unknown,Junior,37000.0
+1491,Insights Analyst,BrightPath Retail,Birmingham,40000.0,55000.0,2026-04-13,Unknown,Unspecified,47500.0
+1142,Data Analyst,Alderly Bank,Leeds,31500.0,31500.0,2025-01-21,No,Graduate,31500.0
+938,Junior Data Scientist,Northwind Analytics,Sheffield,32000.0,42000.0,2025-06-02,Yes,Mid,37000.0
+724,Junior Data Scientist,Ashford Digital,Edinburgh,,,2025-12-29,Unknown,Graduate,
+115,Data Engineer,Solstice Energy,Bristol,,,2026-04-07,Unknown,Senior,
+818,Data Science Intern,Solstice Energy,Glasgow,,,2025-12-04,Unknown,Junior,
+266,Data Science Intern,Marlowe Consulting,Edinburgh,47500.0,47500.0,2025-12-07,Yes,Unspecified,47500.0
+552,Data Engineer,Orchard Media,Sheffield,,,2026-03-18,No,Senior,
+826,Insights Analyst,Northwind Analytics,Edinburgh,37000.0,37000.0,2025-10-21,Unknown,Graduate,37000.0
+1092,Data Scientist II,Solstice Energy,Birmingham,,,2025-10-03,No,Senior,
+685,Insights Analyst,Kestrel Logistics,Liverpool,55000.0,75000.0,2025-06-24,Unknown,Unspecified,65000.0
+400,Analytics Consultant,Alderly Bank,London,40000.0,50000.0,2025-05-31,Unknown,Junior,45000.0
+1468,Data Engineer,Orchard Media,Bristol,,,2025-07-24,Unknown,Senior,
+1451,Insights Analyst,Redbridge Telecom,Remote,,,2025-07-04,No,Mid,
+1056,Data Analyst,Northwind Analytics,London,36000.0,43000.0,2025-04-19,Yes,Junior,39500.0
+162,Machine Learning Engineer,Grove & Co,Edinburgh,,,2025-08-15,Hybrid,Unspecified,
+1362,Junior Data Scientist,Ashford Digital,Birmingham,,,2025-10-31,Unknown,Mid,
+974,Analytics Consultant,Ashford Digital,Glasgow,,,2025-06-03,Hybrid,Graduate,
+1410,Data Scientist II,Marlowe Consulting,Leeds,28000.0,35000.0,2026-10-01,Hybrid,Graduate,31500.0
+1296,Insights Analyst,BrightPath Retail,Remote,28000.0,35000.0,2026-02-24,Unknown,Junior,31500.0
+1462,Data Scientist,Redbridge Telecom,Manchester,32000.0,42000.0,2025-03-31,Yes,Junior,37000.0
+877,Data Science Intern,Ashford Digital,Bristol,65000.0,65000.0,2025-09-20,Unknown,Senior,65000.0
+1388,Data Scientist II,Orchard Media,Glasgow,47500.0,47500.0,2025-01-13,Unknown,Mid,47500.0
+112,Data Analyst,Solstice Energy,Birmingham,31500.0,31500.0,2026-12-02,Hybrid,Junior,31500.0
+770,Data Scientist II,Marlowe Consulting,Glasgow,85000.0,85000.0,2025-03-29,No,Senior,85000.0
+534,Analytics Consultant,Redbridge Telecom,Remote,28000.0,35000.0,2025-09-07,Yes,Junior,31500.0
+861,Data Scientist,Fenwick Insurance,Leeds,55000.0,75000.0,2025-05-10,Yes,Senior,65000.0
+1075,Analytics Consultant,Grove & Co,Leeds,75000.0,95000.0,2026-02-19,No,Senior,85000.0
+545,Data Science Intern,Grove & Co,Edinburgh,,,2025-06-10,No,Graduate,
+812,Data Engineer,Orchard Media,Glasgow,,,2025-07-02,Unknown,Graduate,
+990,Junior Data Scientist,BrightPath Retail,Bristol,28000.0,35000.0,2025-10-26,Unknown,Graduate,31500.0
+624,Machine Learning Engineer,BrightPath Retail,London,,,2025-09-18,Yes,Unspecified,
+1131,Business Intelligence Analyst,Redbridge Telecom,Manchester,,,2025-07-06,Hybrid,Mid,
+502,Data Analyst,Vantage Health,Sheffield,,,2025-08-19,Yes,Mid,
+94,Data Analyst,Redbridge Telecom,London,83000.0,103000.0,2025-02-16,Unknown,Senior,93000.0
+128,Data Scientist II,Orchard Media,Sheffield,,,2025-11-12,Hybrid,Unspecified,
+1580,Insights Analyst,BrightPath Retail,Manchester,,,2026-01-03,Yes,Senior,
+936,Data Scientist,Marlowe Consulting,Edinburgh,55000.0,75000.0,2025-02-20,No,Senior,65000.0
+1224,Data Scientist,Grove & Co,Sheffield,,,2025-04-03,No,Junior,
+1013,Machine Learning Engineer,BrightPath Retail,Manchester,,,2025-03-26,No,Senior,
+980,Junior Data Scientist,Kestrel Logistics,London,63000.0,83000.0,2026-03-02,No,Senior,73000.0
+1366,Data Analyst,Fenwick Insurance,Bristol,31500.0,31500.0,2025-09-07,No,Junior,31500.0
+265,Junior Data Scientist,Grove & Co,Remote (Uk),37000.0,37000.0,2026-04-28,Unknown,Unspecified,37000.0
+736,Data Science Intern,Fenwick Insurance,Manchester,31500.0,31500.0,2026-05-03,Yes,Graduate,31500.0
+581,Data Scientist,Vantage Health,Remote,32000.0,42000.0,2025-04-09,Unknown,Graduate,37000.0
+275,Insights Analyst,Redbridge Telecom,Remote,47500.0,47500.0,2025-04-28,Yes,Mid,47500.0
+1411,Junior Data Scientist,Vantage Health,Sheffield,65000.0,65000.0,2025-10-22,Yes,Mid,65000.0
+690,Junior Data Scientist,Grove & Co,Birmingham,,,2025-11-12,Unknown,Graduate,
+59,Business Intelligence Analyst,Kestrel Logistics,Bristol,55000.0,75000.0,2025-03-19,Unknown,Senior,65000.0
+842,Business Intelligence Analyst,Solstice Energy,Remote,,,2025-10-01,Unknown,Graduate,
+1010,Machine Learning Engineer,Ashford Digital,Bristol,,,2025-08-05,Yes,Graduate,
+703,Data Scientist,Solstice Energy,Glasgow,,,2025-06-30,Hybrid,Graduate,
+1199,Machine Learning Engineer,Orchard Media,Glasgow,28000.0,35000.0,2026-05-03,Unknown,Junior,31500.0
+262,Data Scientist,Kestrel Logistics,London,,,2025-04-22,No,Unspecified,
+1235,Insights Analyst,BrightPath Retail,Sheffield,,,2025-06-30,Unknown,Unspecified,
+1202,Business Intelligence Analyst,Alderly Bank,Leeds,,,2025-10-02,No,Unspecified,
+1174,Data Scientist,Vantage Health,Manchester,,,2026-01-20,Yes,Junior,
+1533,Data Science Intern,Northwind Analytics,Remote (Uk),,,2026-03-01,Yes,Senior,
+998,Data Engineer,Orchard Media,Remote,,,2025-01-16,No,Unspecified,
+1408,Data Scientist,Redbridge Telecom,Glasgow,,,2026-03-29,Hybrid,Junior,
+1152,Insights Analyst,BrightPath Retail,Remote,28000.0,35000.0,2026-01-26,Yes,Junior,31500.0
+2,Data Analyst,Redbridge Telecom,Remote,28000.0,35000.0,2025-04-30,Yes,Junior,31500.0
+1053,Data Engineer,Solstice Energy,Birmingham,40000.0,55000.0,2025-04-13,Unknown,Unspecified,47500.0
+1191,Data Scientist,Fenwick Insurance,Bristol,,,2025-07-07,Yes,Unspecified,
+453,Junior Data Scientist,Fenwick Insurance,Edinburgh,28000.0,35000.0,2025-07-10,No,Graduate,31500.0
+271,Data Scientist,Kestrel Logistics,Leeds,,,2025-12-27,Unknown,Unspecified,
+1117,Business Intelligence Analyst,Kestrel Logistics,Glasgow,85000.0,85000.0,2025-08-08,Yes,Senior,85000.0
+339,Insights Analyst,Kestrel Logistics,Liverpool,31500.0,31500.0,2026-02-23,Unknown,Junior,31500.0
+29,Data Scientist II,Grove & Co,Glasgow,40000.0,55000.0,2026-11-05,Yes,Mid,47500.0
+541,Data Analyst,Marlowe Consulting,Manchester,75000.0,95000.0,2026-02-16,Hybrid,Senior,85000.0
+916,Business Intelligence Analyst,Ashford Digital,Remote (Uk),31500.0,31500.0,2025-05-13,Yes,Junior,31500.0
+1430,Data Scientist,Alderly Bank,London,83000.0,103000.0,2026-03-26,No,Senior,93000.0
+11,Analytics Consultant,Alderly Bank,Bristol,,,2025-08-08,Unknown,Mid,
+1039,Analytics Consultant,Solstice Energy,Remote (Uk),32000.0,42000.0,2026-02-24,Yes,Graduate,37000.0
+573,Data Scientist,Ashford Digital,Glasgow,,,2026-02-13,Yes,Senior,
+1393,Analytics Consultant,Orchard Media,Bristol,,,2025-10-15,Unknown,Junior,
+972,Machine Learning Engineer,Vantage Health,Edinburgh,28000.0,35000.0,2025-05-02,Yes,Graduate,31500.0
+1222,Insights Analyst,Orchard Media,London,48000.0,63000.0,2025-05-03,No,Unspecified,55500.0
+849,Insights Analyst,Ashford Digital,Liverpool,32000.0,42000.0,2025-11-25,No,Unspecified,37000.0
+442,Data Science Intern,Grove & Co,Birmingham,40000.0,55000.0,2025-03-26,Yes,Unspecified,47500.0
+31,Data Scientist,Marlowe Consulting,Manchester,28000.0,35000.0,2025-07-26,Yes,Junior,31500.0
+551,Junior Data Scientist,Solstice Energy,Manchester,37000.0,37000.0,2025-12-19,Yes,Graduate,37000.0
+1264,Data Science Intern,Orchard Media,Remote,,,2025-04-16,No,Mid,
+1193,Insights Analyst,Grove & Co,London,36000.0,43000.0,2026-03-13,Hybrid,Graduate,39500.0
+555,Insights Analyst,Grove & Co,Leeds,,,2025-08-10,No,Senior,
+1024,Data Engineer,Kestrel Logistics,Manchester,75000.0,95000.0,2025-07-25,Hybrid,Senior,85000.0
+138,Insights Analyst,Alderly Bank,Manchester,,,2025-11-02,Hybrid,Senior,
+530,Insights Analyst,Fenwick Insurance,Sheffield,,,2025-10-10,Unknown,Unspecified,
+638,Data Engineer,BrightPath Retail,Birmingham,37000.0,37000.0,2026-03-20,No,Graduate,37000.0
+1078,Data Analyst,Marlowe Consulting,Bristol,55000.0,75000.0,2025-03-09,Yes,Mid,65000.0
+1147,Insights Analyst,Marlowe Consulting,Leeds,47500.0,47500.0,2025-04-15,Unknown,Mid,47500.0
+930,Data Analyst,Redbridge Telecom,Sheffield,,,2025-06-23,Yes,Unspecified,
+47,Data Scientist,BrightPath Retail,Sheffield,,,2025-11-07,Yes,Senior,
+129,Data Scientist,Ashford Digital,Edinburgh,55000.0,75000.0,2026-03-14,Yes,Unspecified,65000.0
+722,Data Engineer,Redbridge Telecom,Manchester,55000.0,75000.0,2025-07-02,Yes,Senior,65000.0
+114,Junior Data Scientist,BrightPath Retail,Sheffield,,,2026-04-13,No,Graduate,
+1368,Data Scientist II,Alderly Bank,London,36000.0,43000.0,2025-08-09,Hybrid,Junior,39500.0
+1085,Data Scientist II,Kestrel Logistics,London,45000.0,45000.0,2025-12-22,Yes,Graduate,45000.0
+750,Analytics Consultant,Ashford Digital,Leeds,85000.0,85000.0,2025-07-03,Unknown,Senior,85000.0
+374,Data Analyst,Redbridge Telecom,Sheffield,28000.0,35000.0,2025-04-12,Unknown,Junior,31500.0
+1317,Data Analyst,Redbridge Telecom,Glasgow,31500.0,31500.0,2025-08-04,No,Junior,31500.0
+1310,Data Science Intern,Marlowe Consulting,Leeds,28000.0,35000.0,2025-04-15,No,Graduate,31500.0
+794,Machine Learning Engineer,BrightPath Retail,Liverpool,32000.0,42000.0,2025-09-23,Hybrid,Mid,37000.0
+1382,Machine Learning Engineer,Orchard Media,Remote,65000.0,65000.0,2026-04-13,Hybrid,Unspecified,65000.0
+655,Data Scientist,BrightPath Retail,Bristol,75000.0,95000.0,2026-01-24,Yes,Senior,85000.0
+1538,Data Engineer,Fenwick Insurance,London,,,2025-01-14,Unknown,Unspecified,
+158,Data Scientist II,BrightPath Retail,Remote,85000.0,85000.0,2026-03-02,Yes,Senior,85000.0
+368,Data Engineer,BrightPath Retail,Leeds,28000.0,35000.0,2025-02-24,Unknown,Graduate,31500.0
+508,Business Intelligence Analyst,Marlowe Consulting,Liverpool,,,2025-04-25,Unknown,Mid,
+219,Data Scientist,BrightPath Retail,Remote (Uk),40000.0,55000.0,2025-10-26,Yes,Unspecified,47500.0
+181,Machine Learning Engineer,Alderly Bank,Birmingham,75000.0,95000.0,2026-01-24,Unknown,Senior,85000.0
+666,Insights Analyst,Grove & Co,Edinburgh,31500.0,31500.0,2026-07-03,Hybrid,Junior,31500.0
+1158,Data Engineer,Grove & Co,Remote,40000.0,55000.0,2025-04-25,Hybrid,Unspecified,47500.0
+1054,Junior Data Scientist,Kestrel Logistics,Bristol,32000.0,42000.0,2025-02-10,Yes,Unspecified,37000.0
+1571,Insights Analyst,Grove & Co,Birmingham,47500.0,47500.0,2026-01-25,Yes,Unspecified,47500.0
+1588,Machine Learning Engineer,Alderly Bank,Birmingham,28000.0,35000.0,2025-10-25,Yes,Junior,31500.0
+669,Analytics Consultant,Vantage Health,Leeds,37000.0,37000.0,2026-06-02,No,Mid,37000.0
+1144,Machine Learning Engineer,Grove & Co,Sheffield,,,2025-05-16,No,Senior,
+173,Data Scientist II,Marlowe Consulting,Liverpool,,,2025-12-07,No,Senior,
+1501,Data Engineer,Fenwick Insurance,Glasgow,,,2026-05-04,Unknown,Graduate,
+1303,Data Science Intern,BrightPath Retail,Glasgow,,,2025-12-29,Unknown,Unspecified,
+1045,Business Intelligence Analyst,Ashford Digital,Edinburgh,,,2026-04-20,Unknown,Senior,
+1138,Junior Data Scientist,Redbridge Telecom,Bristol,,,2025-02-01,No,Senior,
+1088,Analytics Consultant,BrightPath Retail,Liverpool,32000.0,42000.0,2026-03-18,Unknown,Mid,37000.0
+753,Data Analyst,Orchard Media,Liverpool,,,2025-05-23,Unknown,Mid,
+881,Analytics Consultant,Vantage Health,Birmingham,,,2025-08-07,Yes,Senior,
+1035,Data Analyst,Solstice Energy,Manchester,28000.0,35000.0,2025-06-03,No,Junior,31500.0
+1068,Data Engineer,Redbridge Telecom,Sheffield,,,2025-12-01,Yes,Senior,
+1374,Data Engineer,Vantage Health,Glasgow,,,2025-05-25,No,Unspecified,
+1421,Analytics Consultant,Orchard Media,London,,,2026-02-26,Unknown,Senior,
+862,Data Science Intern,Vantage Health,Remote,,,2025-04-02,No,Mid,
+1476,Data Science Intern,Northwind Analytics,Bristol,,,2025-03-09,Yes,Mid,
+941,Analytics Consultant,Marlowe Consulting,Remote,,,2025-11-21,Yes,Unspecified,
+300,Junior Data Scientist,Vantage Health,Edinburgh,40000.0,55000.0,2026-05-09,Hybrid,Unspecified,47500.0
+51,Data Science Intern,Grove & Co,Birmingham,37000.0,37000.0,2025-05-27,Unknown,Unspecified,37000.0
+276,Data Engineer,Solstice Energy,Liverpool,,,2025-08-24,Unknown,Senior,
+197,Data Scientist,BrightPath Retail,Remote,28000.0,35000.0,2025-03-15,Unknown,Graduate,31500.0
+1369,Data Engineer,Vantage Health,Sheffield,,,2025-01-06,Unknown,Unspecified,
+351,Data Scientist II,Fenwick Insurance,Remote (Uk),,,2026-09-01,Yes,Junior,
+516,Analytics Consultant,Alderly Bank,Leeds,28000.0,35000.0,2025-03-18,No,Graduate,31500.0
+334,Analytics Consultant,Vantage Health,Edinburgh,,,2026-03-13,Hybrid,Senior,
+531,Junior Data Scientist,Fenwick Insurance,Liverpool,,,2025-06-26,Unknown,Senior,
+1260,Data Scientist,Solstice Energy,Bristol,,,2026-01-10,No,Junior,
+1044,Insights Analyst,BrightPath Retail,Remote,,,2025-03-25,Unknown,Junior,
+252,Data Engineer,Redbridge Telecom,Liverpool,,,2025-08-15,Unknown,Mid,
+702,Data Engineer,Solstice Energy,Manchester,,,2025-01-28,Yes,Graduate,
+1526,Machine Learning Engineer,Fenwick Insurance,Glasgow,,,2025-04-27,Hybrid,Mid,
+568,Business Intelligence Analyst,Solstice Energy,Birmingham,28000.0,35000.0,2025-01-18,Hybrid,Graduate,31500.0
+193,Data Science Intern,Ashford Digital,Glasgow,,,2025-12-21,Hybrid,Senior,
+979,Data Engineer,Vantage Health,Birmingham,85000.0,85000.0,2026-03-10,No,Senior,85000.0
+1294,Data Analyst,Solstice Energy,London,63000.0,83000.0,2026-04-20,Hybrid,Unspecified,73000.0
+1232,Data Scientist II,Grove & Co,Bristol,,,2026-04-30,No,Unspecified,
+480,Insights Analyst,Solstice Energy,Leeds,28000.0,35000.0,2025-05-31,No,Graduate,31500.0
+1435,Data Science Intern,Fenwick Insurance,Bristol,75000.0,95000.0,2025-09-20,Hybrid,Senior,85000.0
+6,Data Scientist II,Vantage Health,Sheffield,28000.0,35000.0,2025-01-24,No,Graduate,31500.0
+591,Analytics Consultant,Vantage Health,Sheffield,,,2025-06-01,Yes,Junior,
+844,Analytics Consultant,Ashford Digital,Edinburgh,28000.0,35000.0,2025-12-20,No,Junior,31500.0
+1592,Data Scientist II,Alderly Bank,Bristol,40000.0,55000.0,2025-06-05,Unknown,Unspecified,47500.0
+1173,Data Scientist II,Ashford Digital,Bristol,,,2026-02-05,Unknown,Unspecified,
+232,Data Engineer,Marlowe Consulting,Edinburgh,37000.0,37000.0,2026-05-05,Unknown,Graduate,37000.0
+971,Data Science Intern,Marlowe Consulting,Edinburgh,28000.0,35000.0,2025-08-29,Yes,Graduate,31500.0
+35,Data Scientist II,Kestrel Logistics,Liverpool,40000.0,55000.0,2026-03-27,Hybrid,Mid,47500.0
+778,Data Analyst,Vantage Health,London,,,2025-02-07,Hybrid,Graduate,
+96,Analytics Consultant,Vantage Health,Birmingham,,,2025-06-28,Hybrid,Unspecified,
+1185,Junior Data Scientist,Alderly Bank,Glasgow,28000.0,35000.0,2026-02-18,Unknown,Junior,31500.0
+1182,Data Scientist,Fenwick Insurance,Manchester,31500.0,31500.0,2026-05-06,Yes,Junior,31500.0
+728,Data Scientist II,Northwind Analytics,Remote,75000.0,95000.0,2025-11-19,Hybrid,Senior,85000.0
+472,Analytics Consultant,Alderly Bank,Birmingham,,,2026-03-17,Unknown,Graduate,
+9,Analytics Consultant,Orchard Media,Bristol,55000.0,75000.0,2026-02-25,Hybrid,Senior,65000.0
+1404,Data Science Intern,Vantage Health,Bristol,,,2025-11-29,No,Graduate,
+798,Business Intelligence Analyst,Northwind Analytics,Manchester,40000.0,55000.0,2025-07-06,No,Mid,47500.0
+50,Business Intelligence Analyst,Grove & Co,Remote,,,2025-07-03,Unknown,Unspecified,
+725,Data Science Intern,Orchard Media,Manchester,,,2026-05-04,Unknown,Mid,
+1536,Business Intelligence Analyst,Alderly Bank,Manchester,28000.0,35000.0,2025-10-04,Yes,Graduate,31500.0
+1446,Data Engineer,Alderly Bank,Liverpool,32000.0,42000.0,2025-06-26,Unknown,Junior,37000.0
+1196,Data Analyst,Orchard Media,Remote,40000.0,55000.0,2025-06-12,Yes,Unspecified,47500.0
+1018,Data Science Intern,Alderly Bank,Manchester,28000.0,35000.0,2025-08-14,No,Junior,31500.0
+633,Data Scientist,Fenwick Insurance,Remote,85000.0,85000.0,2025-03-19,Yes,Senior,85000.0
+1335,Data Scientist,Redbridge Telecom,Edinburgh,28000.0,35000.0,2025-06-24,Yes,Graduate,31500.0
+1110,Insights Analyst,Solstice Energy,Birmingham,37000.0,37000.0,2026-06-03,Yes,Mid,37000.0
+1565,Data Scientist II,Alderly Bank,Edinburgh,,,2025-04-26,No,Junior,
+755,Insights Analyst,Northwind Analytics,Remote,,,2025-01-18,Yes,Junior,
+146,Insights Analyst,Redbridge Telecom,Liverpool,28000.0,35000.0,2025-04-03,Unknown,Graduate,31500.0
+853,Data Science Intern,Orchard Media,Sheffield,,,2025-11-28,Unknown,Junior,
+1200,Business Intelligence Analyst,Vantage Health,Birmingham,37000.0,37000.0,2025-07-27,Hybrid,Mid,37000.0
+1239,Data Scientist,Ashford Digital,Edinburgh,40000.0,55000.0,2025-10-15,Unknown,Unspecified,47500.0
+645,Analytics Consultant,Redbridge Telecom,Leeds,31500.0,31500.0,2025-12-21,Unknown,Junior,31500.0
+408,Data Engineer,Alderly Bank,London,40000.0,50000.0,2026-02-26,No,Junior,45000.0
+575,Junior Data Scientist,Ashford Digital,Remote,40000.0,55000.0,2025-08-05,No,Mid,47500.0
+1486,Insights Analyst,Solstice Energy,Glasgow,32000.0,42000.0,2026-12-02,Unknown,Graduate,37000.0
+868,Data Scientist,Solstice Energy,Edinburgh,55000.0,75000.0,2026-03-10,No,Unspecified,65000.0
+180,Data Scientist II,Fenwick Insurance,Leeds,28000.0,35000.0,2025-01-15,Yes,Junior,31500.0
+582,Data Scientist,BrightPath Retail,Leeds,40000.0,55000.0,2025-04-12,Unknown,Unspecified,47500.0
+1559,Business Intelligence Analyst,Grove & Co,Liverpool,85000.0,85000.0,2025-06-24,Yes,Senior,85000.0
+202,Analytics Consultant,Kestrel Logistics,Manchester,32000.0,42000.0,2026-04-06,Unknown,Junior,37000.0
+968,Analytics Consultant,Marlowe Consulting,Edinburgh,28000.0,35000.0,2025-11-01,Yes,Junior,31500.0
+857,Analytics Consultant,Orchard Media,Birmingham,47500.0,47500.0,2026-01-08,No,Mid,47500.0
+878,Analytics Consultant,Orchard Media,Glasgow,32000.0,42000.0,2026-01-23,Hybrid,Graduate,37000.0
+1146,Junior Data Scientist,Vantage Health,London,,,2026-04-30,Hybrid,Graduate,
+1515,Junior Data Scientist,Fenwick Insurance,Birmingham,40000.0,55000.0,2025-11-09,No,Unspecified,47500.0
+711,Data Scientist II,Kestrel Logistics,Remote,40000.0,55000.0,2025-09-29,Yes,Unspecified,47500.0
+60,Junior Data Scientist,Ashford Digital,Leeds,65000.0,65000.0,2025-10-05,Unknown,Unspecified,65000.0
+732,Data Scientist II,Solstice Energy,Liverpool,28000.0,35000.0,2025-01-19,No,Graduate,31500.0
+1475,Machine Learning Engineer,Solstice Energy,Glasgow,,,2025-06-30,Unknown,Mid,
+1361,Data Scientist,BrightPath Retail,Edinburgh,,,2025-05-29,Unknown,Unspecified,
+517,Machine Learning Engineer,Redbridge Telecom,Manchester,65000.0,65000.0,2026-04-01,Unknown,Mid,65000.0
+341,Business Intelligence Analyst,Alderly Bank,Remote,,,2025-10-16,Yes,Mid,
+282,Insights Analyst,Marlowe Consulting,Bristol,75000.0,95000.0,2025-07-11,Unknown,Senior,85000.0
+815,Junior Data Scientist,Orchard Media,Sheffield,,,2025-11-16,Yes,Mid,
+3,Data Scientist,Marlowe Consulting,Leeds,,,2025-05-23,No,Mid,
+640,Insights Analyst,Marlowe Consulting,Liverpool,,,2025-08-22,No,Graduate,
+586,Data Analyst,Orchard Media,Leeds,,,2025-03-21,Yes,Junior,
+419,Data Engineer,Vantage Health,Edinburgh,32000.0,42000.0,2025-12-15,No,Graduate,37000.0
+781,Machine Learning Engineer,Orchard Media,Birmingham,85000.0,85000.0,2025-01-07,Hybrid,Senior,85000.0
+956,Data Analyst,Alderly Bank,Bristol,28000.0,35000.0,2026-03-11,Yes,Graduate,31500.0
+965,Analytics Consultant,Northwind Analytics,Bristol,28000.0,35000.0,2025-10-14,Hybrid,Junior,31500.0
+1246,Machine Learning Engineer,Solstice Energy,Sheffield,,,2025-09-10,Yes,Unspecified,
+978,Data Analyst,Alderly Bank,Bristol,40000.0,55000.0,2026-05-15,No,Mid,47500.0
+1347,Data Engineer,Fenwick Insurance,Sheffield,,,2026-03-25,No,Unspecified,
+106,Data Scientist II,Marlowe Consulting,Remote,75000.0,95000.0,2025-10-20,No,Senior,85000.0
+661,Data Scientist II,Grove & Co,Leeds,47500.0,47500.0,2026-09-02,Hybrid,Mid,47500.0
+1106,Data Science Intern,Fenwick Insurance,Manchester,28000.0,35000.0,2026-04-29,No,Junior,31500.0
+994,Data Scientist,Marlowe Consulting,Leeds,47500.0,47500.0,2025-06-04,Unknown,Mid,47500.0
+324,Analytics Consultant,Redbridge Telecom,Glasgow,31500.0,31500.0,2026-02-01,Hybrid,Graduate,31500.0
+1103,Data Scientist,Grove & Co,Liverpool,,,2025-10-18,Hybrid,Mid,
+952,Data Analyst,Solstice Energy,Edinburgh,32000.0,42000.0,2026-01-16,Hybrid,Unspecified,37000.0
+663,Insights Analyst,Redbridge Telecom,London,55500.0,55500.0,2026-04-18,Unknown,Mid,55500.0
+450,Insights Analyst,Grove & Co,Glasgow,28000.0,35000.0,2026-04-09,Unknown,Junior,31500.0
+800,Data Engineer,BrightPath Retail,London,,,2025-03-02,Yes,Graduate,
+260,Analytics Consultant,Fenwick Insurance,Birmingham,32000.0,42000.0,2026-02-19,Unknown,Mid,37000.0
+1218,Data Science Intern,Kestrel Logistics,Sheffield,32000.0,42000.0,2026-04-26,Unknown,Junior,37000.0
+1334,Data Engineer,Kestrel Logistics,Remote,37000.0,37000.0,2025-01-17,Hybrid,Unspecified,37000.0
+821,Analytics Consultant,Redbridge Telecom,Remote (Uk),85000.0,85000.0,2025-01-02,Yes,Senior,85000.0
+1519,Data Scientist,Ashford Digital,Leeds,85000.0,85000.0,2025-01-13,Unknown,Senior,85000.0
+1341,Machine Learning Engineer,Solstice Energy,Liverpool,,,2026-04-26,Hybrid,Unspecified,
+717,Insights Analyst,BrightPath Retail,London,40000.0,50000.0,2025-02-14,No,Mid,45000.0
+1325,Data Engineer,Orchard Media,Liverpool,28000.0,35000.0,2025-09-02,No,Junior,31500.0
+184,Data Science Intern,Grove & Co,Sheffield,,,2025-11-02,Yes,Junior,
+1094,Insights Analyst,Marlowe Consulting,Leeds,,,2025-05-08,Yes,Senior,
+71,Data Analyst,Ashford Digital,Bristol,31500.0,31500.0,2025-09-30,Unknown,Graduate,31500.0
+130,Machine Learning Engineer,Marlowe Consulting,Edinburgh,40000.0,55000.0,2026-11-05,Unknown,Unspecified,47500.0
+364,Data Science Intern,Ashford Digital,Bristol,,,2025-09-09,No,Mid,
+1505,Data Scientist II,Vantage Health,Manchester,32000.0,42000.0,2025-09-25,Yes,Mid,37000.0
+549,Analytics Consultant,Redbridge Telecom,Bristol,,,2025-04-24,No,Mid,
+1213,Data Scientist II,BrightPath Retail,Glasgow,75000.0,95000.0,2025-04-25,Yes,Senior,85000.0
+1057,Data Science Intern,Redbridge Telecom,Liverpool,65000.0,65000.0,2025-11-06,Hybrid,Unspecified,65000.0
+1372,Business Intelligence Analyst,Solstice Energy,Liverpool,,,2025-02-21,Yes,Senior,
+946,Insights Analyst,Marlowe Consulting,Bristol,37000.0,37000.0,2025-02-15,Unknown,Mid,37000.0
+1034,Data Engineer,Grove & Co,Leeds,28000.0,35000.0,2025-08-15,Yes,Graduate,31500.0
+1172,Data Analyst,Northwind Analytics,Sheffield,,,2026-01-16,Unknown,Mid,
+345,Data Engineer,Marlowe Consulting,Sheffield,40000.0,55000.0,2026-06-02,Unknown,Unspecified,47500.0
+76,Analytics Consultant,Kestrel Logistics,Edinburgh,,,2025-12-26,Yes,Senior,
+766,Data Analyst,Orchard Media,Birmingham,28000.0,35000.0,2025-05-22,Unknown,Junior,31500.0
+393,Data Analyst,Fenwick Insurance,Bristol,,,2025-08-13,Unknown,Junior,
+983,Data Engineer,Marlowe Consulting,Remote,75000.0,95000.0,2026-04-17,Yes,Senior,85000.0
+1577,Data Science Intern,Grove & Co,Bristol,28000.0,35000.0,2026-01-01,No,Junior,31500.0
+995,Business Intelligence Analyst,Kestrel Logistics,Sheffield,28000.0,35000.0,2026-01-30,Hybrid,Graduate,31500.0
+206,Business Intelligence Analyst,Orchard Media,Glasgow,32000.0,42000.0,2026-05-13,Unknown,Unspecified,37000.0
+298,Machine Learning Engineer,Vantage Health,Leeds,,,2025-02-24,Hybrid,Graduate,
+713,Machine Learning Engineer,Orchard Media,Sheffield,85000.0,85000.0,2026-02-15,Hybrid,Senior,85000.0
+209,Machine Learning Engineer,Marlowe Consulting,Bristol,,,2025-05-21,Unknown,Senior,
+1429,Insights Analyst,Solstice Energy,Manchester,28000.0,35000.0,2025-04-06,Yes,Junior,31500.0
+1207,Junior Data Scientist,Redbridge Telecom,Remote,75000.0,95000.0,2026-05-13,Yes,Senior,85000.0
+1122,Junior Data Scientist,Alderly Bank,Edinburgh,37000.0,37000.0,2025-08-08,Unknown,Mid,37000.0
+75,Analytics Consultant,Redbridge Telecom,Sheffield,,,2026-03-12,No,Senior,
+1156,Data Scientist II,BrightPath Retail,London,36000.0,43000.0,2025-09-19,No,Junior,39500.0
+1276,Business Intelligence Analyst,Vantage Health,Leeds,,,2025-03-04,Unknown,Graduate,
+1263,Business Intelligence Analyst,Kestrel Logistics,Manchester,28000.0,35000.0,2026-03-28,Unknown,Junior,31500.0
+191,Data Scientist,Kestrel Logistics,London,,,2025-08-31,Yes,Senior,
+338,Data Engineer,Orchard Media,Manchester,28000.0,35000.0,2025-02-09,No,Junior,31500.0
+192,Data Engineer,Vantage Health,Edinburgh,75000.0,95000.0,2026-02-14,Unknown,Senior,85000.0
+664,Analytics Consultant,Northwind Analytics,Birmingham,,,2026-04-04,Unknown,Mid,
+279,Analytics Consultant,Fenwick Insurance,London,,,2025-09-01,Yes,Graduate,
+242,Data Scientist,Northwind Analytics,Bristol,,,2025-11-25,Yes,Senior,
+1282,Business Intelligence Analyst,Kestrel Logistics,London,,,2025-08-05,Yes,Senior,
+1343,Analytics Consultant,Alderly Bank,Leeds,32000.0,42000.0,2025-02-28,Yes,Mid,37000.0
+46,Data Scientist II,Orchard Media,Liverpool,31500.0,31500.0,2025-04-02,Hybrid,Junior,31500.0
+1167,Data Engineer,Ashford Digital,Manchester,55000.0,75000.0,2026-12-03,Hybrid,Senior,65000.0
+1510,Junior Data Scientist,Fenwick Insurance,Liverpool,31500.0,31500.0,2025-05-16,No,Graduate,31500.0
+658,Business Intelligence Analyst,Orchard Media,Sheffield,75000.0,95000.0,2025-11-11,Unknown,Senior,85000.0
+1063,Data Analyst,Ashford Digital,Remote,28000.0,35000.0,2026-03-22,Yes,Graduate,31500.0
+967,Data Scientist,Solstice Energy,Remote,37000.0,37000.0,2025-11-30,Yes,Unspecified,37000.0
+970,Insights Analyst,Solstice Energy,Birmingham,32000.0,42000.0,2025-03-07,Yes,Mid,37000.0
+872,Data Analyst,Orchard Media,Edinburgh,75000.0,95000.0,2025-02-11,Unknown,Senior,85000.0
+251,Data Scientist II,Solstice Energy,Liverpool,28000.0,35000.0,2026-03-01,Yes,Junior,31500.0
+905,Machine Learning Engineer,Alderly Bank,Bristol,32000.0,42000.0,2025-03-20,Hybrid,Graduate,37000.0
+605,Business Intelligence Analyst,Kestrel Logistics,Leeds,,,2025-09-19,Yes,Junior,
+561,Data Scientist II,Alderly Bank,Bristol,,,2026-01-04,Unknown,Senior,
+521,Analytics Consultant,Alderly Bank,Leeds,,,2026-02-25,Yes,Graduate,
+483,Junior Data Scientist,Fenwick Insurance,Sheffield,,,2026-02-09,Yes,Graduate,
+784,Data Scientist II,Fenwick Insurance,Manchester,32000.0,42000.0,2025-07-29,Hybrid,Unspecified,37000.0
+1071,Data Scientist,Vantage Health,London,,,2025-08-05,Hybrid,Graduate,
+535,Data Scientist,Ashford Digital,Remote,,,2025-01-30,Unknown,Graduate,
+415,Data Analyst,Kestrel Logistics,Birmingham,47500.0,47500.0,2026-01-09,Yes,Unspecified,47500.0
+230,Data Science Intern,Alderly Bank,Leeds,28000.0,35000.0,2025-01-10,Hybrid,Graduate,31500.0
+1019,Data Engineer,Ashford Digital,London,63000.0,83000.0,2026-03-05,Yes,Mid,73000.0
+494,Data Scientist II,Northwind Analytics,Sheffield,28000.0,35000.0,2025-07-03,Yes,Graduate,31500.0
+1542,Analytics Consultant,Vantage Health,Liverpool,32000.0,42000.0,2025-07-14,Unknown,Unspecified,37000.0
+1322,Insights Analyst,Orchard Media,London,,,2026-01-28,Unknown,Unspecified,
+344,Junior Data Scientist,Kestrel Logistics,Bristol,40000.0,55000.0,2026-03-11,Hybrid,Mid,47500.0
+557,Data Scientist II,Marlowe Consulting,Edinburgh,,,2026-03-16,Yes,Senior,
+1448,Data Science Intern,Alderly Bank,Edinburgh,47500.0,47500.0,2026-02-24,Unknown,Unspecified,47500.0
+1030,Data Engineer,Ashford Digital,Remote,28000.0,35000.0,2025-03-12,Unknown,Graduate,31500.0
+104,Data Science Intern,Kestrel Logistics,Sheffield,,,2025-06-24,Hybrid,Junior,
+1386,Data Scientist II,Kestrel Logistics,Edinburgh,55000.0,75000.0,2025-05-29,Hybrid,Mid,65000.0
+667,Data Science Intern,Grove & Co,Liverpool,32000.0,42000.0,2025-01-11,Hybrid,Graduate,37000.0
+1104,Data Scientist,Ashford Digital,Edinburgh,,,2025-04-04,Hybrid,Graduate,
+372,Data Science Intern,Solstice Energy,Liverpool,32000.0,42000.0,2026-02-16,Yes,Junior,37000.0
+674,Data Engineer,Fenwick Insurance,Leeds,,,2025-06-13,Unknown,Senior,
+449,Analytics Consultant,Kestrel Logistics,Glasgow,32000.0,42000.0,2025-10-12,Yes,Mid,37000.0
+1548,Machine Learning Engineer,Vantage Health,Sheffield,31500.0,31500.0,2025-01-15,Yes,Junior,31500.0
+481,Data Analyst,Alderly Bank,Birmingham,,,2025-05-23,Hybrid,Unspecified,
+337,Machine Learning Engineer,Vantage Health,Manchester,,,2025-11-17,Unknown,Mid,
+1467,Data Engineer,Redbridge Telecom,Bristol,28000.0,35000.0,2025-07-11,Unknown,Graduate,31500.0
+1309,Data Engineer,Kestrel Logistics,Bristol,40000.0,55000.0,2025-04-14,No,Unspecified,47500.0
+7,Business Intelligence Analyst,BrightPath Retail,Leeds,,,2025-11-22,No,Unspecified,
+1534,Data Scientist,Kestrel Logistics,Edinburgh,40000.0,55000.0,2025-10-27,Hybrid,Mid,47500.0
+553,Data Scientist II,Vantage Health,Leeds,47500.0,47500.0,2025-04-05,Unknown,Unspecified,47500.0
+854,Data Engineer,BrightPath Retail,Glasgow,75000.0,95000.0,2025-07-25,Unknown,Senior,85000.0
+426,Insights Analyst,Redbridge Telecom,Bristol,32000.0,42000.0,2025-06-22,Unknown,Junior,37000.0
+556,Junior Data Scientist,Ashford Digital,Birmingham,,,2025-09-13,Unknown,Junior,
+1472,Machine Learning Engineer,Marlowe Consulting,Remote,31500.0,31500.0,2025-06-24,Hybrid,Graduate,31500.0
+626,Data Scientist,Northwind Analytics,Leeds,,,2026-01-17,Yes,Senior,
+546,Insights Analyst,Vantage Health,Birmingham,40000.0,55000.0,2026-12-01,Hybrid,Unspecified,47500.0
+194,Data Scientist II,Vantage Health,Manchester,,,2025-05-11,Yes,Unspecified,
+1353,Data Engineer,Fenwick Insurance,Leeds,65000.0,65000.0,2026-01-19,Unknown,Mid,65000.0
+204,Junior Data Scientist,Fenwick Insurance,Liverpool,28000.0,35000.0,2025-05-02,Yes,Junior,31500.0
+34,Business Intelligence Analyst,Solstice Energy,Edinburgh,,,2025-10-16,Yes,Junior,
+719,Data Analyst,Grove & Co,Glasgow,47500.0,47500.0,2025-03-24,Hybrid,Unspecified,47500.0
+1350,Data Engineer,Fenwick Insurance,Liverpool,,,2025-01-17,Unknown,Mid,
+355,Machine Learning Engineer,Orchard Media,Bristol,,,2025-08-22,Hybrid,Senior,
+919,Junior Data Scientist,Ashford Digital,Remote (Uk),37000.0,37000.0,2025-09-22,No,Mid,37000.0
+1145,Data Science Intern,Redbridge Telecom,Bristol,31500.0,31500.0,2025-04-23,Hybrid,Junior,31500.0
+1051,Business Intelligence Analyst,Northwind Analytics,Birmingham,28000.0,35000.0,2026-02-01,Unknown,Junior,31500.0
+1383,Analytics Consultant,Ashford Digital,Leeds,,,2025-07-29,Yes,Junior,
+1392,Data Scientist,Vantage Health,Bristol,37000.0,37000.0,2026-05-12,Yes,Mid,37000.0
+1456,Data Science Intern,Northwind Analytics,Bristol,,,2026-02-18,Yes,Senior,
+140,Analytics Consultant,Kestrel Logistics,Remote,,,2026-09-01,Hybrid,Unspecified,
+286,Analytics Consultant,Vantage Health,London,63000.0,83000.0,2026-04-21,Yes,Senior,73000.0
+1549,Junior Data Scientist,Orchard Media,London,48000.0,63000.0,2025-02-21,Hybrid,Unspecified,55500.0
+1520,Data Science Intern,Fenwick Insurance,Liverpool,65000.0,65000.0,2025-02-24,No,Mid,65000.0
+884,Data Analyst,Ashford Digital,Glasgow,55000.0,75000.0,2025-02-12,Unknown,Mid,65000.0
+891,Junior Data Scientist,Alderly Bank,Glasgow,,,2025-10-27,No,Unspecified,
+45,Data Scientist,Grove & Co,Leeds,75000.0,95000.0,2026-05-11,Hybrid,Senior,85000.0
+1547,Junior Data Scientist,Fenwick Insurance,Manchester,32000.0,42000.0,2025-06-06,Unknown,Junior,37000.0
+1149,Analytics Consultant,Alderly Bank,Glasgow,,,2025-09-09,No,Mid,
+1398,Analytics Consultant,Marlowe Consulting,Sheffield,37000.0,37000.0,2025-07-30,Unknown,Junior,37000.0
+244,Analytics Consultant,Grove & Co,Bristol,31500.0,31500.0,2025-10-18,No,Junior,31500.0
+1058,Machine Learning Engineer,Grove & Co,Edinburgh,,,2025-07-13,Yes,Mid,
+1115,Machine Learning Engineer,Ashford Digital,Birmingham,55000.0,75000.0,2025-08-09,No,Senior,65000.0
+451,Data Engineer,Solstice Energy,Bristol,32000.0,42000.0,2026-02-21,Yes,Unspecified,37000.0
+16,Insights Analyst,Kestrel Logistics,Birmingham,,,2025-06-15,Yes,Mid,
+1473,Analytics Consultant,Alderly Bank,Glasgow,,,2025-05-11,Yes,Mid,
+846,Data Science Intern,Northwind Analytics,Remote,55000.0,75000.0,2025-02-06,No,Senior,65000.0
+825,Data Scientist,Solstice Energy,Remote (Uk),37000.0,37000.0,2025-01-11,Unknown,Graduate,37000.0
+957,Data Scientist II,Redbridge Telecom,Bristol,32000.0,42000.0,2026-03-14,Unknown,Junior,37000.0
+834,Junior Data Scientist,Kestrel Logistics,Birmingham,65000.0,65000.0,2026-03-17,Unknown,Unspecified,65000.0
+471,Machine Learning Engineer,Marlowe Consulting,Remote,31500.0,31500.0,2025-07-23,Hybrid,Graduate,31500.0
+879,Insights Analyst,Alderly Bank,Remote,,,2025-06-24,Unknown,Junior,
+803,Insights Analyst,Kestrel Logistics,Liverpool,,,2025-04-22,No,Junior,
+1496,Junior Data Scientist,Alderly Bank,Sheffield,40000.0,55000.0,2025-01-15,Yes,Unspecified,47500.0
+270,Insights Analyst,Northwind Analytics,Manchester,,,2025-04-17,Hybrid,Graduate,
+1011,Data Science Intern,Solstice Energy,Remote,,,2025-12-24,No,Graduate,
+310,Junior Data Scientist,Fenwick Insurance,Bristol,,,2025-09-05,Unknown,Unspecified,
+1436,Data Engineer,Solstice Energy,Bristol,,,2025-03-13,Yes,Junior,
+687,Insights Analyst,Solstice Energy,Manchester,37000.0,37000.0,2025-12-10,Unknown,Graduate,37000.0
+1555,Data Scientist II,Redbridge Telecom,Bristol,85000.0,85000.0,2025-05-12,Yes,Senior,85000.0
+900,Business Intelligence Analyst,Kestrel Logistics,Leeds,31500.0,31500.0,2025-07-02,No,Junior,31500.0
+833,Analytics Consultant,Vantage Health,Liverpool,,,2025-04-13,Unknown,Graduate,
+287,Data Engineer,Redbridge Telecom,Birmingham,28000.0,35000.0,2025-10-16,Yes,Junior,31500.0
+1417,Analytics Consultant,Solstice Energy,Bristol,37000.0,37000.0,2025-02-04,Hybrid,Graduate,37000.0
+1048,Data Science Intern,Ashford Digital,Sheffield,,,2025-03-26,Hybrid,Graduate,
+1205,Machine Learning Engineer,BrightPath Retail,Remote,,,2026-04-28,Unknown,Graduate,
+465,Analytics Consultant,Fenwick Insurance,Liverpool,75000.0,95000.0,2025-02-19,No,Senior,85000.0
+131,Data Analyst,Grove & Co,Leeds,28000.0,35000.0,2025-03-06,No,Junior,31500.0
+606,Insights Analyst,Alderly Bank,Manchester,40000.0,55000.0,2025-03-12,Hybrid,Unspecified,47500.0
+55,Analytics Consultant,Orchard Media,Sheffield,,,2025-05-05,Unknown,Unspecified,
+100,Analytics Consultant,Grove & Co,Glasgow,,,2025-03-09,Unknown,Mid,
+820,Analytics Consultant,Grove & Co,Liverpool,,,2025-01-29,Hybrid,Unspecified,
+924,Data Engineer,Solstice Energy,Glasgow,40000.0,55000.0,2025-11-05,Yes,Mid,47500.0
+456,Insights Analyst,Grove & Co,Glasgow,37000.0,37000.0,2025-10-11,Unknown,Graduate,37000.0
+567,Data Analyst,BrightPath Retail,Bristol,37000.0,37000.0,2025-04-28,Unknown,Junior,37000.0
+1037,Junior Data Scientist,Ashford Digital,Leeds,,,2025-05-08,Hybrid,Unspecified,
+1427,Data Scientist,Vantage Health,Sheffield,32000.0,42000.0,2025-11-22,Yes,Graduate,37000.0
+1059,Machine Learning Engineer,Fenwick Insurance,Manchester,55000.0,75000.0,2025-01-14,Yes,Unspecified,65000.0
+1373,Machine Learning Engineer,Kestrel Logistics,Liverpool,28000.0,35000.0,2025-10-28,No,Junior,31500.0
+1509,Analytics Consultant,Grove & Co,Leeds,,,2025-11-04,Unknown,Junior,
+1,Data Analyst,Northwind Analytics,Bristol,40000.0,55000.0,2025-12-13,Yes,Mid,47500.0
+1212,Data Analyst,BrightPath Retail,Manchester,32000.0,42000.0,2025-09-12,Yes,Junior,37000.0
+399,Business Intelligence Analyst,Grove & Co,Bristol,32000.0,42000.0,2025-07-21,Yes,Mid,37000.0
+787,Data Engineer,Northwind Analytics,London,,,2025-03-05,Unknown,Senior,
+880,Data Engineer,Grove & Co,Birmingham,31500.0,31500.0,2025-08-28,Yes,Graduate,31500.0
+1258,Junior Data Scientist,Vantage Health,London,45000.0,45000.0,2025-05-16,Yes,Graduate,45000.0
+611,Data Scientist II,Redbridge Telecom,Birmingham,28000.0,35000.0,2025-01-26,Unknown,Graduate,31500.0
+170,Business Intelligence Analyst,Grove & Co,Remote,31500.0,31500.0,2025-10-14,Unknown,Graduate,31500.0
+1406,Junior Data Scientist,Alderly Bank,Liverpool,,,2025-02-04,Unknown,Junior,
+1418,Analytics Consultant,Grove & Co,Edinburgh,,,2025-11-07,Unknown,Mid,
+771,Analytics Consultant,Fenwick Insurance,Bristol,47500.0,47500.0,2025-08-22,Yes,Mid,47500.0
+593,Data Engineer,Fenwick Insurance,Manchester,32000.0,42000.0,2025-09-26,Unknown,Graduate,37000.0
+886,Junior Data Scientist,BrightPath Retail,Sheffield,,,2025-10-01,Unknown,Junior,
+212,Insights Analyst,Vantage Health,Leeds,,,2026-04-01,Yes,Graduate,
+1133,Insights Analyst,Marlowe Consulting,Sheffield,40000.0,55000.0,2025-10-27,Yes,Mid,47500.0
+186,Insights Analyst,Orchard Media,Birmingham,28000.0,35000.0,2026-05-04,Yes,Graduate,31500.0
+865,Machine Learning Engineer,Orchard Media,Bristol,,,2025-06-10,No,Graduate,
+988,Insights Analyst,Grove & Co,London,,,2026-03-18,Unknown,Mid,
+14,Data Analyst,Grove & Co,Liverpool,65000.0,65000.0,2025-11-08,Unknown,Senior,65000.0
+714,Insights Analyst,Orchard Media,Glasgow,,,2025-06-22,Unknown,Graduate,
+1198,Junior Data Scientist,Grove & Co,Leeds,,,2026-02-01,Yes,Graduate,
+909,Data Scientist II,Grove & Co,Edinburgh,40000.0,55000.0,2026-01-03,Yes,Unspecified,47500.0
+259,Data Scientist,Northwind Analytics,Bristol,,,2025-07-14,No,Graduate,
+613,Junior Data Scientist,Fenwick Insurance,Manchester,,,2025-07-24,Yes,Graduate,
+56,Data Scientist,BrightPath Retail,Remote,55000.0,75000.0,2025-10-13,Yes,Mid,65000.0
+940,Insights Analyst,Redbridge Telecom,Leeds,32000.0,42000.0,2025-05-18,Hybrid,Graduate,37000.0
+1243,Insights Analyst,Orchard Media,Leeds,,,2025-01-03,Hybrid,Senior,
+896,Analytics Consultant,Ashford Digital,Remote,40000.0,55000.0,2025-08-29,Unknown,Mid,47500.0
+1488,Data Scientist,Ashford Digital,London,,,2025-02-06,Hybrid,Graduate,
+741,Analytics Consultant,Orchard Media,Leeds,,,2025-04-03,Unknown,Graduate,
+617,Machine Learning Engineer,Redbridge Telecom,London,,,2026-02-25,Yes,Mid,
+211,Junior Data Scientist,Grove & Co,Sheffield,28000.0,35000.0,2025-11-02,Unknown,Graduate,31500.0
+110,Data Analyst,Fenwick Insurance,Liverpool,,,2025-01-19,Yes,Senior,
+1107,Insights Analyst,Northwind Analytics,Manchester,75000.0,95000.0,2026-05-08,Unknown,Senior,85000.0
+1301,Machine Learning Engineer,Marlowe Consulting,Liverpool,,,2025-02-02,Unknown,Senior,
+1067,Business Intelligence Analyst,Grove & Co,Glasgow,55000.0,75000.0,2026-02-12,Hybrid,Mid,65000.0
+190,Analytics Consultant,Ashford Digital,Glasgow,,,2025-01-19,No,Mid,
+739,Data Science Intern,Alderly Bank,London,36000.0,43000.0,2025-02-04,Unknown,Junior,39500.0
+1210,Data Scientist II,Fenwick Insurance,Manchester,65000.0,65000.0,2025-04-01,Yes,Unspecified,65000.0
+525,Data Scientist,Grove & Co,Remote (Uk),40000.0,55000.0,2025-12-24,Unknown,Unspecified,47500.0
+989,Data Engineer,Vantage Health,Remote,31500.0,31500.0,2025-05-11,Yes,Graduate,31500.0
+735,Data Analyst,BrightPath Retail,Glasgow,,,2025-06-22,Unknown,Junior,
+463,Data Analyst,Orchard Media,Remote,28000.0,35000.0,2026-02-10,Yes,Graduate,31500.0
+1407,Data Analyst,Northwind Analytics,Bristol,,,2025-08-23,Yes,Mid,
+123,Analytics Consultant,BrightPath Retail,Birmingham,40000.0,55000.0,2026-02-09,Yes,Unspecified,47500.0
+403,Data Science Intern,Alderly Bank,Edinburgh,,,2025-01-23,Unknown,Senior,
+267,Analytics Consultant,Kestrel Logistics,Leeds,55000.0,75000.0,2025-10-15,Unknown,Mid,65000.0
+689,Analytics Consultant,Grove & Co,London,,,2026-04-08,Yes,Mid,
+201,Data Scientist II,Orchard Media,Liverpool,,,2025-04-20,Hybrid,Senior,
+1444,Junior Data Scientist,Fenwick Insurance,Glasgow,55000.0,75000.0,2025-04-12,No,Mid,65000.0
+263,Data Scientist II,Vantage Health,Leeds,28000.0,35000.0,2025-04-06,Unknown,Graduate,31500.0
+207,Data Analyst,Solstice Energy,Glasgow,40000.0,55000.0,2025-08-10,Yes,Mid,47500.0
+882,Data Scientist,Marlowe Consulting,Manchester,,,2025-08-06,Yes,Graduate,
+398,Data Scientist,BrightPath Retail,Edinburgh,,,2026-01-05,Yes,Mid,
+1031,Business Intelligence Analyst,Kestrel Logistics,Birmingham,32000.0,42000.0,2026-04-18,Yes,Mid,37000.0
+1470,Business Intelligence Analyst,Solstice Energy,Sheffield,28000.0,35000.0,2025-01-10,Hybrid,Junior,31500.0
+786,Data Scientist II,Solstice Energy,London,,,2025-10-14,Unknown,Graduate,
+847,Analytics Consultant,Grove & Co,Edinburgh,28000.0,35000.0,2026-02-26,Unknown,Junior,31500.0
+610,Data Analyst,Kestrel Logistics,Sheffield,37000.0,37000.0,2025-09-26,Hybrid,Unspecified,37000.0
+1409,Data Scientist,Kestrel Logistics,Bristol,47500.0,47500.0,2025-11-16,Hybrid,Unspecified,47500.0
+673,Machine Learning Engineer,Solstice Energy,London,36000.0,43000.0,2025-10-23,Unknown,Graduate,39500.0
+218,Machine Learning Engineer,Kestrel Logistics,Birmingham,,,2026-03-27,Unknown,Graduate,
+407,Data Scientist II,Redbridge Telecom,Liverpool,32000.0,42000.0,2026-01-05,No,Junior,37000.0
+1574,Data Science Intern,Vantage Health,Manchester,,,2025-03-28,Unknown,Unspecified,
+522,Data Scientist II,Vantage Health,Birmingham,32000.0,42000.0,2025-07-13,No,Unspecified,37000.0
+1379,Analytics Consultant,Fenwick Insurance,Leeds,,,2026-05-05,Unknown,Junior,
+596,Data Scientist,Redbridge Telecom,Remote,28000.0,35000.0,2025-07-07,Yes,Graduate,31500.0
+1125,Data Engineer,Grove & Co,Remote,,,2025-09-11,No,Unspecified,
+1453,Data Science Intern,Grove & Co,Glasgow,75000.0,95000.0,2025-03-25,Unknown,Senior,85000.0
+1049,Business Intelligence Analyst,Marlowe Consulting,Liverpool,,,2026-01-21,Yes,Graduate,
+1226,Data Analyst,Solstice Energy,London,40000.0,50000.0,2025-04-18,Unknown,Junior,45000.0
+236,Business Intelligence Analyst,Northwind Analytics,Bristol,85000.0,85000.0,2026-01-18,No,Senior,85000.0
+1570,Data Engineer,Fenwick Insurance,Manchester,,,2025-03-05,Unknown,Senior,
+37,Junior Data Scientist,Vantage Health,Manchester,31500.0,31500.0,2025-05-25,No,Graduate,31500.0
+604,Data Science Intern,Northwind Analytics,London,,,2025-03-11,Yes,Graduate,
+1500,Data Engineer,Vantage Health,Leeds,,,2026-02-03,Yes,Mid,
+675,Data Analyst,Vantage Health,Birmingham,55000.0,75000.0,2026-05-06,Yes,Senior,65000.0
+697,Data Science Intern,Alderly Bank,Manchester,,,2026-04-22,Yes,Unspecified,
+425,Data Scientist II,Redbridge Telecom,Remote (Uk),,,2025-12-06,Yes,Junior,
+1027,Junior Data Scientist,Vantage Health,Manchester,75000.0,95000.0,2025-06-20,Unknown,Senior,85000.0
+686,Insights Analyst,Orchard Media,Remote (Uk),75000.0,95000.0,2025-12-06,Yes,Senior,85000.0
+871,Data Science Intern,BrightPath Retail,Leeds,28000.0,35000.0,2025-05-26,Unknown,Junior,31500.0
+523,Data Analyst,Northwind Analytics,Leeds,32000.0,42000.0,2025-09-01,Yes,Mid,37000.0
+819,Junior Data Scientist,Solstice Energy,Remote,,,2026-01-27,Yes,Senior,
+654,Data Analyst,Orchard Media,Birmingham,,,2026-01-19,Hybrid,Senior,
+397,Insights Analyst,Redbridge Telecom,Glasgow,,,2026-04-01,No,Unspecified,
+1280,Data Science Intern,Fenwick Insurance,London,93000.0,93000.0,2026-03-26,Yes,Senior,93000.0
+764,Data Science Intern,Vantage Health,London,,,2025-09-06,Yes,Senior,
+1319,Insights Analyst,Redbridge Telecom,London,,,2026-01-14,Yes,Junior,
+141,Data Science Intern,Fenwick Insurance,Bristol,55000.0,75000.0,2025-02-16,Yes,Mid,65000.0
+935,Machine Learning Engineer,Orchard Media,Sheffield,37000.0,37000.0,2025-12-08,Unknown,Unspecified,37000.0
+1504,Business Intelligence Analyst,Ashford Digital,Birmingham,55000.0,75000.0,2025-01-21,Hybrid,Mid,65000.0
+225,Machine Learning Engineer,Solstice Energy,Liverpool,47500.0,47500.0,2026-04-22,Hybrid,Mid,47500.0
+637,Data Engineer,Northwind Analytics,Remote,75000.0,95000.0,2026-01-16,No,Senior,85000.0
+951,Analytics Consultant,Grove & Co,Manchester,,,2025-04-01,Yes,Unspecified,
+926,Business Intelligence Analyst,Vantage Health,Glasgow,,,2025-04-08,Hybrid,Mid,
+231,Data Science Intern,Alderly Bank,Remote,55000.0,75000.0,2025-12-28,Yes,Unspecified,65000.0
+829,Insights Analyst,Orchard Media,Leeds,,,2025-06-22,Yes,Graduate,
+25,Data Analyst,Kestrel Logistics,Leeds,32000.0,42000.0,2025-05-08,Hybrid,Graduate,37000.0
+572,Junior Data Scientist,Vantage Health,London,39500.0,39500.0,2025-05-27,Yes,Graduate,39500.0
+1214,Data Science Intern,BrightPath Retail,Leeds,,,2025-07-31,Unknown,Junior,
+1478,Data Science Intern,Marlowe Consulting,Remote,,,2025-05-23,Hybrid,Mid,
+1089,Junior Data Scientist,Northwind Analytics,Liverpool,55000.0,75000.0,2025-03-07,No,Senior,65000.0
+740,Insights Analyst,Vantage Health,Remote,40000.0,55000.0,2025-11-24,Yes,Mid,47500.0
+119,Data Scientist,Redbridge Telecom,Glasgow,40000.0,55000.0,2025-11-22,Yes,Mid,47500.0
+859,Data Engineer,Fenwick Insurance,Sheffield,,,2025-03-10,Unknown,Junior,
+1338,Data Scientist,Vantage Health,Bristol,47500.0,47500.0,2025-10-20,Yes,Mid,47500.0
+1375,Data Analyst,Marlowe Consulting,Leeds,,,2025-10-13,No,Unspecified,
+1493,Machine Learning Engineer,Vantage Health,Glasgow,,,2025-05-21,Yes,Unspecified,
+562,Insights Analyst,Vantage Health,Glasgow,,,2025-11-20,Yes,Mid,
+159,Data Scientist II,Grove & Co,Manchester,31500.0,31500.0,2025-06-29,Unknown,Graduate,31500.0
+986,Data Analyst,Alderly Bank,Liverpool,,,2025-09-23,No,Graduate,
+864,Junior Data Scientist,Vantage Health,Manchester,,,2026-03-23,Unknown,Junior,
+538,Data Analyst,Vantage Health,Remote,,,2025-04-13,Yes,Unspecified,
+1328,Analytics Consultant,Ashford Digital,Edinburgh,47500.0,47500.0,2026-02-04,Hybrid,Unspecified,47500.0
+1124,Insights Analyst,Alderly Bank,Liverpool,40000.0,55000.0,2026-03-19,Unknown,Mid,47500.0
+1389,Data Engineer,Northwind Analytics,Bristol,55000.0,75000.0,2026-02-23,Hybrid,Unspecified,65000.0
+1489,Data Scientist II,BrightPath Retail,Sheffield,55000.0,75000.0,2025-05-30,Unknown,Unspecified,65000.0
+72,Machine Learning Engineer,BrightPath Retail,Liverpool,,,2025-02-24,Hybrid,Junior,
+352,Data Engineer,BrightPath Retail,Remote,37000.0,37000.0,2025-12-08,Unknown,Unspecified,37000.0
+1240,Business Intelligence Analyst,Redbridge Telecom,Leeds,,,2026-04-30,Yes,Junior,
+792,Machine Learning Engineer,Northwind Analytics,Bristol,,,2025-04-10,No,Graduate,
+858,Data Science Intern,Alderly Bank,Remote,31500.0,31500.0,2025-05-01,Unknown,Junior,31500.0
+1530,Data Analyst,Ashford Digital,Manchester,,,2025-03-23,Yes,Junior,
+369,Analytics Consultant,Fenwick Insurance,Remote,28000.0,35000.0,2025-08-20,Unknown,Graduate,31500.0
+95,Insights Analyst,Redbridge Telecom,London,36000.0,43000.0,2025-08-29,Unknown,Graduate,39500.0
+869,Data Analyst,Fenwick Insurance,Manchester,75000.0,95000.0,2026-01-19,Hybrid,Senior,85000.0
+1511,Machine Learning Engineer,Vantage Health,Liverpool,32000.0,42000.0,2025-07-09,Hybrid,Unspecified,37000.0
+1252,Business Intelligence Analyst,Fenwick Insurance,Glasgow,31500.0,31500.0,2025-12-31,Hybrid,Junior,31500.0
+1033,Business Intelligence Analyst,Northwind Analytics,Leeds,75000.0,95000.0,2025-04-10,Unknown,Senior,85000.0
+144,Business Intelligence Analyst,Fenwick Insurance,Manchester,28000.0,35000.0,2025-12-03,No,Graduate,31500.0
+70,Insights Analyst,Grove & Co,Remote,,,2025-12-20,No,Mid,
+66,Data Science Intern,Vantage Health,Remote,32000.0,42000.0,2026-01-19,Yes,Junior,37000.0
+509,Business Intelligence Analyst,Alderly Bank,Glasgow,,,2025-01-06,No,Unspecified,
+1206,Analytics Consultant,Grove & Co,Sheffield,28000.0,35000.0,2025-08-04,Yes,Junior,31500.0
+1543,Data Analyst,Fenwick Insurance,Edinburgh,37000.0,37000.0,2025-04-28,Yes,Junior,37000.0
+1497,Business Intelligence Analyst,Alderly Bank,Sheffield,,,2026-01-17,Unknown,Senior,
+1269,Analytics Consultant,BrightPath Retail,London,36000.0,43000.0,2025-09-26,No,Graduate,39500.0
+1201,Analytics Consultant,Orchard Media,Liverpool,75000.0,95000.0,2025-02-17,Hybrid,Senior,85000.0
+580,Machine Learning Engineer,Orchard Media,Bristol,75000.0,95000.0,2025-06-19,No,Senior,85000.0
+1126,Insights Analyst,Grove & Co,Birmingham,,,2025-01-20,No,Junior,
+747,Data Analyst,Kestrel Logistics,Glasgow,47500.0,47500.0,2025-04-28,Hybrid,Unspecified,47500.0
+733,Analytics Consultant,Grove & Co,London,36000.0,43000.0,2025-12-26,No,Graduate,39500.0
+1355,Analytics Consultant,Redbridge Telecom,Leeds,,,2026-02-28,Yes,Unspecified,
+1248,Data Science Intern,Kestrel Logistics,Birmingham,,,2025-01-03,Yes,Mid,
+704,Junior Data Scientist,Northwind Analytics,Sheffield,28000.0,35000.0,2025-11-19,Yes,Graduate,31500.0
+1231,Data Engineer,BrightPath Retail,Birmingham,75000.0,95000.0,2026-04-05,Hybrid,Senior,85000.0
+894,Insights Analyst,Grove & Co,Glasgow,,,2025-10-23,Yes,Junior,
+1159,Machine Learning Engineer,BrightPath Retail,Sheffield,28000.0,35000.0,2026-04-04,Yes,Junior,31500.0
+1166,Data Scientist II,Kestrel Logistics,Remote,,,2025-10-23,Unknown,Graduate,
+644,Junior Data Scientist,Redbridge Telecom,Liverpool,65000.0,65000.0,2025-08-19,No,Unspecified,65000.0
+27,Data Analyst,Kestrel Logistics,Birmingham,55000.0,75000.0,2026-03-19,Yes,Unspecified,65000.0
+564,Business Intelligence Analyst,Redbridge Telecom,Remote,,,2025-09-24,Unknown,Unspecified,
+385,Data Scientist,Kestrel Logistics,Sheffield,32000.0,42000.0,2025-06-19,No,Junior,37000.0
+323,Insights Analyst,Northwind Analytics,Leeds,28000.0,35000.0,2025-10-03,No,Junior,31500.0
+934,Data Scientist,Vantage Health,Leeds,32000.0,42000.0,2026-02-18,Yes,Graduate,37000.0
+730,Data Engineer,Solstice Energy,Remote,,,2025-10-01,Yes,Graduate,
+883,Analytics Consultant,Grove & Co,Sheffield,,,2025-02-11,Yes,Senior,
+566,Data Analyst,BrightPath Retail,Manchester,28000.0,35000.0,2026-01-30,Yes,Graduate,31500.0
+830,Insights Analyst,Marlowe Consulting,Glasgow,40000.0,55000.0,2025-11-30,Yes,Mid,47500.0
+54,Business Intelligence Analyst,Kestrel Logistics,Leeds,28000.0,35000.0,2025-09-01,Yes,Junior,31500.0
+127,Analytics Consultant,BrightPath Retail,Manchester,,,2025-08-21,Unknown,Graduate,
+1216,Business Intelligence Analyst,Orchard Media,Leeds,32000.0,42000.0,2025-01-14,Hybrid,Unspecified,37000.0
+331,Business Intelligence Analyst,Grove & Co,Remote,32000.0,42000.0,2025-07-26,Unknown,Unspecified,37000.0
+1295,Data Science Intern,Solstice Energy,Birmingham,,,2025-12-15,Unknown,Graduate,
+601,Data Analyst,Alderly Bank,Birmingham,28000.0,35000.0,2025-10-01,Unknown,Graduate,31500.0
+1064,Data Scientist II,Northwind Analytics,Birmingham,,,2026-03-24,No,Junior,
+292,Business Intelligence Analyst,Alderly Bank,Remote,47500.0,47500.0,2025-02-24,Yes,Unspecified,47500.0
+1293,Data Analyst,BrightPath Retail,London,,,2025-02-19,No,Graduate,
+888,Insights Analyst,Redbridge Telecom,Edinburgh,55000.0,75000.0,2025-11-03,No,Senior,65000.0
+901,Junior Data Scientist,Marlowe Consulting,London,83000.0,103000.0,2025-11-13,Yes,Senior,93000.0
+1175,Junior Data Scientist,Northwind Analytics,Remote,,,2025-09-14,Unknown,Unspecified,
+1029,Data Science Intern,Marlowe Consulting,Leeds,,,2026-01-24,Hybrid,Mid,
+281,Data Scientist II,Ashford Digital,Remote,,,2025-03-18,No,Junior,
+111,Data Engineer,Grove & Co,Bristol,32000.0,42000.0,2026-01-25,Unknown,Junior,37000.0
+1495,Business Intelligence Analyst,Vantage Health,Birmingham,65000.0,65000.0,2025-03-21,Unknown,Unspecified,65000.0
+455,Junior Data Scientist,BrightPath Retail,Birmingham,,,2026-04-12,Unknown,Mid,
+609,Business Intelligence Analyst,Northwind Analytics,Sheffield,31500.0,31500.0,2025-06-28,Unknown,Junior,31500.0
+161,Data Analyst,Alderly Bank,Glasgow,,,2025-11-26,Yes,Graduate,
+822,Data Scientist,Alderly Bank,Edinburgh,31500.0,31500.0,2025-07-14,Unknown,Graduate,31500.0
+1270,Junior Data Scientist,BrightPath Retail,Manchester,,,2026-01-12,Yes,Senior,
+641,Data Scientist II,Marlowe Consulting,Remote,,,2026-01-27,Yes,Graduate,
+835,Data Engineer,Orchard Media,Bristol,,,2025-05-01,No,Mid,
+1416,Data Scientist II,BrightPath Retail,Sheffield,40000.0,55000.0,2026-03-07,Yes,Mid,47500.0
+1390,Data Analyst,BrightPath Retail,Manchester,32000.0,42000.0,2026-01-16,Yes,Unspecified,37000.0
+1415,Data Scientist II,Orchard Media,Remote,47500.0,47500.0,2026-03-06,Hybrid,Unspecified,47500.0
+1177,Insights Analyst,Northwind Analytics,Leeds,,,2025-09-02,Unknown,Mid,
+432,Machine Learning Engineer,Grove & Co,Manchester,85000.0,85000.0,2025-08-04,Hybrid,Senior,85000.0
+660,Data Scientist,Solstice Energy,Manchester,,,2025-01-24,Hybrid,Mid,
+1277,Insights Analyst,Fenwick Insurance,Bristol,32000.0,42000.0,2025-08-27,No,Junior,37000.0
+1396,Machine Learning Engineer,Solstice Energy,Sheffield,75000.0,95000.0,2026-02-19,Yes,Senior,85000.0
+929,Insights Analyst,Alderly Bank,Birmingham,55000.0,75000.0,2026-03-20,Hybrid,Unspecified,65000.0
+304,Junior Data Scientist,Ashford Digital,Remote,,,2025-09-03,Unknown,Junior,
+148,Junior Data Scientist,Ashford Digital,London,,,2025-08-03,Hybrid,Graduate,
+210,Business Intelligence Analyst,Redbridge Telecom,Liverpool,,,2026-04-28,No,Graduate,
+1589,Data Scientist II,Vantage Health,Liverpool,32000.0,42000.0,2025-02-17,Unknown,Unspecified,37000.0
+306,Data Analyst,Kestrel Logistics,Edinburgh,,,2025-11-27,Unknown,Graduate,
+12,Machine Learning Engineer,Kestrel Logistics,Birmingham,28000.0,35000.0,2025-03-20,No,Junior,31500.0
+1391,Junior Data Scientist,BrightPath Retail,Sheffield,47500.0,47500.0,2025-08-06,Unknown,Mid,47500.0
+434,Insights Analyst,Redbridge Telecom,Manchester,,,2025-09-29,Unknown,Mid,
+1535,Data Scientist II,Solstice Energy,Leeds,28000.0,35000.0,2026-01-31,No,Graduate,31500.0
+255,Business Intelligence Analyst,Northwind Analytics,Leeds,37000.0,37000.0,2025-12-25,Yes,Junior,37000.0
+1259,Data Analyst,Fenwick Insurance,Remote,,,2025-08-09,Hybrid,Mid,
+537,Data Scientist II,Ashford Digital,Leeds,28000.0,35000.0,2025-02-12,No,Junior,31500.0
+943,Data Analyst,Grove & Co,Liverpool,,,2025-03-28,Yes,Mid,
+303,Analytics Consultant,Vantage Health,Manchester,47500.0,47500.0,2025-05-04,Unknown,Unspecified,47500.0
+124,Business Intelligence Analyst,Marlowe Consulting,Manchester,,,2025-07-15,Hybrid,Senior,
+966,Data Science Intern,Orchard Media,Manchester,,,2026-02-08,Yes,Unspecified,
+612,Data Science Intern,Solstice Energy,Sheffield,65000.0,65000.0,2026-02-07,No,Mid,65000.0
+662,Business Intelligence Analyst,Marlowe Consulting,Liverpool,31500.0,31500.0,2025-06-24,Unknown,Junior,31500.0
+1546,Business Intelligence Analyst,Fenwick Insurance,Sheffield,55000.0,75000.0,2025-03-31,No,Mid,65000.0
+550,Data Scientist,Marlowe Consulting,Remote,,,2025-06-27,Unknown,Graduate,
+1116,Data Analyst,Marlowe Consulting,Liverpool,,,2025-04-01,Unknown,Unspecified,
+322,Data Scientist II,Marlowe Consulting,Glasgow,,,2025-08-09,Yes,Unspecified,
+497,Business Intelligence Analyst,Grove & Co,Edinburgh,28000.0,35000.0,2025-01-22,Yes,Graduate,31500.0
+1194,Data Science Intern,Alderly Bank,Sheffield,,,2026-03-24,Unknown,Junior,
+280,Data Scientist II,Orchard Media,London,,,2026-05-16,Yes,Graduate,
+1517,Junior Data Scientist,Vantage Health,Edinburgh,85000.0,85000.0,2025-08-06,Unknown,Senior,85000.0
+1183,Data Engineer,Fenwick Insurance,Remote,37000.0,37000.0,2025-07-28,Yes,Mid,37000.0
+495,Business Intelligence Analyst,Grove & Co,Bristol,,,2025-07-22,Yes,Senior,
+636,Analytics Consultant,Ashford Digital,Edinburgh,,,2025-12-03,No,Unspecified,
+365,Business Intelligence Analyst,BrightPath Retail,London,45000.0,45000.0,2025-08-23,Yes,Graduate,45000.0
+336,Analytics Consultant,Northwind Analytics,Remote,40000.0,55000.0,2026-03-24,Yes,Mid,47500.0
+823,Machine Learning Engineer,Fenwick Insurance,Remote,28000.0,35000.0,2025-05-01,Hybrid,Junior,31500.0
+1228,Insights Analyst,Grove & Co,Sheffield,31500.0,31500.0,2025-09-05,Yes,Junior,31500.0
+1360,Data Scientist II,Kestrel Logistics,Bristol,,,2025-11-08,Yes,Senior,
+1337,Data Science Intern,Redbridge Telecom,Sheffield,,,2026-01-17,No,Mid,
+1079,Data Scientist,Ashford Digital,Bristol,,,2025-12-23,Hybrid,Mid,
+61,Data Scientist,Kestrel Logistics,Remote,,,2025-07-14,Yes,Graduate,
+147,Business Intelligence Analyst,Fenwick Insurance,Edinburgh,,,2025-12-03,Yes,Mid,
+729,Analytics Consultant,BrightPath Retail,Glasgow,32000.0,42000.0,2025-01-13,Yes,Mid,37000.0
+283,Insights Analyst,Kestrel Logistics,Leeds,28000.0,35000.0,2025-07-27,Unknown,Junior,31500.0
+198,Analytics Consultant,Northwind Analytics,Birmingham,47500.0,47500.0,2025-07-16,Yes,Mid,47500.0
+1268,Junior Data Scientist,Grove & Co,London,,,2025-01-01,No,Senior,
+461,Data Scientist II,Kestrel Logistics,Liverpool,40000.0,55000.0,2025-08-24,Yes,Unspecified,47500.0
+876,Data Scientist,Kestrel Logistics,Birmingham,40000.0,55000.0,2025-03-03,Unknown,Unspecified,47500.0
+510,Insights Analyst,Grove & Co,Birmingham,40000.0,55000.0,2025-10-17,Unknown,Unspecified,47500.0
+746,Data Scientist,BrightPath Retail,London,48000.0,63000.0,2025-09-06,Yes,Mid,55500.0
+618,Junior Data Scientist,Solstice Energy,London,48000.0,63000.0,2026-01-23,Yes,Mid,55500.0
+474,Junior Data Scientist,Marlowe Consulting,Liverpool,,,2025-09-03,Yes,Junior,
+1286,Machine Learning Engineer,Marlowe Consulting,Edinburgh,,,2025-08-04,Unknown,Senior,
+542,Data Scientist II,Redbridge Telecom,Bristol,55000.0,75000.0,2026-01-23,Unknown,Unspecified,65000.0
+84,Junior Data Scientist,Grove & Co,Glasgow,,,2025-09-03,Hybrid,Junior,
+814,Analytics Consultant,Kestrel Logistics,Birmingham,28000.0,35000.0,2025-09-13,Yes,Junior,31500.0
+848,Data Science Intern,Fenwick Insurance,Remote,,,2025-02-03,Unknown,Mid,
+1333,Data Analyst,Northwind Analytics,Bristol,,,2025-07-16,Yes,Unspecified,
+1316,Data Analyst,Marlowe Consulting,Sheffield,,,2025-11-13,Yes,Graduate,
+1140,Data Science Intern,Redbridge Telecom,Bristol,32000.0,42000.0,2025-10-20,Yes,Mid,37000.0
+524,Data Scientist,Marlowe Consulting,Liverpool,32000.0,42000.0,2026-04-07,Yes,Junior,37000.0
+183,Insights Analyst,Marlowe Consulting,Remote,85000.0,85000.0,2025-04-03,No,Senior,85000.0
+1076,Data Engineer,Ashford Digital,Leeds,,,2025-06-03,No,Mid,
+482,Junior Data Scientist,Alderly Bank,Sheffield,,,2025-12-30,Yes,Junior,
+1096,Data Science Intern,Ashford Digital,Birmingham,28000.0,35000.0,2026-01-01,Yes,Junior,31500.0
+959,Data Engineer,Northwind Analytics,Bristol,37000.0,37000.0,2025-01-03,No,Graduate,37000.0
+256,Data Scientist,BrightPath Retail,Glasgow,75000.0,95000.0,2026-01-29,Unknown,Senior,85000.0
+1190,Analytics Consultant,Vantage Health,Glasgow,40000.0,55000.0,2026-05-13,Unknown,Unspecified,47500.0
+625,Machine Learning Engineer,Solstice Energy,Sheffield,,,2026-05-10,Yes,Mid,
+911,Junior Data Scientist,Redbridge Telecom,London,,,2026-03-30,Unknown,Senior,
+726,Data Analyst,Redbridge Telecom,Liverpool,,,2025-01-29,Unknown,Senior,
+1452,Business Intelligence Analyst,Orchard Media,Manchester,,,2025-03-19,Hybrid,Unspecified,
+1437,Machine Learning Engineer,Fenwick Insurance,Sheffield,31500.0,31500.0,2025-12-26,Unknown,Graduate,31500.0
+1093,Data Analyst,Grove & Co,London,36000.0,43000.0,2025-03-06,No,Junior,39500.0
+801,Data Analyst,Vantage Health,London,,,2026-07-04,No,Junior,
+1365,Data Scientist,Ashford Digital,Leeds,,,2026-03-27,Hybrid,Graduate,
+1381,Data Scientist,Vantage Health,Bristol,,,2026-01-31,Hybrid,Unspecified,
+200,Machine Learning Engineer,Orchard Media,Edinburgh,32000.0,42000.0,2026-12-01,Unknown,Mid,37000.0
+716,Data Analyst,Grove & Co,Glasgow,47500.0,47500.0,2025-09-04,Yes,Mid,47500.0
+340,Junior Data Scientist,Solstice Energy,Manchester,32000.0,42000.0,2025-02-22,Hybrid,Unspecified,37000.0
+813,Insights Analyst,Orchard Media,Glasgow,55000.0,75000.0,2025-03-04,Unknown,Mid,65000.0
+592,Machine Learning Engineer,Solstice Energy,London,48000.0,63000.0,2025-11-14,Yes,Unspecified,55500.0
+349,Data Scientist II,Vantage Health,Liverpool,55000.0,75000.0,2025-11-24,Yes,Unspecified,65000.0
+569,Machine Learning Engineer,Solstice Energy,Glasgow,32000.0,42000.0,2026-05-12,Yes,Graduate,37000.0
+288,Data Science Intern,Grove & Co,Liverpool,40000.0,55000.0,2025-09-14,Hybrid,Unspecified,47500.0
+806,Data Science Intern,Kestrel Logistics,Liverpool,37000.0,37000.0,2025-03-05,Yes,Unspecified,37000.0
+488,Business Intelligence Analyst,Marlowe Consulting,Bristol,,,2026-02-16,Unknown,Graduate,
+650,Analytics Consultant,Solstice Energy,Glasgow,32000.0,42000.0,2025-04-22,Unknown,Graduate,37000.0
+958,Data Science Intern,Vantage Health,Manchester,,,2025-07-05,Yes,Graduate,
+240,Data Engineer,Vantage Health,Edinburgh,,,2025-04-29,Unknown,Junior,
+1340,Machine Learning Engineer,Vantage Health,Birmingham,,,2025-01-05,Yes,Unspecified,
+1192,Machine Learning Engineer,Fenwick Insurance,Manchester,65000.0,65000.0,2026-03-26,Yes,Unspecified,65000.0
+215,Machine Learning Engineer,Ashford Digital,Edinburgh,47500.0,47500.0,2025-09-21,Yes,Unspecified,47500.0
+253,Data Engineer,Ashford Digital,Sheffield,32000.0,42000.0,2025-08-21,Yes,Junior,37000.0
+428,Insights Analyst,Orchard Media,Edinburgh,37000.0,37000.0,2025-05-13,Unknown,Junior,37000.0
+1188,Data Analyst,Northwind Analytics,Birmingham,,,2025-02-18,Hybrid,Graduate,
+458,Machine Learning Engineer,Northwind Analytics,Liverpool,,,2025-12-05,No,Senior,
+19,Insights Analyst,Orchard Media,Leeds,85000.0,85000.0,2025-08-13,Unknown,Senior,85000.0
+1004,Business Intelligence Analyst,Kestrel Logistics,Leeds,,,2025-01-30,Yes,Graduate,
+485,Data Scientist II,Orchard Media,Manchester,47500.0,47500.0,2025-06-19,Hybrid,Mid,47500.0
+1593,Data Engineer,Alderly Bank,London,,,2025-09-05,Unknown,Mid,
+132,Data Analyst,Marlowe Consulting,Leeds,40000.0,55000.0,2026-02-08,Yes,Mid,47500.0
+706,Data Scientist II,BrightPath Retail,Bristol,47500.0,47500.0,2026-03-16,Yes,Mid,47500.0
+827,Data Analyst,Ashford Digital,Leeds,40000.0,55000.0,2025-11-11,Hybrid,Unspecified,47500.0
+383,Junior Data Scientist,Alderly Bank,Leeds,65000.0,65000.0,2026-05-01,Yes,Senior,65000.0
+1483,Data Scientist,Fenwick Insurance,Sheffield,55000.0,75000.0,2026-05-03,Yes,Mid,65000.0
+1331,Data Scientist II,Kestrel Logistics,Manchester,32000.0,42000.0,2025-12-24,Unknown,Mid,37000.0
+1009,Machine Learning Engineer,Redbridge Telecom,Glasgow,32000.0,42000.0,2025-05-28,Unknown,Unspecified,37000.0
+543,Analytics Consultant,Redbridge Telecom,London,36000.0,43000.0,2025-07-15,No,Junior,39500.0
+133,Business Intelligence Analyst,Alderly Bank,Birmingham,32000.0,42000.0,2025-09-03,Hybrid,Mid,37000.0
+614,Data Science Intern,Marlowe Consulting,Remote,,,2025-04-12,Unknown,Mid,
+1524,Insights Analyst,Vantage Health,Sheffield,,,2025-05-06,Yes,Graduate,
+634,Junior Data Scientist,Alderly Bank,London,,,2025-10-18,No,Graduate,
+1537,Machine Learning Engineer,Fenwick Insurance,Leeds,40000.0,55000.0,2025-08-06,No,Mid,47500.0
+319,Junior Data Scientist,Marlowe Consulting,Remote,,,2025-07-16,No,Graduate,
+646,Junior Data Scientist,Ashford Digital,Manchester,37000.0,37000.0,2025-02-13,Unknown,Junior,37000.0
+1143,Business Intelligence Analyst,Alderly Bank,Bristol,,,2025-01-03,Unknown,Mid,
+897,Data Engineer,Marlowe Consulting,Leeds,32000.0,42000.0,2026-03-29,Unknown,Graduate,37000.0
+1553,Data Scientist II,Alderly Bank,Birmingham,,,2025-05-25,Yes,Junior,
+1597,Junior Data Scientist,BrightPath Retail,Liverpool,28000.0,35000.0,2026-02-18,No,Graduate,31500.0
+503,Business Intelligence Analyst,Ashford Digital,Sheffield,31500.0,31500.0,2026-05-06,No,Graduate,31500.0
+1288,Insights Analyst,Marlowe Consulting,Edinburgh,28000.0,35000.0,2026-01-22,No,Graduate,31500.0
+222,Data Scientist II,Vantage Health,Manchester,,,2025-05-24,Unknown,Graduate,
+507,Data Analyst,Northwind Analytics,Liverpool,,,2025-04-19,Yes,Graduate,
+532,Junior Data Scientist,Grove & Co,Manchester,55000.0,75000.0,2025-02-21,Yes,Mid,65000.0
+241,Data Scientist,Alderly Bank,Remote,,,2025-04-06,Hybrid,Junior,
+297,Analytics Consultant,Alderly Bank,Manchester,,,2025-06-03,Yes,Unspecified,
+623,Insights Analyst,Vantage Health,London,,,2025-12-05,Unknown,Junior,
+489,Analytics Consultant,Northwind Analytics,Bristol,55000.0,75000.0,2025-03-27,Yes,Senior,65000.0
+1289,Data Science Intern,Grove & Co,London,40000.0,50000.0,2025-02-13,Hybrid,Graduate,45000.0
+332,Business Intelligence Analyst,Ashford Digital,Edinburgh,,,2025-01-02,Yes,Unspecified,
+69,Junior Data Scientist,Redbridge Telecom,Sheffield,40000.0,55000.0,2025-10-24,Hybrid,Mid,47500.0
+1215,Data Science Intern,Northwind Analytics,Edinburgh,31500.0,31500.0,2026-03-27,Hybrid,Graduate,31500.0
+1266,Analytics Consultant,Ashford Digital,Bristol,40000.0,55000.0,2025-03-27,Hybrid,Mid,47500.0
+999,Insights Analyst,Alderly Bank,Bristol,47500.0,47500.0,2025-04-26,Unknown,Unspecified,47500.0
+1363,Analytics Consultant,Orchard Media,Edinburgh,40000.0,55000.0,2025-04-29,Unknown,Mid,47500.0
+500,Insights Analyst,Northwind Analytics,Liverpool,31500.0,31500.0,2025-10-12,Hybrid,Graduate,31500.0
+164,Data Scientist,Fenwick Insurance,Bristol,,,2025-10-25,Unknown,Junior,
+873,Analytics Consultant,Solstice Energy,Bristol,,,2026-05-02,Hybrid,Senior,
+446,Data Scientist,Vantage Health,Remote,,,2025-11-07,No,Graduate,
+444,Data Scientist,Orchard Media,Bristol,28000.0,35000.0,2025-01-12,Yes,Graduate,31500.0
+1184,Data Analyst,Marlowe Consulting,Birmingham,,,2025-10-28,Hybrid,Graduate,
+742,Insights Analyst,BrightPath Retail,Bristol,,,2025-01-05,Yes,Unspecified,
+1197,Analytics Consultant,Kestrel Logistics,Glasgow,75000.0,95000.0,2025-07-10,Unknown,Senior,85000.0
+499,Data Scientist II,Alderly Bank,Birmingham,40000.0,55000.0,2025-02-28,Unknown,Mid,47500.0
+955,Data Scientist II,Solstice Energy,Birmingham,28000.0,35000.0,2025-10-29,Unknown,Graduate,31500.0
+954,Business Intelligence Analyst,Solstice Energy,Sheffield,,,2025-02-26,Yes,Junior,
+1428,Business Intelligence Analyst,Vantage Health,Liverpool,,,2025-10-18,Yes,Junior,
+563,Data Science Intern,BrightPath Retail,Manchester,85000.0,85000.0,2025-06-12,Hybrid,Senior,85000.0
+875,Insights Analyst,Orchard Media,Manchester,75000.0,95000.0,2026-05-10,Yes,Senior,85000.0
+850,Analytics Consultant,Grove & Co,Birmingham,47500.0,47500.0,2025-06-10,Yes,Unspecified,47500.0
+311,Data Analyst,Solstice Energy,Glasgow,28000.0,35000.0,2026-02-19,Yes,Junior,31500.0
+1529,Data Science Intern,Northwind Analytics,Liverpool,37000.0,37000.0,2025-10-22,Unknown,Graduate,37000.0
+402,Analytics Consultant,BrightPath Retail,Bristol,65000.0,65000.0,2025-02-16,Yes,Unspecified,65000.0
+23,Insights Analyst,Solstice Energy,Leeds,40000.0,55000.0,2025-02-19,Unknown,Unspecified,47500.0
+1523,Business Intelligence Analyst,BrightPath Retail,Glasgow,,,2026-02-27,No,Junior,
+411,Insights Analyst,Redbridge Telecom,Sheffield,31500.0,31500.0,2026-03-21,Hybrid,Junior,31500.0
+245,Junior Data Scientist,Redbridge Telecom,Remote,28000.0,35000.0,2025-07-25,Yes,Graduate,31500.0
+154,Data Science Intern,Alderly Bank,Birmingham,,,2025-10-14,Hybrid,Graduate,
+484,Machine Learning Engineer,BrightPath Retail,Edinburgh,,,2025-03-23,Yes,Mid,
+401,Insights Analyst,Solstice Energy,Leeds,28000.0,35000.0,2025-11-23,Yes,Junior,31500.0
+17,Data Analyst,Fenwick Insurance,Bristol,,,2026-04-30,Yes,Junior,
+98,Data Scientist II,Northwind Analytics,Glasgow,85000.0,85000.0,2025-03-01,Yes,Senior,85000.0
+1257,Business Intelligence Analyst,Redbridge Telecom,Manchester,32000.0,42000.0,2025-04-05,Unknown,Unspecified,37000.0
+189,Data Analyst,Redbridge Telecom,Edinburgh,,,2025-06-23,No,Junior,
+1026,Data Scientist,BrightPath Retail,Leeds,75000.0,95000.0,2025-12-31,Yes,Senior,85000.0
+1077,Data Scientist,Marlowe Consulting,Remote,65000.0,65000.0,2026-01-23,Unknown,Unspecified,65000.0
+177,Junior Data Scientist,Kestrel Logistics,Sheffield,,,2026-03-24,Yes,Senior,
+1070,Insights Analyst,Kestrel Logistics,Manchester,85000.0,85000.0,2026-05-04,Yes,Senior,85000.0
+996,Machine Learning Engineer,Orchard Media,Remote (Uk),,,2026-01-25,Unknown,Junior,
+811,Junior Data Scientist,BrightPath Retail,Edinburgh,,,2026-03-09,Yes,Senior,
+1250,Data Science Intern,Vantage Health,Birmingham,32000.0,42000.0,2025-03-06,No,Graduate,37000.0
+15,Data Scientist,Ashford Digital,Bristol,31500.0,31500.0,2026-03-07,Yes,Graduate,31500.0
+375,Junior Data Scientist,BrightPath Retail,Edinburgh,32000.0,42000.0,2025-03-28,Unknown,Junior,37000.0
+410,Business Intelligence Analyst,Marlowe Consulting,Glasgow,32000.0,42000.0,2025-01-08,No,Graduate,37000.0
+1405,Business Intelligence Analyst,Marlowe Consulting,Leeds,,,2025-08-25,Hybrid,Graduate,
+1576,Data Science Intern,Orchard Media,London,93000.0,93000.0,2025-11-24,Hybrid,Senior,93000.0
+391,Data Engineer,Grove & Co,Sheffield,47500.0,47500.0,2026-01-17,No,Unspecified,47500.0
+1187,Data Science Intern,Northwind Analytics,Remote,32000.0,42000.0,2025-10-18,Unknown,Mid,37000.0
+1591,Data Science Intern,BrightPath Retail,Bristol,,,2026-02-27,No,Senior,
+1371,Data Analyst,Fenwick Insurance,Manchester,37000.0,37000.0,2025-03-22,Hybrid,Mid,37000.0
+895,Data Analyst,Vantage Health,Remote,,,2026-04-26,Hybrid,Junior,
+378,Analytics Consultant,Northwind Analytics,Manchester,,,2025-04-13,Yes,Unspecified,
+430,Data Scientist II,Grove & Co,Glasgow,28000.0,35000.0,2026-03-07,Yes,Graduate,31500.0
+1139,Data Science Intern,Solstice Energy,Liverpool,,,2025-07-16,Unknown,Mid,
+1108,Data Scientist II,Ashford Digital,Birmingham,,,2025-01-08,No,Unspecified,
+756,Data Science Intern,Solstice Energy,Manchester,40000.0,55000.0,2025-10-13,Unknown,Unspecified,47500.0
+157,Insights Analyst,Solstice Energy,Edinburgh,32000.0,42000.0,2025-08-12,Unknown,Unspecified,37000.0
+464,Business Intelligence Analyst,Marlowe Consulting,Liverpool,47500.0,47500.0,2026-02-27,No,Unspecified,47500.0
+476,Junior Data Scientist,Northwind Analytics,London,93000.0,93000.0,2025-12-16,No,Senior,93000.0
+991,Data Scientist II,Redbridge Telecom,Edinburgh,,,2025-07-29,Unknown,Unspecified,
+890,Data Scientist II,Kestrel Logistics,Manchester,,,2025-05-08,Yes,Unspecified,
+475,Data Science Intern,Grove & Co,Liverpool,,,2025-02-24,Unknown,Unspecified,
+413,Junior Data Scientist,Redbridge Telecom,Sheffield,37000.0,37000.0,2025-12-20,Yes,Junior,37000.0
+867,Data Engineer,Alderly Bank,London,,,2025-12-08,Unknown,Senior,
+1440,Insights Analyst,Redbridge Telecom,Remote,47500.0,47500.0,2026-01-06,Yes,Unspecified,47500.0
+1028,Machine Learning Engineer,Grove & Co,Glasgow,,,2026-04-12,Unknown,Senior,
+473,Data Scientist II,Grove & Co,Leeds,47500.0,47500.0,2026-04-17,No,Mid,47500.0
+902,Data Scientist II,Kestrel Logistics,Glasgow,75000.0,95000.0,2026-01-30,Hybrid,Senior,85000.0
+477,Data Scientist,Ashford Digital,Bristol,31500.0,31500.0,2026-02-21,Yes,Graduate,31500.0
+1479,Data Analyst,Grove & Co,Edinburgh,,,2026-01-23,Hybrid,Mid,
+362,Insights Analyst,Kestrel Logistics,Glasgow,32000.0,42000.0,2026-01-11,No,Graduate,37000.0
+1217,Data Scientist II,Ashford Digital,Sheffield,,,2025-09-08,Yes,Senior,
+1160,Junior Data Scientist,Alderly Bank,Remote (Uk),,,2025-03-18,Unknown,Senior,
+602,Machine Learning Engineer,Fenwick Insurance,Liverpool,,,2026-02-27,Hybrid,Senior,
+234,Data Scientist II,Vantage Health,Leeds,,,2025-06-12,Hybrid,Senior,
+195,Business Intelligence Analyst,Fenwick Insurance,Manchester,85000.0,85000.0,2025-08-17,Unknown,Senior,85000.0
+987,Machine Learning Engineer,Ashford Digital,Edinburgh,65000.0,65000.0,2025-10-25,Unknown,Unspecified,65000.0
+1249,Business Intelligence Analyst,Northwind Analytics,Manchester,65000.0,65000.0,2025-06-18,Yes,Senior,65000.0
+1247,Machine Learning Engineer,Redbridge Telecom,Manchester,32000.0,42000.0,2025-03-13,Hybrid,Mid,37000.0
+501,Data Analyst,Kestrel Logistics,Sheffield,75000.0,95000.0,2025-12-10,No,Senior,85000.0
+1507,Data Analyst,Kestrel Logistics,Glasgow,,,2025-12-04,Yes,Unspecified,
+308,Data Scientist II,Marlowe Consulting,Sheffield,,,2025-08-26,Yes,Unspecified,
+512,Machine Learning Engineer,Kestrel Logistics,London,,,2025-08-29,Yes,Graduate,
+380,Insights Analyst,Marlowe Consulting,Edinburgh,75000.0,95000.0,2025-06-13,No,Senior,85000.0
+492,Data Analyst,BrightPath Retail,London,,,2026-02-25,Hybrid,Senior,
+831,Business Intelligence Analyst,Orchard Media,Liverpool,,,2025-05-09,Yes,Mid,
+761,Data Scientist,BrightPath Retail,Remote,37000.0,37000.0,2025-07-07,Unknown,Unspecified,37000.0
+367,Junior Data Scientist,Kestrel Logistics,Bristol,85000.0,85000.0,2025-06-12,Hybrid,Senior,85000.0
+1380,Data Analyst,Fenwick Insurance,Remote,,,2025-07-30,No,Unspecified,
+860,Data Science Intern,Grove & Co,Leeds,40000.0,55000.0,2025-02-18,Yes,Unspecified,47500.0
+1354,Data Engineer,Solstice Energy,Remote,,,2025-09-16,Hybrid,Junior,
+269,Analytics Consultant,Fenwick Insurance,Manchester,37000.0,37000.0,2025-07-13,Yes,Mid,37000.0
+583,Data Analyst,Marlowe Consulting,Leeds,47500.0,47500.0,2025-03-23,Unknown,Unspecified,47500.0
+68,Junior Data Scientist,Kestrel Logistics,Birmingham,,,2025-12-25,Hybrid,Junior,
+695,Junior Data Scientist,Solstice Energy,Birmingham,37000.0,37000.0,2026-03-07,No,Graduate,37000.0
+1541,Insights Analyst,Fenwick Insurance,Edinburgh,40000.0,55000.0,2026-02-14,Hybrid,Mid,47500.0
+698,Junior Data Scientist,Solstice Energy,Liverpool,,,2025-01-07,No,Graduate,
+371,Data Analyst,Ashford Digital,Leeds,37000.0,37000.0,2025-05-14,Yes,Unspecified,37000.0
+1522,Insights Analyst,Orchard Media,London,39500.0,39500.0,2025-10-03,Unknown,Junior,39500.0
+1265,Machine Learning Engineer,Grove & Co,Bristol,28000.0,35000.0,2025-09-15,Yes,Junior,31500.0
+790,Data Analyst,Fenwick Insurance,Liverpool,,,2025-01-30,Hybrid,Senior,
+603,Insights Analyst,Kestrel Logistics,Sheffield,47500.0,47500.0,2026-05-08,Unknown,Unspecified,47500.0
+327,Machine Learning Engineer,Ashford Digital,Sheffield,40000.0,55000.0,2026-02-21,Yes,Mid,47500.0
+91,Data Engineer,Vantage Health,Sheffield,,,2025-04-26,No,Unspecified,
+993,Machine Learning Engineer,BrightPath Retail,Bristol,75000.0,95000.0,2025-02-03,Hybrid,Senior,85000.0
+763,Analytics Consultant,Ashford Digital,Sheffield,47500.0,47500.0,2026-04-05,Yes,Mid,47500.0
+1041,Data Science Intern,Solstice Energy,Bristol,,,2025-11-07,Yes,Senior,
+1482,Data Scientist,Redbridge Telecom,Leeds,,,2025-10-20,Unknown,Graduate,
+1566,Data Scientist II,Redbridge Telecom,Remote,,,2025-06-01,Yes,Senior,
+1323,Junior Data Scientist,Orchard Media,Remote (Uk),,,2025-03-02,Hybrid,Mid,
+783,Junior Data Scientist,Ashford Digital,Remote,32000.0,42000.0,2025-04-17,Unknown,Mid,37000.0
+82,Data Scientist II,Redbridge Telecom,Bristol,40000.0,55000.0,2025-04-07,Hybrid,Mid,47500.0
+441,Junior Data Scientist,BrightPath Retail,London,,,2025-11-02,Hybrid,Senior,
+838,Data Scientist II,Alderly Bank,London,36000.0,43000.0,2025-06-10,Hybrid,Junior,39500.0
+774,Data Scientist,Grove & Co,Edinburgh,,,2025-04-10,Yes,Mid,
+1480,Analytics Consultant,Alderly Bank,Birmingham,,,2026-03-01,Unknown,Senior,
+62,Machine Learning Engineer,Vantage Health,Remote,,,2025-04-23,Unknown,Graduate,
+751,Insights Analyst,Northwind Analytics,Bristol,,,2025-03-08,Hybrid,Junior,
+925,Data Analyst,Fenwick Insurance,Sheffield,28000.0,35000.0,2025-07-10,Hybrid,Junior,31500.0
+1237,Data Scientist II,Fenwick Insurance,Remote,31500.0,31500.0,2025-08-08,Hybrid,Junior,31500.0
+506,Insights Analyst,BrightPath Retail,Bristol,31500.0,31500.0,2026-01-11,Yes,Graduate,31500.0
+1120,Machine Learning Engineer,Northwind Analytics,Birmingham,40000.0,55000.0,2025-08-04,Yes,Unspecified,47500.0
+64,Data Scientist II,Northwind Analytics,Remote (Uk),28000.0,35000.0,2025-11-26,No,Graduate,31500.0
+67,Machine Learning Engineer,Kestrel Logistics,Manchester,28000.0,35000.0,2025-04-13,Yes,Junior,31500.0
+166,Data Analyst,Fenwick Insurance,Manchester,32000.0,42000.0,2025-12-29,Unknown,Mid,37000.0
+1471,Data Engineer,BrightPath Retail,Sheffield,,,2025-08-04,Yes,Graduate,
+289,Data Scientist,BrightPath Retail,Remote,,,2026-01-29,Yes,Junior,
+258,Junior Data Scientist,Grove & Co,Edinburgh,,,2025-03-07,No,Mid,
+1484,Insights Analyst,Grove & Co,Remote (Uk),28000.0,35000.0,2025-08-23,Unknown,Graduate,31500.0
+1567,Data Science Intern,Solstice Energy,Glasgow,40000.0,55000.0,2025-02-08,Unknown,Mid,47500.0
+1179,Data Analyst,Fenwick Insurance,Sheffield,31500.0,31500.0,2025-03-25,Yes,Junior,31500.0
+1445,Junior Data Scientist,Vantage Health,Bristol,40000.0,55000.0,2025-12-08,Unknown,Mid,47500.0
+1245,Analytics Consultant,BrightPath Retail,Remote,85000.0,85000.0,2025-07-24,Yes,Senior,85000.0
+544,Data Engineer,Fenwick Insurance,Remote,31500.0,31500.0,2025-05-08,Yes,Graduate,31500.0
+1302,Junior Data Scientist,Fenwick Insurance,Sheffield,47500.0,47500.0,2026-02-06,Hybrid,Unspecified,47500.0
+1025,Data Scientist,Orchard Media,Leeds,37000.0,37000.0,2025-11-29,Hybrid,Mid,37000.0
+1291,Insights Analyst,Grove & Co,Liverpool,,,2026-01-15,No,Mid,
+1208,Data Scientist,Fenwick Insurance,Edinburgh,,,2026-02-24,Unknown,Senior,
+1420,Data Analyst,Fenwick Insurance,Bristol,28000.0,35000.0,2025-11-28,Unknown,Graduate,31500.0
+585,Data Engineer,BrightPath Retail,Leeds,55000.0,75000.0,2026-02-11,Yes,Senior,65000.0
+1253,Data Scientist II,Kestrel Logistics,Leeds,32000.0,42000.0,2025-04-19,Unknown,Junior,37000.0
+608,Data Analyst,Ashford Digital,Edinburgh,,,2026-02-24,Yes,Mid,
+1431,Business Intelligence Analyst,Grove & Co,Leeds,,,2025-12-28,No,Senior,
+333,Analytics Consultant,Grove & Co,Edinburgh,32000.0,42000.0,2026-05-11,No,Graduate,37000.0
+467,Junior Data Scientist,Ashford Digital,Remote,75000.0,95000.0,2025-03-03,No,Senior,85000.0
+1352,Data Scientist,Redbridge Telecom,Glasgow,75000.0,95000.0,2026-03-05,Hybrid,Senior,85000.0
+384,Junior Data Scientist,Redbridge Telecom,Leeds,28000.0,35000.0,2025-09-09,Yes,Graduate,31500.0
+1539,Data Engineer,Orchard Media,London,63000.0,83000.0,2025-04-16,Yes,Unspecified,73000.0
+156,Data Science Intern,Redbridge Telecom,Remote,,,2025-01-11,No,Senior,
+254,Data Science Intern,Solstice Energy,Sheffield,37000.0,37000.0,2026-06-01,Unknown,Graduate,37000.0
+1561,Data Scientist,Marlowe Consulting,Birmingham,55000.0,75000.0,2025-03-03,Unknown,Mid,65000.0
+1298,Insights Analyst,Solstice Energy,Edinburgh,55000.0,75000.0,2025-08-26,Unknown,Unspecified,65000.0
+540,Insights Analyst,Kestrel Logistics,Glasgow,31500.0,31500.0,2025-03-31,Yes,Graduate,31500.0
+1105,Analytics Consultant,Marlowe Consulting,Bristol,47500.0,47500.0,2025-11-22,Hybrid,Unspecified,47500.0
+361,Data Analyst,Marlowe Consulting,Glasgow,85000.0,85000.0,2025-10-16,Unknown,Senior,85000.0
+1055,Data Science Intern,BrightPath Retail,Bristol,,,2025-05-01,Unknown,Senior,
+1346,Data Engineer,Fenwick Insurance,Manchester,32000.0,42000.0,2025-09-19,No,Graduate,37000.0
+379,Data Engineer,Grove & Co,Liverpool,,,2025-10-06,Hybrid,Unspecified,
+907,Business Intelligence Analyst,Marlowe Consulting,Birmingham,,,2025-07-04,Unknown,Senior,
+126,Analytics Consultant,Ashford Digital,Bristol,28000.0,35000.0,2026-04-30,Hybrid,Junior,31500.0
+1367,Junior Data Scientist,Vantage Health,Bristol,40000.0,55000.0,2025-02-19,Yes,Mid,47500.0
+1422,Analytics Consultant,Redbridge Telecom,Glasgow,,,2026-02-18,Yes,Mid,
+382,Data Engineer,Grove & Co,Leeds,28000.0,35000.0,2025-10-22,Hybrid,Graduate,31500.0
+405,Data Analyst,BrightPath Retail,Edinburgh,,,2025-02-01,Yes,Graduate,
+975,Junior Data Scientist,BrightPath Retail,Glasgow,40000.0,55000.0,2025-11-24,Unknown,Unspecified,47500.0
+395,Data Engineer,Alderly Bank,Glasgow,28000.0,35000.0,2025-06-13,Yes,Junior,31500.0
+1568,Data Scientist II,Grove & Co,Bristol,28000.0,35000.0,2026-01-22,No,Graduate,31500.0
+1324,Machine Learning Engineer,Kestrel Logistics,Edinburgh,28000.0,35000.0,2025-02-17,Yes,Junior,31500.0
+163,Business Intelligence Analyst,Redbridge Telecom,London,39500.0,39500.0,2025-08-25,Yes,Graduate,39500.0
+103,Data Scientist II,Ashford Digital,Bristol,55000.0,75000.0,2025-08-22,No,Unspecified,65000.0
+478,Insights Analyst,Grove & Co,Liverpool,32000.0,42000.0,2025-09-19,Hybrid,Graduate,37000.0
+1127,Junior Data Scientist,Orchard Media,London,40000.0,50000.0,2025-07-14,Yes,Mid,45000.0
+1344,Junior Data Scientist,Grove & Co,Liverpool,28000.0,35000.0,2025-10-11,No,Graduate,31500.0
+1441,Machine Learning Engineer,Solstice Energy,Remote,,,2025-02-25,Unknown,Junior,
+188,Business Intelligence Analyst,Ashford Digital,London,36000.0,43000.0,2026-01-11,Unknown,Junior,39500.0
+1521,Junior Data Scientist,Fenwick Insurance,Glasgow,,,2025-05-08,Yes,Junior,
+167,Data Scientist II,Marlowe Consulting,Sheffield,85000.0,85000.0,2025-07-18,Hybrid,Senior,85000.0
+1114,Data Scientist,Fenwick Insurance,London,55500.0,55500.0,2025-01-07,Yes,Unspecified,55500.0
+285,Machine Learning Engineer,Redbridge Telecom,Manchester,28000.0,35000.0,2026-04-07,Yes,Junior,31500.0
+1387,Machine Learning Engineer,Orchard Media,Leeds,28000.0,35000.0,2026-01-22,Yes,Junior,31500.0
+250,Data Science Intern,Ashford Digital,Liverpool,28000.0,35000.0,2025-12-15,Yes,Graduate,31500.0
+217,Business Intelligence Analyst,Orchard Media,Sheffield,47500.0,47500.0,2026-04-24,Unknown,Mid,47500.0
+1499,Junior Data Scientist,Marlowe Consulting,Glasgow,55000.0,75000.0,2025-09-12,Hybrid,Unspecified,65000.0
+1290,Data Analyst,Fenwick Insurance,Sheffield,85000.0,85000.0,2026-03-19,Yes,Senior,85000.0
+1234,Junior Data Scientist,Kestrel Logistics,Glasgow,,,2026-01-18,Hybrid,Unspecified,
+1454,Data Scientist II,BrightPath Retail,Glasgow,,,2026-02-16,No,Senior,
+699,Data Science Intern,Redbridge Telecom,London,,,2025-05-18,Yes,Unspecified,
+28,Junior Data Scientist,Orchard Media,London,93000.0,93000.0,2025-08-05,Unknown,Senior,93000.0
+20,Data Analyst,Kestrel Logistics,Leeds,,,2025-11-10,Yes,Senior,
+155,Data Analyst,Orchard Media,London,40000.0,50000.0,2026-03-18,Yes,Junior,45000.0
+179,Junior Data Scientist,Orchard Media,Manchester,40000.0,55000.0,2025-01-08,Unknown,Unspecified,47500.0
+486,Data Engineer,Redbridge Telecom,Liverpool,28000.0,35000.0,2025-12-09,Unknown,Graduate,31500.0
+316,Data Engineer,Solstice Energy,Manchester,,,2025-07-18,Unknown,Unspecified,
+1219,Junior Data Scientist,Orchard Media,Edinburgh,40000.0,55000.0,2025-12-30,Yes,Unspecified,47500.0
+1157,Data Scientist,Kestrel Logistics,London,63000.0,83000.0,2025-06-30,Hybrid,Unspecified,73000.0
+153,Data Engineer,Vantage Health,Leeds,85000.0,85000.0,2025-03-03,Unknown,Senior,85000.0
+498,Insights Analyst,Orchard Media,Liverpool,85000.0,85000.0,2025-04-19,Unknown,Senior,85000.0
+220,Data Scientist,Vantage Health,Glasgow,55000.0,75000.0,2025-09-08,Hybrid,Senior,65000.0
+1458,Data Analyst,Alderly Bank,London,36000.0,43000.0,2025-09-21,Unknown,Graduate,39500.0
+48,Data Science Intern,Redbridge Telecom,Leeds,32000.0,42000.0,2025-09-24,Unknown,Junior,37000.0
+1181,Data Engineer,Vantage Health,Manchester,,,2026-02-09,Yes,Graduate,
+1043,Machine Learning Engineer,Solstice Energy,Remote,,,2025-09-08,Unknown,Unspecified,
+1134,Data Analyst,Alderly Bank,Sheffield,28000.0,35000.0,2025-12-27,Yes,Junior,31500.0
+174,Junior Data Scientist,Ashford Digital,Sheffield,,,2025-07-06,Unknown,Unspecified,
+922,Data Scientist II,Orchard Media,Bristol,,,2026-01-10,No,Unspecified,
+1148,Data Science Intern,Alderly Bank,Glasgow,40000.0,55000.0,2026-04-07,Yes,Unspecified,47500.0
+547,Data Engineer,Kestrel Logistics,Leeds,28000.0,35000.0,2026-03-02,Yes,Graduate,31500.0
+577,Junior Data Scientist,Vantage Health,Manchester,65000.0,65000.0,2025-12-25,Unknown,Unspecified,65000.0
+1002,Data Engineer,Solstice Energy,Manchester,37000.0,37000.0,2025-02-17,Yes,Graduate,37000.0
+109,Junior Data Scientist,Orchard Media,Birmingham,47500.0,47500.0,2025-11-16,Unknown,Unspecified,47500.0
+710,Business Intelligence Analyst,BrightPath Retail,London,,,2025-06-04,Unknown,Unspecified,
+272,Data Engineer,Marlowe Consulting,Edinburgh,,,2025-11-29,Hybrid,Unspecified,
+701,Data Analyst,Alderly Bank,Liverpool,,,2026-04-01,Yes,Unspecified,
+870,Insights Analyst,Grove & Co,Sheffield,,,2026-01-28,No,Graduate,
+1050,Data Analyst,Grove & Co,Sheffield,40000.0,55000.0,2026-04-22,Unknown,Mid,47500.0
+752,Data Engineer,Vantage Health,Sheffield,,,2026-05-12,No,Graduate,
+1376,Junior Data Scientist,Northwind Analytics,Remote,,,2025-05-01,Hybrid,Graduate,
+769,Data Engineer,Marlowe Consulting,Edinburgh,31500.0,31500.0,2025-09-06,Unknown,Graduate,31500.0
+554,Data Engineer,Orchard Media,Edinburgh,,,2025-04-03,No,Unspecified,
+1423,Machine Learning Engineer,Northwind Analytics,Sheffield,40000.0,55000.0,2025-03-08,Yes,Mid,47500.0
+1281,Data Scientist II,Alderly Bank,Manchester,75000.0,95000.0,2025-08-10,Yes,Senior,85000.0
+1385,Data Scientist,Orchard Media,Manchester,,,2025-02-02,Yes,Senior,
+963,Data Scientist II,Kestrel Logistics,Manchester,32000.0,42000.0,2025-11-17,Yes,Graduate,37000.0
+1251,Insights Analyst,Orchard Media,Glasgow,,,2025-09-02,Unknown,Graduate,
+780,Data Analyst,Marlowe Consulting,Remote,,,2025-11-06,Yes,Unspecified,
+620,Data Analyst,Vantage Health,Glasgow,28000.0,35000.0,2026-01-14,No,Junior,31500.0
+40,Data Scientist II,Northwind Analytics,Manchester,37000.0,37000.0,2025-10-26,No,Mid,37000.0
+1465,Insights Analyst,Ashford Digital,Manchester,31500.0,31500.0,2026-04-20,Unknown,Graduate,31500.0
+1225,Business Intelligence Analyst,Vantage Health,Birmingham,37000.0,37000.0,2026-04-13,Unknown,Junior,37000.0
+65,Analytics Consultant,Alderly Bank,London,48000.0,63000.0,2025-08-21,Hybrid,Unspecified,55500.0
+682,Machine Learning Engineer,Fenwick Insurance,Glasgow,,,2025-02-27,Unknown,Junior,
+165,Data Scientist,Solstice Energy,Sheffield,,,2025-03-19,Unknown,Senior,
+939,Machine Learning Engineer,Alderly Bank,Remote,75000.0,95000.0,2025-01-27,No,Senior,85000.0
+1477,Data Analyst,BrightPath Retail,Remote,,,2025-05-29,No,Mid,
+83,Data Scientist,Ashford Digital,Liverpool,55000.0,75000.0,2025-10-11,Unknown,Senior,65000.0
+887,Data Analyst,Northwind Analytics,Birmingham,,,2026-01-07,Hybrid,Unspecified,
+1459,Analytics Consultant,Orchard Media,London,63000.0,83000.0,2026-03-21,Unknown,Senior,73000.0
+539,Data Analyst,BrightPath Retail,Liverpool,31500.0,31500.0,2026-05-09,No,Graduate,31500.0
+490,Data Scientist,Grove & Co,Manchester,55000.0,75000.0,2025-04-16,Unknown,Mid,65000.0
+107,Data Science Intern,Northwind Analytics,Edinburgh,55000.0,75000.0,2025-11-09,No,Unspecified,65000.0
+342,Junior Data Scientist,Solstice Energy,Edinburgh,,,2025-12-18,No,Mid,
+653,Data Scientist,Alderly Bank,London,39500.0,39500.0,2026-04-17,Yes,Graduate,39500.0
+1003,Data Scientist II,Alderly Bank,London,40000.0,50000.0,2025-12-04,Unknown,Unspecified,45000.0
+1241,Insights Analyst,Grove & Co,Remote,75000.0,95000.0,2025-11-04,Unknown,Senior,85000.0
+1066,Data Analyst,BrightPath Retail,Remote,,,2026-01-28,No,Mid,
+574,Data Engineer,Northwind Analytics,Liverpool,,,2025-08-12,No,Mid,
+1052,Data Scientist II,Orchard Media,Bristol,47500.0,47500.0,2025-04-06,No,Mid,47500.0
+394,Junior Data Scientist,Orchard Media,Glasgow,75000.0,95000.0,2026-03-01,Yes,Senior,85000.0
+518,Analytics Consultant,Solstice Energy,Leeds,32000.0,42000.0,2025-01-23,Yes,Unspecified,37000.0
+748,Data Engineer,BrightPath Retail,Leeds,55000.0,75000.0,2025-02-07,Yes,Mid,65000.0
+347,Machine Learning Engineer,Alderly Bank,Remote (Uk),,,2025-12-16,Unknown,Unspecified,
+1378,Insights Analyst,Fenwick Insurance,Liverpool,55000.0,75000.0,2025-02-27,Unknown,Senior,65000.0
+33,Data Scientist II,Fenwick Insurance,Bristol,85000.0,85000.0,2025-07-22,Unknown,Senior,85000.0
+1014,Data Scientist II,Northwind Analytics,Glasgow,,,2025-06-25,Unknown,Junior,
+727,Data Analyst,Fenwick Insurance,Liverpool,37000.0,37000.0,2025-11-28,No,Junior,37000.0
+171,Machine Learning Engineer,Alderly Bank,Liverpool,40000.0,55000.0,2025-07-05,No,Unspecified,47500.0
+599,Data Engineer,Marlowe Consulting,Manchester,55000.0,75000.0,2025-04-09,Unknown,Mid,65000.0
+1585,Machine Learning Engineer,Ashford Digital,Remote,55000.0,75000.0,2025-06-20,Yes,Mid,65000.0
+404,Analytics Consultant,Vantage Health,Leeds,28000.0,35000.0,2026-01-21,Unknown,Graduate,31500.0
+228,Data Science Intern,Redbridge Telecom,Bristol,37000.0,37000.0,2026-05-11,Yes,Graduate,37000.0
+307,Data Science Intern,Fenwick Insurance,Remote,31500.0,31500.0,2025-04-24,Unknown,Junior,31500.0
+807,Data Scientist II,Alderly Bank,Glasgow,55000.0,75000.0,2025-06-17,Yes,Senior,65000.0
+1299,Junior Data Scientist,Northwind Analytics,Bristol,32000.0,42000.0,2025-10-25,Yes,Junior,37000.0
+277,Machine Learning Engineer,Alderly Bank,Birmingham,,,2025-01-18,Unknown,Mid,
+1498,Analytics Consultant,Redbridge Telecom,Birmingham,,,2025-07-11,Unknown,Mid,
+142,Data Science Intern,BrightPath Retail,Edinburgh,,,2026-05-05,Yes,Graduate,
+758,Business Intelligence Analyst,Alderly Bank,Glasgow,55000.0,75000.0,2026-03-24,Unknown,Unspecified,65000.0
+175,Data Engineer,Solstice Energy,Sheffield,,,2025-05-03,Unknown,Unspecified,
+705,Junior Data Scientist,Redbridge Telecom,London,39500.0,39500.0,2025-06-09,No,Graduate,39500.0
+1161,Business Intelligence Analyst,Redbridge Telecom,Bristol,,,2025-12-05,Hybrid,Junior,
+1008,Business Intelligence Analyst,Kestrel Logistics,London,,,2025-06-11,Yes,Unspecified,
+1512,Data Scientist II,Solstice Energy,Glasgow,,,2025-12-11,Yes,Mid,
+917,Machine Learning Engineer,BrightPath Retail,London,,,2026-01-13,Unknown,Unspecified,
+904,Insights Analyst,Redbridge Telecom,Manchester,28000.0,35000.0,2025-11-19,No,Junior,31500.0
+743,Data Scientist II,BrightPath Retail,Sheffield,,,2026-01-30,Unknown,Graduate,
+1332,Analytics Consultant,BrightPath Retail,London,39500.0,39500.0,2025-10-29,Hybrid,Junior,39500.0
+350,Insights Analyst,Alderly Bank,Bristol,,,2026-04-17,No,Senior,
+977,Data Engineer,Orchard Media,Birmingham,55000.0,75000.0,2025-03-07,Yes,Senior,65000.0
+777,Junior Data Scientist,Redbridge Telecom,Glasgow,32000.0,42000.0,2025-03-13,Yes,Junior,37000.0
+969,Insights Analyst,Kestrel Logistics,Sheffield,31500.0,31500.0,2025-08-04,Unknown,Graduate,31500.0
+1345,Data Scientist,Ashford Digital,Bristol,,,2026-03-01,Yes,Junior,
+1584,Analytics Consultant,Northwind Analytics,Edinburgh,75000.0,95000.0,2025-10-13,Unknown,Senior,85000.0
+81,Machine Learning Engineer,BrightPath Retail,Liverpool,,,2025-05-22,Yes,Mid,
+1220,Data Analyst,Grove & Co,Sheffield,85000.0,85000.0,2025-04-15,Yes,Senior,85000.0
+301,Business Intelligence Analyst,Ashford Digital,Glasgow,85000.0,85000.0,2026-02-23,Hybrid,Senior,85000.0
+233,Data Scientist II,Fenwick Insurance,Liverpool,75000.0,95000.0,2026-06-05,Hybrid,Senior,85000.0
+511,Junior Data Scientist,Ashford Digital,Glasgow,,,2025-04-29,Hybrid,Junior,
+576,Data Scientist II,Redbridge Telecom,Bristol,,,2025-07-04,No,Graduate,
+962,Machine Learning Engineer,Vantage Health,Leeds,47500.0,47500.0,2026-03-03,Hybrid,Unspecified,47500.0
+1132,Data Analyst,BrightPath Retail,London,55500.0,55500.0,2026-01-15,Unknown,Mid,55500.0
+1203,Data Science Intern,Fenwick Insurance,Sheffield,28000.0,35000.0,2026-01-06,Yes,Junior,31500.0
+325,Data Scientist II,Northwind Analytics,Glasgow,32000.0,42000.0,2025-02-06,Unknown,Unspecified,37000.0
+1403,Junior Data Scientist,Grove & Co,Liverpool,,,2025-01-05,Yes,Mid,
+1091,Data Scientist II,Alderly Bank,Remote,40000.0,55000.0,2026-04-30,Hybrid,Mid,47500.0
+243,Analytics Consultant,Alderly Bank,Liverpool,75000.0,95000.0,2025-06-19,Unknown,Senior,85000.0
+851,Data Analyst,Alderly Bank,Leeds,37000.0,37000.0,2025-08-20,Unknown,Graduate,37000.0
+335,Data Scientist,Northwind Analytics,Manchester,32000.0,42000.0,2026-04-21,Unknown,Unspecified,37000.0
+312,Data Scientist,Fenwick Insurance,Manchester,,,2025-03-31,No,Mid,
+328,Insights Analyst,Fenwick Insurance,Liverpool,31500.0,31500.0,2025-12-27,Hybrid,Graduate,31500.0
+1151,Data Analyst,Orchard Media,Leeds,,,2025-03-12,Yes,Unspecified,
+208,Data Analyst,Marlowe Consulting,Birmingham,47500.0,47500.0,2026-04-24,No,Mid,47500.0
+622,Data Scientist,Orchard Media,Sheffield,75000.0,95000.0,2025-05-26,Unknown,Senior,85000.0
+594,Data Scientist II,Alderly Bank,Sheffield,85000.0,85000.0,2025-02-26,Yes,Senior,85000.0
+359,Machine Learning Engineer,Vantage Health,Manchester,,,2025-11-12,No,Senior,
+694,Insights Analyst,Orchard Media,Edinburgh,,,2025-07-10,Unknown,Unspecified,
+973,Data Scientist,Orchard Media,Edinburgh,40000.0,55000.0,2025-06-24,Unknown,Mid,47500.0
+915,Business Intelligence Analyst,Marlowe Consulting,Edinburgh,,,2025-10-31,No,Junior,
+1195,Data Analyst,Fenwick Insurance,Glasgow,32000.0,42000.0,2025-02-13,Unknown,Graduate,37000.0
+647,Data Science Intern,Ashford Digital,Liverpool,55000.0,75000.0,2026-01-29,Hybrid,Unspecified,65000.0
+744,Data Engineer,Vantage Health,London,,,2025-12-09,No,Junior,
+136,Data Scientist II,Kestrel Logistics,Sheffield,,,2025-11-26,Yes,Graduate,
+630,Data Science Intern,Vantage Health,Sheffield,40000.0,55000.0,2025-01-12,Yes,Unspecified,47500.0
+437,Data Scientist,Solstice Energy,Bristol,,,2026-07-02,No,Mid,
+1466,Business Intelligence Analyst,Orchard Media,Remote,40000.0,55000.0,2026-03-05,Yes,Mid,47500.0
+416,Data Analyst,Kestrel Logistics,Glasgow,,,2026-03-21,Yes,Unspecified,
+731,Data Scientist,Fenwick Insurance,London,40000.0,50000.0,2025-04-19,Unknown,Junior,45000.0
+642,Data Engineer,Vantage Health,Glasgow,,,2025-03-27,Hybrid,Senior,
+185,Data Scientist II,Redbridge Telecom,Leeds,75000.0,95000.0,2025-11-11,No,Senior,85000.0
+679,Insights Analyst,Redbridge Telecom,Glasgow,75000.0,95000.0,2026-01-01,Yes,Senior,85000.0
+18,Analytics Consultant,BrightPath Retail,Liverpool,,,2025-03-26,Yes,Mid,
+44,Data Science Intern,Northwind Analytics,Glasgow,65000.0,65000.0,2025-06-06,No,Mid,65000.0
+176,Data Engineer,Fenwick Insurance,Sheffield,,,2025-09-15,Unknown,Unspecified,
+1600,Data Scientist,Fenwick Insurance,Glasgow,28000.0,35000.0,2026-05-04,Hybrid,Junior,31500.0
+1176,Data Engineer,Orchard Media,Birmingham,32000.0,42000.0,2026-01-16,Unknown,Junior,37000.0
+1336,Data Science Intern,Orchard Media,London,45000.0,45000.0,2026-03-16,Unknown,Graduate,45000.0
+1087,Data Analyst,Ashford Digital,Liverpool,,,2025-10-12,Yes,Unspecified,
+648,Insights Analyst,Grove & Co,Birmingham,40000.0,55000.0,2025-08-03,Hybrid,Mid,47500.0
+997,Data Engineer,Kestrel Logistics,Leeds,,,2025-06-24,Hybrid,Mid,
+268,Data Scientist II,Marlowe Consulting,Birmingham,40000.0,55000.0,2025-06-19,Yes,Mid,47500.0
+960,Machine Learning Engineer,BrightPath Retail,Sheffield,55000.0,75000.0,2026-04-15,No,Mid,65000.0
+649,Analytics Consultant,Vantage Health,Birmingham,40000.0,55000.0,2025-11-15,Yes,Mid,47500.0
+843,Data Analyst,Fenwick Insurance,Liverpool,47500.0,47500.0,2026-03-27,Hybrid,Unspecified,47500.0
+309,Data Scientist II,Alderly Bank,Edinburgh,37000.0,37000.0,2025-01-08,Yes,Unspecified,37000.0
+1581,Machine Learning Engineer,Grove & Co,Glasgow,,,2026-02-21,Unknown,Graduate,
+1595,Insights Analyst,Orchard Media,Bristol,85000.0,85000.0,2025-06-07,Hybrid,Senior,85000.0
+1292,Data Engineer,Grove & Co,Birmingham,,,2025-11-16,No,Senior,
+1492,Data Engineer,Vantage Health,Manchester,,,2026-01-21,Hybrid,Junior,
+1596,Data Scientist II,Fenwick Insurance,Manchester,40000.0,55000.0,2026-02-12,Yes,Mid,47500.0
+560,Data Scientist,Orchard Media,Manchester,,,2025-10-22,Unknown,Graduate,
+353,Junior Data Scientist,BrightPath Retail,London,,,2026-05-03,Yes,Junior,
+1163,Data Analyst,BrightPath Retail,Sheffield,75000.0,95000.0,2025-06-15,No,Senior,85000.0
+1327,Junior Data Scientist,Redbridge Telecom,Remote,28000.0,35000.0,2025-05-09,No,Junior,31500.0
+423,Analytics Consultant,Alderly Bank,Birmingham,,,2026-02-17,Unknown,Mid,
+1572,Data Analyst,Marlowe Consulting,Bristol,32000.0,42000.0,2025-12-05,Hybrid,Graduate,37000.0
+908,Data Engineer,Alderly Bank,Liverpool,,,2025-07-31,Unknown,Mid,
+1587,Insights Analyst,Solstice Energy,Birmingham,,,2025-06-29,Unknown,Mid,
+1300,Insights Analyst,Solstice Energy,London,,,2025-05-22,No,Mid,
+1060,Data Scientist II,Vantage Health,Leeds,,,2025-07-31,No,Unspecified,
+321,Machine Learning Engineer,Solstice Energy,Sheffield,,,2025-11-03,Unknown,Senior,
+1130,Machine Learning Engineer,Northwind Analytics,Birmingham,31500.0,31500.0,2025-04-19,Unknown,Junior,31500.0
+1278,Data Scientist II,Vantage Health,Sheffield,85000.0,85000.0,2025-02-03,Yes,Senior,85000.0
+1271,Business Intelligence Analyst,Grove & Co,Glasgow,75000.0,95000.0,2026-02-28,Hybrid,Senior,85000.0
+409,Insights Analyst,Vantage Health,Edinburgh,,,2025-07-23,Hybrid,Junior,
+105,Data Scientist,Vantage Health,Bristol,,,2025-09-05,Hybrid,Mid,
+845,Business Intelligence Analyst,Marlowe Consulting,Remote,,,2026-03-20,Unknown,Senior,
+616,Insights Analyst,BrightPath Retail,Manchester,65000.0,65000.0,2025-06-28,Hybrid,Unspecified,65000.0
+1481,Junior Data Scientist,Grove & Co,Manchester,,,2025-07-30,Unknown,Graduate,
+1550,Data Engineer,BrightPath Retail,Remote,,,2025-08-01,Unknown,Junior,
+1433,Business Intelligence Analyst,Vantage Health,Glasgow,37000.0,37000.0,2025-10-24,Hybrid,Junior,37000.0
+964,Data Analyst,BrightPath Retail,London,48000.0,63000.0,2026-05-02,Yes,Unspecified,55500.0
+635,Insights Analyst,Kestrel Logistics,Leeds,,,2025-03-10,Yes,Senior,
+805,Machine Learning Engineer,Ashford Digital,Sheffield,32000.0,42000.0,2026-03-04,Unknown,Unspecified,37000.0
+438,Insights Analyst,Orchard Media,Remote,,,2025-03-01,Yes,Unspecified,
+1554,Data Engineer,Kestrel Logistics,Bristol,,,2025-12-09,Yes,Senior,
+837,Data Science Intern,Grove & Co,London,48000.0,63000.0,2025-01-15,Hybrid,Mid,55500.0
+949,Insights Analyst,Fenwick Insurance,London,40000.0,50000.0,2026-07-04,Unknown,Junior,45000.0
+1279,Analytics Consultant,Northwind Analytics,Leeds,28000.0,35000.0,2025-09-08,Yes,Graduate,31500.0
+1377,Analytics Consultant,Marlowe Consulting,Birmingham,,,2025-09-08,Unknown,Mid,
+1397,Data Analyst,Marlowe Consulting,Birmingham,40000.0,55000.0,2025-03-14,Yes,Unspecified,47500.0
+392,Machine Learning Engineer,Fenwick Insurance,Birmingham,75000.0,95000.0,2025-05-16,No,Senior,85000.0
+445,Data Analyst,Orchard Media,Glasgow,,,2025-12-26,No,Junior,
+1487,Data Scientist II,Grove & Co,Manchester,75000.0,95000.0,2025-08-25,Yes,Senior,85000.0
+1506,Data Engineer,Kestrel Logistics,Leeds,,,2026-03-28,Hybrid,Unspecified,
+1086,Insights Analyst,Alderly Bank,Remote,,,2025-06-03,Hybrid,Unspecified,
+273,Business Intelligence Analyst,Fenwick Insurance,Liverpool,,,2026-01-25,No,Unspecified,
+817,Machine Learning Engineer,Marlowe Consulting,Liverpool,32000.0,42000.0,2025-07-16,Hybrid,Junior,37000.0
+668,Machine Learning Engineer,Ashford Digital,London,,,2026-03-26,Hybrid,Unspecified,
+692,Insights Analyst,Northwind Analytics,Sheffield,40000.0,55000.0,2025-07-09,Yes,Mid,47500.0
+745,Data Scientist,Northwind Analytics,Edinburgh,65000.0,65000.0,2025-06-21,Unknown,Mid,65000.0
+950,Junior Data Scientist,Orchard Media,Liverpool,32000.0,42000.0,2025-03-10,Unknown,Unspecified,37000.0
+1307,Insights Analyst,Vantage Health,Manchester,37000.0,37000.0,2025-11-07,Yes,Junior,37000.0
+910,Data Analyst,Fenwick Insurance,Edinburgh,55000.0,75000.0,2025-07-21,Unknown,Mid,65000.0
+927,Business Intelligence Analyst,Kestrel Logistics,Birmingham,,,2025-06-28,Yes,Junior,
+944,Data Science Intern,Marlowe Consulting,Glasgow,,,2025-05-29,No,Junior,
+856,Data Scientist II,Orchard Media,Glasgow,28000.0,35000.0,2025-04-08,Hybrid,Junior,31500.0
+863,Data Scientist II,Solstice Energy,Edinburgh,37000.0,37000.0,2025-12-30,Unknown,Mid,37000.0
+832,Analytics Consultant,Grove & Co,Liverpool,,,2025-09-13,Unknown,Junior,
+427,Machine Learning Engineer,Vantage Health,Bristol,,,2026-01-27,Yes,Mid,
+723,Business Intelligence Analyst,Solstice Energy,London,40000.0,50000.0,2025-12-07,Hybrid,Mid,45000.0
+1464,Insights Analyst,Kestrel Logistics,Liverpool,31500.0,31500.0,2025-10-07,No,Junior,31500.0
+257,Data Science Intern,Fenwick Insurance,Remote,55000.0,75000.0,2025-12-16,Yes,Unspecified,65000.0
+1494,Junior Data Scientist,Alderly Bank,Liverpool,31500.0,31500.0,2025-10-16,Unknown,Junior,31500.0
+1109,Data Scientist,Ashford Digital,Remote (Uk),,,2025-12-17,Yes,Senior,
+841,Machine Learning Engineer,Redbridge Telecom,Remote,40000.0,55000.0,2025-02-24,No,Unspecified,47500.0
+942,Business Intelligence Analyst,Marlowe Consulting,Sheffield,47500.0,47500.0,2025-10-18,Unknown,Mid,47500.0
+88,Business Intelligence Analyst,Redbridge Telecom,Sheffield,28000.0,35000.0,2025-11-17,Hybrid,Graduate,31500.0
+295,Insights Analyst,Redbridge Telecom,Edinburgh,,,2025-07-18,Unknown,Junior,
+615,Insights Analyst,Kestrel Logistics,Liverpool,37000.0,37000.0,2026-02-02,Hybrid,Mid,37000.0
+885,Business Intelligence Analyst,Fenwick Insurance,Sheffield,47500.0,47500.0,2026-10-05,No,Unspecified,47500.0
+43,Data Science Intern,Northwind Analytics,Birmingham,47500.0,47500.0,2025-03-23,Yes,Unspecified,47500.0
+754,Data Science Intern,Ashford Digital,Leeds,,,2025-04-24,No,Senior,
+329,Insights Analyst,Vantage Health,Liverpool,55000.0,75000.0,2025-05-22,No,Mid,65000.0
+527,Data Engineer,BrightPath Retail,Bristol,75000.0,95000.0,2025-12-30,Yes,Senior,85000.0
+796,Data Scientist II,Redbridge Telecom,Liverpool,55000.0,75000.0,2025-01-03,Yes,Unspecified,65000.0
+358,Data Science Intern,Alderly Bank,Birmingham,32000.0,42000.0,2025-06-14,Unknown,Graduate,37000.0
+1305,Data Scientist,Northwind Analytics,Birmingham,,,2026-04-24,Unknown,Junior,
+588,Junior Data Scientist,Ashford Digital,Liverpool,55000.0,75000.0,2025-06-12,Unknown,Mid,65000.0
+296,Data Scientist II,Kestrel Logistics,Sheffield,40000.0,55000.0,2025-05-18,Hybrid,Unspecified,47500.0
+459,Analytics Consultant,Fenwick Insurance,Remote,28000.0,35000.0,2025-11-26,Yes,Graduate,31500.0
+738,Machine Learning Engineer,Marlowe Consulting,Birmingham,32000.0,42000.0,2025-02-21,Yes,Mid,37000.0
+1438,Machine Learning Engineer,Northwind Analytics,Birmingham,47500.0,47500.0,2025-11-28,No,Unspecified,47500.0
+931,Analytics Consultant,Ashford Digital,Bristol,,,2025-11-19,Hybrid,Mid,
+1384,Junior Data Scientist,Marlowe Consulting,Leeds,28000.0,35000.0,2025-11-06,Yes,Graduate,31500.0
+982,Junior Data Scientist,Marlowe Consulting,Sheffield,28000.0,35000.0,2026-03-28,No,Junior,31500.0
+707,Data Analyst,Redbridge Telecom,Birmingham,40000.0,55000.0,2025-05-14,No,Unspecified,47500.0
+513,Data Scientist,Grove & Co,Edinburgh,31500.0,31500.0,2025-10-24,Yes,Graduate,31500.0
+1255,Data Scientist II,Fenwick Insurance,Bristol,32000.0,42000.0,2025-04-23,Unknown,Mid,37000.0
+1573,Data Analyst,Marlowe Consulting,Sheffield,37000.0,37000.0,2026-03-25,Yes,Mid,37000.0
+487,Data Engineer,Grove & Co,Sheffield,,,2026-04-14,Unknown,Junior,
+921,Junior Data Scientist,Solstice Energy,Leeds,,,2025-07-26,Yes,Junior,
+793,Data Analyst,Redbridge Telecom,Birmingham,85000.0,85000.0,2025-12-17,Unknown,Senior,85000.0
+1262,Data Science Intern,BrightPath Retail,London,36000.0,43000.0,2025-01-28,Yes,Junior,39500.0
+1586,Data Scientist II,Ashford Digital,Leeds,55000.0,75000.0,2025-11-24,Hybrid,Senior,65000.0
+791,Analytics Consultant,Ashford Digital,Birmingham,37000.0,37000.0,2025-07-04,Unknown,Mid,37000.0
+1321,Machine Learning Engineer,Orchard Media,Glasgow,32000.0,42000.0,2025-01-14,Yes,Mid,37000.0
+1171,Insights Analyst,BrightPath Retail,Glasgow,31500.0,31500.0,2025-03-14,No,Junior,31500.0
+976,Data Engineer,Solstice Energy,Sheffield,65000.0,65000.0,2026-02-18,Unknown,Mid,65000.0
+1329,Data Engineer,Marlowe Consulting,Bristol,28000.0,35000.0,2025-06-27,Unknown,Graduate,31500.0
+41,Data Science Intern,Alderly Bank,London,73000.0,73000.0,2025-04-18,No,Senior,73000.0
+152,Insights Analyst,Solstice Energy,Liverpool,,,2025-03-11,Yes,Junior,
+1118,Business Intelligence Analyst,BrightPath Retail,Glasgow,47500.0,47500.0,2026-01-18,Yes,Mid,47500.0
+1155,Business Intelligence Analyst,Fenwick Insurance,Glasgow,,,2025-12-21,Unknown,Mid,
+73,Analytics Consultant,Ashford Digital,Birmingham,,,2026-02-18,Unknown,Mid,
+1287,Data Scientist,Marlowe Consulting,London,,,2026-04-10,No,Junior,
+460,Analytics Consultant,Solstice Energy,Birmingham,40000.0,55000.0,2025-06-19,Yes,Unspecified,47500.0
+246,Junior Data Scientist,Alderly Bank,Glasgow,37000.0,37000.0,2025-07-16,Unknown,Mid,37000.0
+1162,Data Analyst,Northwind Analytics,Birmingham,,,2025-08-17,Unknown,Senior,
+120,Business Intelligence Analyst,Grove & Co,Birmingham,,,2025-01-18,Hybrid,Junior,
+1153,Junior Data Scientist,Kestrel Logistics,Manchester,32000.0,42000.0,2026-06-05,Yes,Mid,37000.0
+8,Machine Learning Engineer,Fenwick Insurance,Leeds,,,2026-09-01,No,Junior,
+13,Data Science Intern,Redbridge Telecom,Manchester,,,2025-05-09,Yes,Unspecified,
+479,Data Scientist,Orchard Media,Remote,55000.0,75000.0,2026-01-16,No,Senior,65000.0
+213,Business Intelligence Analyst,Grove & Co,Bristol,65000.0,65000.0,2025-08-21,Unknown,Mid,65000.0
+1364,Machine Learning Engineer,Northwind Analytics,Sheffield,,,2025-06-13,No,Senior,
+79,Data Engineer,Vantage Health,Sheffield,,,2026-01-17,Hybrid,Unspecified,
+759,Junior Data Scientist,Fenwick Insurance,Glasgow,37000.0,37000.0,2025-09-29,Hybrid,Junior,37000.0
+1569,Junior Data Scientist,Solstice Energy,Birmingham,,,2025-07-20,No,Unspecified,
+348,Data Analyst,Northwind Analytics,Sheffield,28000.0,35000.0,2025-01-21,Unknown,Junior,31500.0
+1267,Analytics Consultant,Alderly Bank,London,48000.0,63000.0,2025-04-01,Yes,Unspecified,55500.0
+36,Business Intelligence Analyst,Alderly Bank,Glasgow,,,2025-06-03,Yes,Graduate,
+1544,Data Science Intern,Solstice Energy,London,63000.0,83000.0,2026-10-03,No,Senior,73000.0
+1061,Data Scientist,Grove & Co,Edinburgh,65000.0,65000.0,2025-12-14,No,Senior,65000.0
+840,Data Scientist II,BrightPath Retail,Liverpool,32000.0,42000.0,2025-04-11,Hybrid,Unspecified,37000.0
+134,Data Engineer,Redbridge Telecom,Edinburgh,40000.0,55000.0,2025-03-06,Unknown,Mid,47500.0
+1516,Machine Learning Engineer,Marlowe Consulting,Glasgow,85000.0,85000.0,2025-08-30,Hybrid,Senior,85000.0
+117,Business Intelligence Analyst,Kestrel Logistics,Remote,,,2025-10-20,Yes,Junior,
+651,Analytics Consultant,Solstice Energy,Remote,28000.0,35000.0,2026-03-28,Hybrid,Junior,31500.0
+1121,Analytics Consultant,Grove & Co,Birmingham,55000.0,75000.0,2025-02-26,Yes,Unspecified,65000.0
+294,Data Scientist II,Marlowe Consulting,Liverpool,28000.0,35000.0,2025-07-01,Yes,Junior,31500.0
+330,Junior Data Scientist,Kestrel Logistics,Birmingham,,,2025-03-14,Unknown,Mid,
+590,Analytics Consultant,Marlowe Consulting,Bristol,,,2025-06-28,Unknown,Mid,
+1083,Data Science Intern,Solstice Energy,Bristol,,,2026-03-19,Unknown,Unspecified,
+1233,Business Intelligence Analyst,Alderly Bank,Leeds,,,2026-02-11,Hybrid,Unspecified,
+504,Data Scientist,Fenwick Insurance,Leeds,47500.0,47500.0,2025-03-10,Unknown,Unspecified,47500.0
+52,Insights Analyst,Redbridge Telecom,Edinburgh,55000.0,75000.0,2025-09-19,Unknown,Unspecified,65000.0
+899,Analytics Consultant,Alderly Bank,Birmingham,55000.0,75000.0,2026-02-11,Unknown,Mid,65000.0
+1348,Data Scientist,Fenwick Insurance,Sheffield,85000.0,85000.0,2025-08-29,Yes,Senior,85000.0
+688,Junior Data Scientist,Vantage Health,Remote,,,2026-01-30,Hybrid,Graduate,
+1285,Insights Analyst,Grove & Co,Glasgow,55000.0,75000.0,2025-03-12,Unknown,Unspecified,65000.0
+377,Business Intelligence Analyst,Solstice Energy,Birmingham,31500.0,31500.0,2025-09-13,Yes,Graduate,31500.0
+462,Analytics Consultant,BrightPath Retail,Glasgow,,,2026-01-17,Yes,Senior,
+1036,Insights Analyst,Marlowe Consulting,Leeds,,,2026-01-07,Hybrid,Graduate,
+598,Data Science Intern,Fenwick Insurance,London,63000.0,83000.0,2026-03-04,Yes,Senior,73000.0
+314,Data Science Intern,Orchard Media,London,,,2025-08-08,Yes,Mid,
+779,Data Scientist,Redbridge Telecom,Leeds,75000.0,95000.0,2025-02-12,Unknown,Senior,85000.0
+802,Machine Learning Engineer,Northwind Analytics,Manchester,85000.0,85000.0,2025-03-24,Unknown,Senior,85000.0
+116,Data Scientist II,Alderly Bank,Manchester,,,2025-12-20,Unknown,Senior,
+1320,Data Scientist II,Solstice Energy,Birmingham,28000.0,35000.0,2025-09-12,No,Junior,31500.0
+947,Data Analyst,Alderly Bank,Liverpool,,,2025-09-16,Unknown,Unspecified,
+718,Data Science Intern,Grove & Co,Sheffield,31500.0,31500.0,2025-05-31,Unknown,Junior,31500.0
+360,Data Engineer,Marlowe Consulting,London,45000.0,45000.0,2026-02-01,Hybrid,Junior,45000.0
+514,Junior Data Scientist,Orchard Media,Remote,,,2025-05-09,No,Graduate,
+700,Insights Analyst,Fenwick Insurance,London,45000.0,45000.0,2025-02-27,Unknown,Graduate,45000.0
+313,Machine Learning Engineer,Marlowe Consulting,Remote,55000.0,75000.0,2025-04-06,Unknown,Mid,65000.0
+30,Data Scientist II,Northwind Analytics,Edinburgh,,,2026-04-16,No,Junior,
+1165,Junior Data Scientist,Grove & Co,Leeds,,,2025-10-01,Yes,Unspecified,
+90,Insights Analyst,Solstice Energy,Bristol,47500.0,47500.0,2025-12-26,Yes,Mid,47500.0
+652,Insights Analyst,Grove & Co,Liverpool,28000.0,35000.0,2025-01-29,Hybrid,Junior,31500.0
+431,Junior Data Scientist,Vantage Health,Manchester,,,2026-01-26,Unknown,Mid,
+388,Machine Learning Engineer,Alderly Bank,Birmingham,40000.0,55000.0,2025-12-29,Unknown,Unspecified,47500.0
+1032,Analytics Consultant,Ashford Digital,Edinburgh,75000.0,95000.0,2025-09-24,Unknown,Senior,85000.0
+1457,Machine Learning Engineer,Solstice Energy,Edinburgh,,,2025-09-30,Unknown,Junior,
+85,Junior Data Scientist,Northwind Analytics,Bristol,,,2025-09-09,Yes,Junior,
+1223,Business Intelligence Analyst,Kestrel Logistics,Liverpool,40000.0,55000.0,2025-05-21,No,Unspecified,47500.0
+906,Machine Learning Engineer,Alderly Bank,Manchester,55000.0,75000.0,2025-05-06,Hybrid,Unspecified,65000.0
+293,Business Intelligence Analyst,Solstice Energy,Edinburgh,28000.0,35000.0,2025-04-06,Unknown,Junior,31500.0
+898,Data Science Intern,Orchard Media,Edinburgh,47500.0,47500.0,2025-12-20,Yes,Mid,47500.0
+1528,Data Science Intern,Orchard Media,Glasgow,,,2025-11-07,Yes,Graduate,
+1261,Business Intelligence Analyst,Kestrel Logistics,Remote,,,2025-11-08,Yes,Graduate,
+893,Data Science Intern,Solstice Energy,Sheffield,,,2025-09-06,Yes,Junior,
+496,Analytics Consultant,Alderly Bank,Liverpool,,,2025-06-01,No,Mid,
+139,Analytics Consultant,Marlowe Consulting,Sheffield,,,2026-05-01,Unknown,Junior,
+172,Data Engineer,Fenwick Insurance,Glasgow,40000.0,55000.0,2025-02-09,Yes,Mid,47500.0
+795,Analytics Consultant,Orchard Media,Edinburgh,28000.0,35000.0,2025-09-15,No,Junior,31500.0
+78,Analytics Consultant,Grove & Co,Glasgow,31500.0,31500.0,2025-04-24,Unknown,Junior,31500.0
+469,Insights Analyst,Marlowe Consulting,Birmingham,,,2026-04-24,Yes,Junior,
+229,Insights Analyst,Kestrel Logistics,London,,,2025-11-19,Yes,Unspecified,
+224,Data Engineer,Redbridge Telecom,Liverpool,28000.0,35000.0,2025-01-20,Unknown,Graduate,31500.0
+981,Data Science Intern,Grove & Co,Manchester,,,2025-05-03,Hybrid,Mid,
+961,Junior Data Scientist,Fenwick Insurance,Bristol,,,2025-10-08,Yes,Junior,
+74,Analytics Consultant,Orchard Media,Sheffield,75000.0,95000.0,2025-05-23,No,Senior,85000.0
+1204,Insights Analyst,Alderly Bank,Edinburgh,,,2026-04-24,Unknown,Junior,
+261,Insights Analyst,Northwind Analytics,Leeds,,,2025-01-18,Yes,Junior,
+1563,Junior Data Scientist,Orchard Media,Liverpool,40000.0,55000.0,2025-04-12,Unknown,Mid,47500.0
+1137,Analytics Consultant,Grove & Co,Manchester,,,2025-09-26,Yes,Junior,
+178,Data Analyst,Ashford Digital,Liverpool,55000.0,75000.0,2025-05-20,Yes,Senior,65000.0
+414,Analytics Consultant,Vantage Health,Edinburgh,85000.0,85000.0,2025-05-24,Unknown,Senior,85000.0
+809,Data Engineer,BrightPath Retail,Glasgow,,,2025-11-12,Unknown,Mid,
+223,Insights Analyst,BrightPath Retail,Birmingham,47500.0,47500.0,2025-10-13,No,Unspecified,47500.0
+536,Analytics Consultant,Solstice Energy,London,36000.0,43000.0,2025-01-18,Yes,Graduate,39500.0
+1168,Data Scientist II,Solstice Energy,Birmingham,31500.0,31500.0,2026-11-03,Hybrid,Junior,31500.0
+1594,Data Scientist II,Marlowe Consulting,Sheffield,,,2025-10-25,Unknown,Unspecified,
+587,Data Engineer,Alderly Bank,Glasgow,28000.0,35000.0,2025-01-31,Unknown,Graduate,31500.0
+1099,Data Analyst,Fenwick Insurance,Edinburgh,47500.0,47500.0,2025-06-01,Unknown,Mid,47500.0
+584,Data Scientist,Ashford Digital,Liverpool,85000.0,85000.0,2025-04-12,Yes,Senior,85000.0
+816,Data Scientist II,Solstice Energy,Glasgow,,,2025-09-16,Yes,Senior,
+1424,Analytics Consultant,Grove & Co,London,36000.0,43000.0,2025-12-02,Unknown,Junior,39500.0
+1527,Machine Learning Engineer,Kestrel Logistics,Bristol,28000.0,35000.0,2025-03-03,Unknown,Graduate,31500.0
+526,Data Engineer,Solstice Energy,Remote,,,2025-03-10,Unknown,Graduate,
+734,Data Scientist,Alderly Bank,London,,,2025-03-29,Yes,Junior,
+671,Data Scientist II,Vantage Health,Edinburgh,28000.0,35000.0,2026-06-01,Unknown,Junior,31500.0
+1100,Data Engineer,Orchard Media,Manchester,,,2026-02-25,Yes,Mid,
+376,Data Science Intern,Solstice Energy,London,55500.0,55500.0,2025-04-20,Hybrid,Unspecified,55500.0
+137,Analytics Consultant,Orchard Media,Remote,55000.0,75000.0,2026-06-04,Hybrid,Unspecified,65000.0
+1001,Junior Data Scientist,Fenwick Insurance,Sheffield,,,2025-02-02,Unknown,Unspecified,
+326,Business Intelligence Analyst,Fenwick Insurance,Manchester,28000.0,35000.0,2026-02-20,Yes,Junior,31500.0
+237,Data Engineer,Marlowe Consulting,Bristol,,,2026-01-15,No,Mid,
+235,Data Scientist II,Ashford Digital,Bristol,,,2026-02-24,No,Junior,
+1306,Machine Learning Engineer,Kestrel Logistics,Leeds,,,2026-04-18,Yes,Mid,
+145,Data Analyst,Fenwick Insurance,Liverpool,,,2025-04-26,Yes,Junior,
+457,Junior Data Scientist,Solstice Energy,Glasgow,55000.0,75000.0,2025-02-02,Unknown,Unspecified,65000.0
+1413,Data Analyst,Redbridge Telecom,Birmingham,55000.0,75000.0,2025-06-15,Yes,Mid,65000.0
+1358,Data Scientist,Alderly Bank,Manchester,75000.0,95000.0,2025-06-03,Unknown,Senior,85000.0
+264,Data Scientist II,Kestrel Logistics,Remote,,,2026-05-01,Unknown,Senior,
+920,Machine Learning Engineer,Solstice Energy,Manchester,55000.0,75000.0,2025-02-17,Unknown,Unspecified,65000.0
+1426,Data Science Intern,Grove & Co,London,55500.0,55500.0,2025-12-02,Unknown,Mid,55500.0
+1557,Data Engineer,Alderly Bank,Remote,,,2026-03-16,No,Junior,
+810,Analytics Consultant,Marlowe Consulting,Manchester,,,2025-12-22,Yes,Mid,
+1419,Data Scientist,Kestrel Logistics,Glasgow,28000.0,35000.0,2025-10-28,Hybrid,Graduate,31500.0
+1284,Data Engineer,Vantage Health,Birmingham,31500.0,31500.0,2025-06-06,Hybrid,Graduate,31500.0
+22,Data Analyst,Marlowe Consulting,Leeds,,,2025-03-09,Yes,Unspecified,
+1230,Data Scientist II,Marlowe Consulting,Birmingham,55000.0,75000.0,2025-01-16,No,Senior,65000.0
+520,Data Scientist II,Orchard Media,Sheffield,55000.0,75000.0,2025-08-18,Unknown,Senior,65000.0
+1000,Data Science Intern,Ashford Digital,Liverpool,,,2026-07-02,No,Senior,
+389,Insights Analyst,Fenwick Insurance,Leeds,47500.0,47500.0,2025-07-03,Unknown,Unspecified,47500.0
+570,Junior Data Scientist,Redbridge Telecom,Sheffield,,,2025-11-24,Yes,Graduate,
+1575,Analytics Consultant,Vantage Health,Leeds,28000.0,35000.0,2026-03-22,Unknown,Junior,31500.0
+852,Junior Data Scientist,Vantage Health,Birmingham,75000.0,95000.0,2025-08-01,No,Senior,85000.0
+21,Data Engineer,Northwind Analytics,Manchester,28000.0,35000.0,2026-09-04,Hybrid,Junior,31500.0
+1414,Junior Data Scientist,Marlowe Consulting,Glasgow,47500.0,47500.0,2025-09-14,No,Unspecified,47500.0
+839,Data Analyst,Orchard Media,Edinburgh,40000.0,55000.0,2025-02-27,Unknown,Unspecified,47500.0
+559,Analytics Consultant,Ashford Digital,Edinburgh,,,2025-10-13,Hybrid,Senior,
+1339,Insights Analyst,Vantage Health,Edinburgh,55000.0,75000.0,2025-06-07,Unknown,Senior,65000.0
+420,Machine Learning Engineer,Solstice Energy,Sheffield,,,2025-10-10,Hybrid,Mid,
+1579,Data Science Intern,Redbridge Telecom,Liverpool,,,2026-03-06,Yes,Junior,
+1455,Machine Learning Engineer,Alderly Bank,Sheffield,,,2025-12-01,Unknown,Unspecified,
+1169,Analytics Consultant,Alderly Bank,Liverpool,40000.0,55000.0,2025-01-29,No,Mid,47500.0
+1394,Business Intelligence Analyst,Ashford Digital,Liverpool,,,2026-01-08,Hybrid,Unspecified,
+866,Machine Learning Engineer,Ashford Digital,Glasgow,32000.0,42000.0,2025-07-04,Yes,Graduate,37000.0
+529,Machine Learning Engineer,BrightPath Retail,Birmingham,31500.0,31500.0,2026-03-14,Unknown,Graduate,31500.0
+1274,Data Science Intern,Fenwick Insurance,Leeds,55000.0,75000.0,2026-05-10,Unknown,Mid,65000.0
+1227,Data Science Intern,Fenwick Insurance,Glasgow,40000.0,55000.0,2026-08-04,Unknown,Mid,47500.0
+291,Data Science Intern,Alderly Bank,Sheffield,28000.0,35000.0,2026-01-01,Yes,Junior,31500.0
+320,Analytics Consultant,Grove & Co,Liverpool,,,2025-05-28,No,Graduate,
+1525,Data Scientist II,Grove & Co,Bristol,28000.0,35000.0,2026-03-22,Unknown,Junior,31500.0
+824,Insights Analyst,BrightPath Retail,Manchester,28000.0,35000.0,2025-01-11,Hybrid,Junior,31500.0
+762,Data Scientist II,Ashford Digital,Manchester,47500.0,47500.0,2025-05-03,Yes,Mid,47500.0
+468,Analytics Consultant,Kestrel Logistics,Edinburgh,,,2025-03-05,Unknown,Unspecified,
+799,Junior Data Scientist,BrightPath Retail,Remote,,,2026-01-23,Yes,Junior,
+678,Data Scientist,Solstice Energy,London,40000.0,50000.0,2025-08-07,No,Unspecified,45000.0
+1006,Analytics Consultant,Ashford Digital,Manchester,40000.0,55000.0,2025-06-08,Unknown,Mid,47500.0
+493,Data Science Intern,Orchard Media,Glasgow,40000.0,55000.0,2025-07-19,Yes,Unspecified,47500.0
+595,Data Analyst,Northwind Analytics,Birmingham,28000.0,35000.0,2025-06-09,Yes,Junior,31500.0
+1412,Business Intelligence Analyst,Ashford Digital,Sheffield,40000.0,55000.0,2026-06-02,No,Mid,47500.0
+422,Data Engineer,Grove & Co,Leeds,,,2025-01-11,Yes,Senior,
+782,Machine Learning Engineer,Vantage Health,Glasgow,,,2026-02-16,Hybrid,Mid,
+93,Analytics Consultant,BrightPath Retail,Glasgow,,,2025-10-04,Unknown,Unspecified,
+32,Data Engineer,Redbridge Telecom,Sheffield,,,2025-12-03,Yes,Graduate,
+1312,Data Scientist II,Solstice Energy,Leeds,,,2025-06-30,Yes,Graduate,
+1590,Insights Analyst,Grove & Co,Remote,,,2025-07-01,No,Mid,
+424,Business Intelligence Analyst,Orchard Media,Remote,40000.0,55000.0,2025-08-27,Unknown,Unspecified,47500.0
+1015,Data Engineer,Orchard Media,London,63000.0,83000.0,2025-06-17,Unknown,Senior,73000.0
+417,Data Scientist II,Alderly Bank,Manchester,32000.0,42000.0,2026-02-04,Yes,Graduate,37000.0
+1463,Data Analyst,Alderly Bank,Birmingham,47500.0,47500.0,2026-05-13,Unknown,Unspecified,47500.0
+150,Data Scientist,Grove & Co,Manchester,,,2025-11-07,Unknown,Unspecified,
+656,Data Analyst,Vantage Health,Glasgow,31500.0,31500.0,2025-09-27,Yes,Junior,31500.0
+1460,Machine Learning Engineer,Northwind Analytics,Sheffield,85000.0,85000.0,2025-12-12,Yes,Senior,85000.0
+454,Data Analyst,Orchard Media,Remote,,,2026-02-14,Unknown,Senior,
+381,Data Scientist,Vantage Health,London,,,2025-04-30,Yes,Graduate,
+937,Business Intelligence Analyst,Alderly Bank,Birmingham,31500.0,31500.0,2026-05-03,Unknown,Junior,31500.0
+440,Data Engineer,Kestrel Logistics,Edinburgh,,,2025-09-15,Hybrid,Mid,
+92,Business Intelligence Analyst,Alderly Bank,Manchester,,,2026-01-19,Hybrid,Mid,
+1560,Analytics Consultant,Grove & Co,Manchester,75000.0,95000.0,2026-02-05,Unknown,Senior,85000.0
+1395,Data Scientist II,Ashford Digital,Manchester,,,2026-01-30,Unknown,Mid,
+760,Data Science Intern,Vantage Health,Sheffield,28000.0,35000.0,2025-09-21,Hybrid,Junior,31500.0
+1552,Data Scientist II,Fenwick Insurance,Sheffield,,,2025-11-04,No,Unspecified,
+366,Insights Analyst,BrightPath Retail,Liverpool,,,2025-10-18,Unknown,Unspecified,
+1074,Data Scientist,Redbridge Telecom,Edinburgh,31500.0,31500.0,2026-03-11,Yes,Graduate,31500.0
+1042,Machine Learning Engineer,Alderly Bank,Glasgow,40000.0,55000.0,2025-01-07,Unknown,Mid,47500.0
+1513,Analytics Consultant,Fenwick Insurance,Liverpool,32000.0,42000.0,2025-04-20,Yes,Mid,37000.0
+889,Data Analyst,Northwind Analytics,Leeds,55000.0,75000.0,2025-11-29,Unknown,Mid,65000.0
+1402,Data Scientist II,Ashford Digital,Manchester,55000.0,75000.0,2025-01-20,Unknown,Mid,65000.0
+108,Data Scientist II,Redbridge Telecom,Edinburgh,,,2026-04-12,Yes,Unspecified,
+1102,Machine Learning Engineer,Orchard Media,Birmingham,,,2025-10-31,Hybrid,Graduate,
+721,Analytics Consultant,Kestrel Logistics,Sheffield,55000.0,75000.0,2025-03-15,Unknown,Mid,65000.0
+1556,Data Scientist,Ashford Digital,Remote,40000.0,55000.0,2025-03-15,Yes,Mid,47500.0
+789,Data Analyst,Redbridge Telecom,Edinburgh,37000.0,37000.0,2025-11-18,Unknown,Graduate,37000.0
+621,Data Engineer,Marlowe Consulting,Liverpool,,,2026-09-01,Unknown,Graduate,
+97,Machine Learning Engineer,Grove & Co,Manchester,,,2025-05-28,Unknown,Senior,
+58,Analytics Consultant,Solstice Energy,Bristol,75000.0,95000.0,2025-05-21,Yes,Senior,85000.0
+1095,Business Intelligence Analyst,Vantage Health,Remote,55000.0,75000.0,2026-04-29,Unknown,Unspecified,65000.0
+99,Data Scientist,Grove & Co,Liverpool,32000.0,42000.0,2025-09-23,Yes,Unspecified,37000.0
+1514,Business Intelligence Analyst,Fenwick Insurance,Liverpool,,,2025-04-18,Unknown,Junior,
+643,Insights Analyst,Northwind Analytics,Liverpool,55000.0,75000.0,2026-01-05,Yes,Unspecified,65000.0
+1313,Data Scientist II,Alderly Bank,Manchester,55000.0,75000.0,2025-10-19,No,Unspecified,65000.0
+356,Data Scientist,Solstice Energy,Sheffield,85000.0,85000.0,2026-01-31,Yes,Senior,85000.0
+1112,Data Engineer,Marlowe Consulting,Manchester,85000.0,85000.0,2025-05-16,Yes,Senior,85000.0
+1170,Data Analyst,Ashford Digital,Birmingham,37000.0,37000.0,2025-01-28,Yes,Junior,37000.0
+1532,Junior Data Scientist,Grove & Co,Edinburgh,,,2025-09-28,Unknown,Mid,
+629,Junior Data Scientist,BrightPath Retail,Remote (Uk),,,2025-05-04,No,Graduate,
+1081,Data Science Intern,Orchard Media,Birmingham,,,2025-02-04,Yes,Junior,
+113,Machine Learning Engineer,Fenwick Insurance,Remote,,,2025-12-16,No,Mid,
+1432,Business Intelligence Analyst,Alderly Bank,Sheffield,40000.0,55000.0,2025-05-20,No,Unspecified,47500.0
+1401,Data Scientist II,Marlowe Consulting,Manchester,,,2025-07-03,No,Unspecified,
+589,Machine Learning Engineer,Solstice Energy,Leeds,40000.0,55000.0,2025-09-05,Unknown,Unspecified,47500.0
+627,Machine Learning Engineer,Grove & Co,Edinburgh,,,2025-05-22,Unknown,Senior,
+992,Machine Learning Engineer,Vantage Health,Remote,55000.0,75000.0,2025-05-16,Yes,Mid,65000.0
+1150,Business Intelligence Analyst,Northwind Analytics,Bristol,,,2025-07-04,No,Mid,
+659,Data Scientist II,Ashford Digital,Glasgow,47500.0,47500.0,2025-10-04,Yes,Mid,47500.0
+214,Data Scientist,Alderly Bank,Glasgow,55000.0,75000.0,2025-06-24,No,Unspecified,65000.0
+1007,Analytics Consultant,Alderly Bank,Sheffield,,,2026-01-02,Unknown,Graduate,
+49,Data Engineer,Fenwick Insurance,Remote,75000.0,95000.0,2026-01-04,Yes,Senior,85000.0
+1005,Data Scientist,Alderly Bank,Edinburgh,40000.0,55000.0,2025-03-08,Unknown,Unspecified,47500.0
+169,Business Intelligence Analyst,Ashford Digital,Sheffield,,,2025-06-12,Hybrid,Senior,
+773,Data Scientist,Fenwick Insurance,Sheffield,47500.0,47500.0,2025-05-04,Yes,Unspecified,47500.0
+892,Business Intelligence Analyst,Redbridge Telecom,Remote,55000.0,75000.0,2025-11-19,Unknown,Senior,65000.0
+874,Insights Analyst,Alderly Bank,Leeds,75000.0,95000.0,2026-01-16,Yes,Senior,85000.0
+1283,Business Intelligence Analyst,Vantage Health,Sheffield,65000.0,65000.0,2026-02-16,No,Mid,65000.0
+600,Data Engineer,Redbridge Telecom,Birmingham,,,2025-12-26,Unknown,Junior,
+406,Data Science Intern,Marlowe Consulting,Glasgow,40000.0,55000.0,2025-07-22,Yes,Unspecified,47500.0
+1564,Machine Learning Engineer,Marlowe Consulting,Sheffield,,,2025-07-05,No,Graduate,
+278,Data Scientist,Northwind Analytics,Remote,32000.0,42000.0,2025-05-01,Yes,Mid,37000.0
+1598,Machine Learning Engineer,Ashford Digital,Liverpool,,,2026-05-03,Unknown,Unspecified,
+579,Business Intelligence Analyst,Alderly Bank,Glasgow,32000.0,42000.0,2025-01-08,No,Mid,37000.0
+412,Data Science Intern,Vantage Health,Remote,32000.0,42000.0,2025-03-30,Unknown,Graduate,37000.0
+1318,Machine Learning Engineer,Northwind Analytics,Birmingham,28000.0,35000.0,2025-05-01,Yes,Graduate,31500.0
+1119,Machine Learning Engineer,Ashford Digital,Leeds,40000.0,55000.0,2025-03-10,Unknown,Mid,47500.0
+1551,Junior Data Scientist,Redbridge Telecom,London,73000.0,73000.0,2025-03-07,Unknown,Unspecified,73000.0
+808,Data Science Intern,Vantage Health,Glasgow,,,2025-07-28,Unknown,Unspecified,
+1069,Data Science Intern,Kestrel Logistics,Leeds,28000.0,35000.0,2025-02-27,Hybrid,Junior,31500.0
+1090,Junior Data Scientist,BrightPath Retail,Liverpool,28000.0,35000.0,2025-09-17,Hybrid,Junior,31500.0
+1439,Machine Learning Engineer,Vantage Health,Birmingham,28000.0,35000.0,2025-08-13,Unknown,Graduate,31500.0
+1178,Data Science Intern,Orchard Media,Birmingham,75000.0,95000.0,2025-05-19,Yes,Senior,85000.0
+1080,Junior Data Scientist,Kestrel Logistics,Leeds,,,2025-02-22,No,Junior,
+657,Data Engineer,Ashford Digital,Leeds,,,2026-01-06,Yes,Junior,
+1342,Insights Analyst,Marlowe Consulting,Edinburgh,47500.0,47500.0,2026-01-28,Hybrid,Unspecified,47500.0
+1359,Data Scientist,Ashford Digital,Birmingham,,,2025-01-07,Unknown,Mid,
+187,Data Scientist II,Marlowe Consulting,Liverpool,55000.0,75000.0,2025-11-22,Hybrid,Unspecified,65000.0
+1065,Analytics Consultant,BrightPath Retail,Glasgow,40000.0,55000.0,2026-01-21,Unknown,Mid,47500.0
+203,Data Analyst,Grove & Co,Edinburgh,31500.0,31500.0,2026-12-03,Unknown,Junior,31500.0
+1211,Junior Data Scientist,Marlowe Consulting,Remote,85000.0,85000.0,2025-12-26,Yes,Senior,85000.0
+1450,Data Scientist,Kestrel Logistics,Sheffield,47500.0,47500.0,2025-06-24,Yes,Mid,47500.0
+1351,Junior Data Scientist,Orchard Media,Manchester,,,2026-11-01,Yes,Mid,
+984,Insights Analyst,Kestrel Logistics,Liverpool,40000.0,55000.0,2025-01-28,Hybrid,Mid,47500.0
+121,Junior Data Scientist,BrightPath Retail,Bristol,40000.0,55000.0,2025-03-09,Hybrid,Unspecified,47500.0
+86,Data Scientist,Alderly Bank,Birmingham,28000.0,35000.0,2025-10-13,Yes,Junior,31500.0
+828,Data Science Intern,Kestrel Logistics,Glasgow,31500.0,31500.0,2025-05-16,Hybrid,Graduate,31500.0
+386,Junior Data Scientist,Fenwick Insurance,Birmingham,28000.0,35000.0,2025-10-28,No,Junior,31500.0
+491,Data Science Intern,Grove & Co,Manchester,,,2026-01-03,Yes,Mid,
+290,Data Science Intern,Fenwick Insurance,London,63000.0,83000.0,2025-07-02,Unknown,Unspecified,73000.0
+749,Analytics Consultant,Northwind Analytics,Remote,55000.0,75000.0,2025-07-18,No,Mid,65000.0
+505,Machine Learning Engineer,Solstice Energy,Glasgow,,,2025-10-10,No,Senior,
+693,Data Scientist,Ashford Digital,Liverpool,28000.0,35000.0,2025-05-01,Unknown,Junior,31500.0
+135,Data Scientist II,BrightPath Retail,Manchester,,,2025-10-31,Unknown,Unspecified,
+1136,Data Scientist,Alderly Bank,Leeds,,,2026-05-15,Hybrid,Graduate,
+1370,Data Analyst,Solstice Energy,Remote,55000.0,75000.0,2025-05-23,Unknown,Senior,65000.0
+239,Analytics Consultant,BrightPath Retail,Birmingham,,,2025-12-01,Unknown,Graduate,
+918,Machine Learning Engineer,Kestrel Logistics,Sheffield,85000.0,85000.0,2025-12-08,Yes,Senior,85000.0
+797,Analytics Consultant,Fenwick Insurance,Bristol,,,2025-09-25,No,Mid,
+1123,Data Scientist,Orchard Media,Glasgow,75000.0,95000.0,2026-01-25,No,Senior,85000.0
+1349,Data Scientist,Alderly Bank,Edinburgh,,,2025-01-14,Yes,Senior,
+932,Data Scientist II,Grove & Co,Manchester,28000.0,35000.0,2026-05-05,Yes,Graduate,31500.0
+691,Data Engineer,Kestrel Logistics,Edinburgh,,,2026-01-03,Yes,Graduate,
+1256,Analytics Consultant,Redbridge Telecom,Liverpool,40000.0,55000.0,2025-05-23,No,Unspecified,47500.0
+318,Data Analyst,Grove & Co,Birmingham,31500.0,31500.0,2025-01-03,Hybrid,Junior,31500.0
+1236,Data Analyst,Solstice Energy,Birmingham,,,2025-07-29,Yes,Graduate,
+396,Data Analyst,Fenwick Insurance,Birmingham,,,2026-04-28,Hybrid,Mid,
+1020,Data Analyst,Orchard Media,Bristol,28000.0,35000.0,2026-01-31,No,Junior,31500.0
+205,Machine Learning Engineer,Marlowe Consulting,Sheffield,,,2026-03-29,Yes,Unspecified,
+343,Data Analyst,BrightPath Retail,Birmingham,37000.0,37000.0,2026-05-09,Hybrid,Graduate,37000.0
+1062,Insights Analyst,Solstice Energy,Remote (Uk),,,2026-04-26,Unknown,Junior,
+1209,Analytics Consultant,Grove & Co,Glasgow,47500.0,47500.0,2026-03-01,Unknown,Unspecified,47500.0
+370,Business Intelligence Analyst,BrightPath Retail,Manchester,55000.0,75000.0,2026-03-04,No,Senior,65000.0
+715,Junior Data Scientist,Fenwick Insurance,Liverpool,28000.0,35000.0,2025-07-30,Yes,Junior,31500.0
+221,Machine Learning Engineer,Orchard Media,Edinburgh,,,2025-10-15,Hybrid,Unspecified,
+597,Data Analyst,Northwind Analytics,Leeds,32000.0,42000.0,2025-07-04,Unknown,Junior,37000.0
+639,Data Science Intern,Orchard Media,London,,,2025-11-10,Yes,Unspecified,
+247,Business Intelligence Analyst,Fenwick Insurance,Bristol,75000.0,95000.0,2025-02-01,Yes,Senior,85000.0
+1101,Data Scientist II,Fenwick Insurance,Sheffield,,,2025-02-20,No,Graduate,
+80,Machine Learning Engineer,Ashford Digital,Glasgow,75000.0,95000.0,2025-03-03,No,Senior,85000.0
+1275,Data Scientist II,Solstice Energy,Liverpool,85000.0,85000.0,2025-07-20,Unknown,Senior,85000.0
+63,Analytics Consultant,Northwind Analytics,Remote,,,2026-04-16,Yes,Unspecified,
+912,Data Scientist II,Vantage Health,Edinburgh,,,2025-09-11,Unknown,Junior,
+305,Data Scientist II,Marlowe Consulting,Remote (Uk),,,2025-11-01,Yes,Junior,
+1040,Data Science Intern,Orchard Media,Manchester,,,2026-08-01,Hybrid,Graduate,
+1582,Data Science Intern,Grove & Co,London,36000.0,43000.0,2025-11-19,Yes,Graduate,39500.0
+1447,Data Scientist II,Grove & Co,Remote,,,2025-12-28,Yes,Unspecified,
+903,Junior Data Scientist,Ashford Digital,Liverpool,,,2026-08-05,Yes,Junior,
+363,Junior Data Scientist,Northwind Analytics,Remote,40000.0,55000.0,2026-05-02,Yes,Mid,47500.0
+767,Junior Data Scientist,Solstice Energy,Birmingham,31500.0,31500.0,2025-08-02,Yes,Graduate,31500.0
+1229,Data Scientist II,Northwind Analytics,Birmingham,,,2025-01-16,Yes,Junior,
+317,Insights Analyst,BrightPath Retail,Edinburgh,47500.0,47500.0,2026-04-16,Yes,Unspecified,47500.0
+1400,Data Scientist II,Solstice Energy,Liverpool,85000.0,85000.0,2025-08-25,Unknown,Senior,85000.0
+199,Insights Analyst,Alderly Bank,Glasgow,75000.0,95000.0,2025-10-21,Yes,Senior,85000.0
+708,Analytics Consultant,Alderly Bank,Liverpool,55000.0,75000.0,2025-01-11,Unknown,Senior,65000.0
+448,Data Engineer,Vantage Health,Liverpool,85000.0,85000.0,2025-03-24,Yes,Senior,85000.0
+1097,Data Scientist II,Redbridge Telecom,Birmingham,,,2025-07-14,Yes,Mid,
+373,Data Scientist,Northwind Analytics,Leeds,65000.0,65000.0,2025-12-18,Unknown,Mid,65000.0
+1021,Data Engineer,Fenwick Insurance,Leeds,,,2025-01-15,Hybrid,Junior,
+1272,Machine Learning Engineer,Marlowe Consulting,Sheffield,,,2026-01-08,Yes,Junior,
+1304,Data Scientist II,Vantage Health,Birmingham,,,2025-11-13,Yes,Graduate,
+387,Data Analyst,Marlowe Consulting,Edinburgh,,,2025-02-21,Hybrid,Senior,
+354,Data Scientist II,Ashford Digital,Bristol,85000.0,85000.0,2026-11-01,Yes,Senior,85000.0
+143,Machine Learning Engineer,Grove & Co,Manchester,75000.0,95000.0,2026-05-11,Yes,Senior,85000.0
+768,Junior Data Scientist,Solstice Energy,Edinburgh,37000.0,37000.0,2025-07-04,Yes,Unspecified,37000.0
+1154,Machine Learning Engineer,Ashford Digital,Manchester,,,2026-04-02,No,Mid,
+1164,Data Science Intern,Fenwick Insurance,Edinburgh,,,2025-11-05,Hybrid,Unspecified,
+628,Business Intelligence Analyst,Orchard Media,London,83000.0,103000.0,2025-06-24,Unknown,Senior,93000.0
+788,Business Intelligence Analyst,Orchard Media,Birmingham,32000.0,42000.0,2026-01-27,Unknown,Mid,37000.0
+670,Data Analyst,Solstice Energy,Liverpool,40000.0,55000.0,2025-06-24,Unknown,Unspecified,47500.0
+10,Data Science Intern,Vantage Health,Manchester,28000.0,35000.0,2025-12-02,Unknown,Graduate,31500.0
+26,Analytics Consultant,Kestrel Logistics,Manchester,28000.0,35000.0,2025-11-30,Yes,Graduate,31500.0
+1084,Business Intelligence Analyst,Grove & Co,Glasgow,28000.0,35000.0,2025-12-02,Unknown,Junior,31500.0
+4,Data Science Intern,Fenwick Insurance,Bristol,40000.0,55000.0,2025-02-17,Yes,Mid,47500.0
+346,Data Science Intern,BrightPath Retail,Leeds,,,2026-01-04,Hybrid,Graduate,
+196,Data Science Intern,Alderly Bank,Glasgow,37000.0,37000.0,2025-11-11,Hybrid,Unspecified,37000.0
+765,Data Analyst,Solstice Energy,Liverpool,40000.0,55000.0,2025-04-07,Yes,Unspecified,47500.0
+1399,Machine Learning Engineer,Alderly Bank,London,40000.0,50000.0,2025-05-18,No,Graduate,45000.0
+122,Data Scientist II,Marlowe Consulting,Bristol,85000.0,85000.0,2026-01-18,Yes,Senior,85000.0
+1141,Data Scientist,Marlowe Consulting,Glasgow,85000.0,85000.0,2025-12-29,Yes,Senior,85000.0
+125,Data Analyst,Grove & Co,Leeds,,,2025-04-24,Yes,Junior,
+1242,Analytics Consultant,Northwind Analytics,Bristol,,,2025-03-29,Hybrid,Junior,
+42,Data Analyst,Fenwick Insurance,Liverpool,28000.0,35000.0,2026-03-19,No,Graduate,31500.0
+528,Insights Analyst,Marlowe Consulting,Manchester,32000.0,42000.0,2025-12-19,Unknown,Junior,37000.0
+1073,Junior Data Scientist,Vantage Health,Leeds,,,2025-05-26,Unknown,Unspecified,
+1540,Data Analyst,BrightPath Retail,Birmingham,40000.0,55000.0,2026-04-27,Unknown,Mid,47500.0
+696,Business Intelligence Analyst,Grove & Co,Birmingham,28000.0,35000.0,2025-03-15,Unknown,Junior,31500.0
+168,Insights Analyst,Northwind Analytics,Edinburgh,,,2025-12-14,Hybrid,Senior,
+1297,Data Engineer,Alderly Bank,Liverpool,65000.0,65000.0,2025-05-29,Yes,Unspecified,65000.0
+1326,Analytics Consultant,Alderly Bank,Bristol,,,2025-02-12,Hybrid,Senior,
